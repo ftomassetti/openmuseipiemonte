@@ -28,18 +28,23 @@ out  = '../data/museums_by_categories.json'
 
 data = JSON.parse(File.read(path))['File']['Row']
 
-categories = {}
+res = {}
 
 data.each do |m|
-	categories[m['nome_categoria']] = {} unless categories[m['nome_categoria']]
-	categories[m['nome_categoria']][m['id_pubblico']] = m
+	prov = m['nome_provincia']
+	cat = m['nome_categoria']
+	id = m['id_pubblico']
+	res[prov] = {} unless res[prov]
+	res[prov][cat] = {} unless res[prov][cat]
+	res[prov][cat][id] = m
 end
 tot = 0 
-categories.keys.each do |c|
-	puts "Cat #{c} #{categories[c].count}"
-	tot += categories[c].count
+res.keys.each do |p|
+	puts "== Prov #{p} =="
+	res[p].keys.each do |c|
+		puts "\t#{c} #{res[p][c].count}"
+	end
 end
-puts "Tot=#{tot}"
 File.open(out, 'w') do |file| 		
-	file.write(JSON.pretty_generate(categories))
+	file.write(JSON.pretty_generate(res))
 end
