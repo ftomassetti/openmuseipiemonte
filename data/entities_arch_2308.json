@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925905,
+    "label": "Lago Maggiore",
+    "extractorType": "Lake",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lake_Maggiore",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 217,
+    "endChar": 230
+  }
+]

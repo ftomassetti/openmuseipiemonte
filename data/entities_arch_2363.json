@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925910,
+    "label": "Verbania",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Verbania",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1305,
+    "endChar": 1313
+  },
+  {
+    "idEntity": 1925909,
+    "label": "Casanova",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Casanova%2C_Haute-Corse",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 282,
+    "endChar": 290
+  },
+  {
+    "idEntity": 1925908,
+    "label": "Valle",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Bale_%28town%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 273,
+    "endChar": 278
+  }
+]

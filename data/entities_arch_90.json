@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1925856,
+    "label": "Abramo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Abraham",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 763,
+    "endChar": 769
+  },
+  {
+    "idEntity": 1925853,
+    "label": "Lago Maggiore",
+    "extractorType": "Lake",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lake_Maggiore",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 191,
+    "endChar": 204
+  },
+  {
+    "idEntity": 1925852,
+    "label": "Ghiffa",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ghiffa",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 155,
+    "endChar": 161
+  },
+  {
+    "idEntity": 1925851,
+    "label": "Sacro Monte",
+    "extractorType": "WorldHeritageSite",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Sacri_Monti_of_Piedmont_and_Lombardy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 115,
+    "endChar": 126
+  },
+  {
+    "idEntity": 1925855,
+    "label": "Oggebbio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Oggebbio",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 220,
+    "endChar": 228
+  },
+  {
+    "idEntity": 1925854,
+    "label": "Verbania",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Verbania",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 209,
+    "endChar": 217
+  },
+  {
+    "idEntity": 1925857,
+    "label": "Crucis",
+    "extractorType": "Band",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Crucis_%28band%29",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 896,
+    "endChar": 902
+  }
+]

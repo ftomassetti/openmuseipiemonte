@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925925,
+    "label": "Arturo Toscanini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Arturo_Toscanini",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 700,
+    "endChar": 716
+  },
+  {
+    "idEntity": 1925924,
+    "label": "Isolino di San Giovanni",
+    "extractorType": "Island",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Isolino_di_San_Giovanni",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 2,
+    "endChar": 25
+  }
+]

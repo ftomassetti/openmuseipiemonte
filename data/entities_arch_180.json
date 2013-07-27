@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1925874,
+    "label": "Giovanni Visconti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Giovanni_Visconti",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 118,
+    "endChar": 135
+  },
+  {
+    "idEntity": 1925873,
+    "label": "Vogogna",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Vogogna",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 31,
+    "endChar": 38
+  },
+  {
+    "idEntity": 1925875,
+    "label": "Vogogna",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Vogogna",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 155,
+    "endChar": 162
+  },
+  {
+    "idEntity": 1925876,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1287,
+    "endChar": 1298
+  }
+]

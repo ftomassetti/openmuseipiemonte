@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1925916,
+    "label": "Margherita di Savoia",
+    "extractorType": "BritishRoyalty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Margherita_of_Savoy",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 405,
+    "endChar": 425
+  },
+  {
+    "idEntity": 1925912,
+    "label": "Antonio Rosmini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Antonio_Rosmini-Serbati",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 214,
+    "endChar": 229
+  },
+  {
+    "idEntity": 1925914,
+    "label": "Elisabetta di Sassonia",
+    "extractorType": "BritishRoyalty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Princess_Elisabeth_of_Saxony",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 351,
+    "endChar": 373
+  },
+  {
+    "idEntity": 1925911,
+    "label": "Stresa",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Stresa",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 35,
+    "endChar": 41
+  },
+  {
+    "idEntity": 1925915,
+    "label": "Genova",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Genoa",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 387,
+    "endChar": 393
+  },
+  {
+    "idEntity": 1925913,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 338,
+    "endChar": 347
+  }
+]

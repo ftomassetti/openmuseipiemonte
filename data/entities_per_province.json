@@ -183,28 +183,28 @@
   ],
   "Verbania": [
     {
+      "uri": "http://dbpedia.org/resource/Lake_Maggiore",
+      "count": 10
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+      "count": 7
+    },
+    {
       "uri": "http://dbpedia.org/resource/Italy",
+      "count": 6
+    },
+    {
+      "uri": "http://dbpedia.org/resource/1900_%28film%29",
+      "count": 5
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Antonio_Rosmini-Serbati",
       "count": 4
     },
     {
-      "uri": "http://dbpedia.org/resource/Alps",
-      "count": 3
-    },
-    {
-      "uri": "http://dbpedia.org/resource/Quarna_Sotto",
-      "count": 2
-    },
-    {
-      "uri": "http://dbpedia.org/resource/Padua",
-      "count": 2
-    },
-    {
-      "uri": "http://dbpedia.org/resource/Lago_%28commune%29",
-      "count": 2
-    },
-    {
-      "uri": "http://dbpedia.org/resource/Milan",
-      "count": 2
+      "uri": "http://dbpedia.org/resource/Domodossola",
+      "count": 4
     }
   ]
 }
