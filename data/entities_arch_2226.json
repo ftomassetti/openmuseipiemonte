@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1923701,
+    "label": "Castellamonte",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Castellamonte",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1298,
+    "endChar": 1311
+  }
+]

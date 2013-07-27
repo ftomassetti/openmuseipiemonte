@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924651,
+    "label": "Giorgetto Giugiaro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Giorgetto_Giugiaro",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 698,
+    "endChar": 716
+  },
+  {
+    "idEntity": 1924652,
+    "label": "Lattes",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lattes%2C_H%C3%A9rault",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 732,
+    "endChar": 738
+  },
+  {
+    "idEntity": 1924650,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 427,
+    "endChar": 436
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1923221,
+    "label": "Gattinara",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Gattinara",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 260,
+    "endChar": 269
+  },
+  {
+    "idEntity": 1923223,
+    "label": "Madonna",
+    "extractorType": "MusicalArtist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 834,
+    "endChar": 841
+  },
+  {
+    "idEntity": 1923224,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 875,
+    "endChar": 881
+  },
+  {
+    "idEntity": 1923219,
+    "label": "Posta",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Posta_%28RI%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 5
+  },
+  {
+    "idEntity": 1923222,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 393,
+    "endChar": 399
+  },
+  {
+    "idEntity": 1923220,
+    "label": "Francesco",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Francesco_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 247,
+    "endChar": 256
+  }
+]

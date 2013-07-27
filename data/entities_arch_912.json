@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1924902,
+    "label": "Chieri",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Chieri",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 369,
+    "endChar": 375
+  },
+  {
+    "idEntity": 1924901,
+    "label": "Vero",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Verus_%28senator%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 4
+  }
+]

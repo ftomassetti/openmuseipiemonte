@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925139,
+    "label": "Licata",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Licata",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 502,
+    "endChar": 508
+  },
+  {
+    "idEntity": 1925138,
+    "label": "Centro",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Centre_%28region%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 23,
+    "endChar": 29
+  },
+  {
+    "idEntity": 1925140,
+    "label": "Baj",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Baj%2C_Hungary",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 527,
+    "endChar": 530
+  }
+]

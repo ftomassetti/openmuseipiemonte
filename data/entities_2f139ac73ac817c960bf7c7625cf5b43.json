@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925263,
+    "label": "Rocchetta Ligure",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Rocchetta_Ligure",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 87,
+    "endChar": 103
+  },
+  {
+    "idEntity": 1925262,
+    "label": "Liberazione",
+    "extractorType": "Newspaper",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Liberazione_%28newspaper%29",
+    "confidence": 0.82062,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 61,
+    "endChar": 72
+  }
+]

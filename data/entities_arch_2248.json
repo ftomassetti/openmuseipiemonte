@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1923754,
+    "label": "Libano",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lebanon",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 215,
+    "endChar": 221
+  },
+  {
+    "idEntity": 1923753,
+    "label": "Xavier KÃ¼rten",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.919444,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 32,
+    "endChar": 46
+  },
+  {
+    "idEntity": 1923755,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.825926,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 352,
+    "endChar": 358
+  }
+]

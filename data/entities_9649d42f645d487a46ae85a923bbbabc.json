@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925821,
+    "label": "Gustave Flaubert",
+    "extractorType": "Writer",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Gustave_Flaubert",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 101,
+    "endChar": 117
+  },
+  {
+    "idEntity": 1925822,
+    "label": "Lago Maggiore",
+    "extractorType": "Lake",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lake_Maggiore",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 149,
+    "endChar": 162
+  },
+  {
+    "idEntity": 1925823,
+    "label": "Isole Borromee",
+    "extractorType": "Island",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Borromean_Islands",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 184,
+    "endChar": 198
+  }
+]

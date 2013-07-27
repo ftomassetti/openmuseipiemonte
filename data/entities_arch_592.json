@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925201,
+    "label": "Gerusalemme",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Jerusalem",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 95,
+    "endChar": 106
+  },
+  {
+    "idEntity": 1925203,
+    "label": "Asti",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Asti",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1359,
+    "endChar": 1363
+  },
+  {
+    "idEntity": 1925202,
+    "label": "Trenta",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Trenta%2C_Italy",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1178,
+    "endChar": 1184
+  }
+]

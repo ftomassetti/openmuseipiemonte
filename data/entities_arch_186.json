@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1925161,
+    "label": "Carlo Emanuele I di Savoia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Charles_Emmanuel_I%2C_Duke_of_Savoy",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 182,
+    "endChar": 208
+  },
+  {
+    "idEntity": 1925159,
+    "label": "Castell'Alfero",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Castell%27Alfero",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 31,
+    "endChar": 45
+  },
+  {
+    "idEntity": 1925160,
+    "label": "Asti",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Asti",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 111,
+    "endChar": 115
+  },
+  {
+    "idEntity": 1925163,
+    "label": "Ceva",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ceva",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 267,
+    "endChar": 271
+  },
+  {
+    "idEntity": 1925162,
+    "label": "Castell'Alfero",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Castell%27Alfero",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 229,
+    "endChar": 243
+  },
+  {
+    "idEntity": 1925164,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 503,
+    "endChar": 509
+  }
+]

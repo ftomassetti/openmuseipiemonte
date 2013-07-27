@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925098,
+    "label": "Giuseppe Marello",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/Joseph_Marello",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 71,
+    "endChar": 87
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925181,
+    "label": "Cortanze",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cortanze",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 15,
+    "endChar": 23
+  },
+  {
+    "idEntity": 1925182,
+    "label": "Asti",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Asti",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 540,
+    "endChar": 544
+  }
+]

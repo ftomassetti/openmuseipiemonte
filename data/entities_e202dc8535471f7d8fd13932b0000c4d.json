@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1925646,
+    "label": "Mongrando",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Mongrando",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 398,
+    "endChar": 407
+  },
+  {
+    "idEntity": 1925643,
+    "label": "Netro",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Netro_%28BI%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 294,
+    "endChar": 299
+  },
+  {
+    "idEntity": 1925644,
+    "label": "Mongrando",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Mongrando",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 302,
+    "endChar": 311
+  },
+  {
+    "idEntity": 1925645,
+    "label": "Ultimo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ulten",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 313,
+    "endChar": 319
+  },
+  {
+    "idEntity": 1925642,
+    "label": "Serra",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Serra%2C_Valencia",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 56,
+    "endChar": 61
+  }
+]

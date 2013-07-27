@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1922300,
+    "label": "Piscina",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.918258,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 70,
+    "endChar": 77
+  }
+]

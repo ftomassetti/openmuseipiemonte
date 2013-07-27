@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1923195,
+    "label": "La chiesa",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Church_%28film%29",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 9
+  },
+  {
+    "idEntity": 1923199,
+    "label": "Guarino Guarini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.792757,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 407,
+    "endChar": 422
+  },
+  {
+    "idEntity": 1923196,
+    "label": "Emanuele Filiberto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.673824,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 47,
+    "endChar": 65
+  },
+  {
+    "idEntity": 1923197,
+    "label": "San Quintino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.645515,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 113,
+    "endChar": 125
+  },
+  {
+    "idEntity": 1923198,
+    "label": "San Lorenzo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.643309,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 150,
+    "endChar": 161
+  },
+  {
+    "idEntity": 1923200,
+    "label": "Antonio Dupuy",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.612181,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 555,
+    "endChar": 568
+  }
+]

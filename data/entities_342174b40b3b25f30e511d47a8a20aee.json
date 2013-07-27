@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1922594,
+    "label": "professor Giacomo Rodolfo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.911785,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 76,
+    "endChar": 101
+  },
+  {
+    "idEntity": 1922595,
+    "label": "Carignano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Carignano",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 210,
+    "endChar": 219
+  },
+  {
+    "idEntity": 1922598,
+    "label": "Carignano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Carignano",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 755,
+    "endChar": 764
+  },
+  {
+    "idEntity": 1922596,
+    "label": "Bernardo Vittone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.5725,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 692,
+    "endChar": 708
+  },
+  {
+    "idEntity": 1922597,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.521136,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 711,
+    "endChar": 728
+  }
+]

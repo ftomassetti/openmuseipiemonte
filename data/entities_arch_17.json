@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925384,
+    "label": "Novi Ligure",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Novi_Ligure",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 26,
+    "endChar": 37
+  },
+  {
+    "idEntity": 1925385,
+    "label": "Repubblica di Genova",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Republic_of_Genoa",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 425,
+    "endChar": 445
+  },
+  {
+    "idEntity": 1925386,
+    "label": "Novi",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Novi%2C_Michigan",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 539,
+    "endChar": 543
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1924857,
+    "label": "Vasto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Vasto",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 197,
+    "endChar": 202
+  },
+  {
+    "idEntity": 1924855,
+    "label": "Tiglieto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Tiglieto",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 134,
+    "endChar": 142
+  },
+  {
+    "idEntity": 1924856,
+    "label": "Saluzzo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Saluzzo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 173,
+    "endChar": 180
+  },
+  {
+    "idEntity": 1924858,
+    "label": "La chiesa",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Church_%28film%29",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 995,
+    "endChar": 1004
+  },
+  {
+    "idEntity": 1924854,
+    "label": "Abbazia",
+    "extractorType": "Town",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Opatija",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 116,
+    "endChar": 123
+  },
+  {
+    "idEntity": 1924859,
+    "label": "San Bernardo",
+    "extractorType": "Town",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/San_Bernardo%2C_Nari%C3%B1o",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1498,
+    "endChar": 1510
+  }
+]

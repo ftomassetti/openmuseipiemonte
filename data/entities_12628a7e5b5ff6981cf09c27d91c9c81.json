@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1924574,
+    "label": "Vernante",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Vernante",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 171,
+    "endChar": 179
+  },
+  {
+    "idEntity": 1924572,
+    "label": "Attilio Mussino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.925,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 15
+  },
+  {
+    "idEntity": 1924573,
+    "label": "Pinocchio",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Pinocchio_%281940_film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 102,
+    "endChar": 111
+  },
+  {
+    "idEntity": 1924575,
+    "label": "Pinocchio",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Pinocchio_%281940_film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 456,
+    "endChar": 465
+  }
+]

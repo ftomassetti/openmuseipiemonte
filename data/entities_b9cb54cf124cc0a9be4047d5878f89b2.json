@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1922480,
+    "label": "Ipazia",
+    "extractorType": "Philosopher",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Hypatia",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 925,
+    "endChar": 931
+  },
+  {
+    "idEntity": 1922481,
+    "label": "Galileo, Lagrange, Hubble, Einstein",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.699653,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 933,
+    "endChar": 968
+  },
+  {
+    "idEntity": 1922477,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.699438,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 349,
+    "endChar": 355
+  },
+  {
+    "idEntity": 1922478,
+    "label": "d'Europa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.689483,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 570,
+    "endChar": 578
+  },
+  {
+    "idEntity": 1922479,
+    "label": "dell'Universo",
+    "extractorType": "FieldTerminology",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.686516,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 666,
+    "endChar": 679
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1922488,
+    "label": "Gas",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Gas%2C_Eure-et-Loir",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 141,
+    "endChar": 144
+  },
+  {
+    "idEntity": 1922491,
+    "label": "Baptista van Helmont, J. Peter Minckelers",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.683311,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 681,
+    "endChar": 722
+  },
+  {
+    "idEntity": 1922489,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.61,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 153,
+    "endChar": 159
+  },
+  {
+    "idEntity": 1922490,
+    "label": "Museo Italgas",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.578502,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 369,
+    "endChar": 382
+  }
+]

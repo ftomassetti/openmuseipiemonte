@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925502,
+    "label": "Novi Ligure",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Novi_Ligure",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 41,
+    "endChar": 52
+  },
+  {
+    "idEntity": 1925501,
+    "label": "Santa Maria Maggiore",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Santa_Maria_Maggiore_%28VB%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 17,
+    "endChar": 37
+  },
+  {
+    "idEntity": 1925503,
+    "label": "Oriente",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Diocese_of_the_East",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 653,
+    "endChar": 660
+  }
+]

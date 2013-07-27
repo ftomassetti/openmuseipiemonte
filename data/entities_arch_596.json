@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925238,
+    "label": "Vittorio Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Vittorio_Alfieri",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 463,
+    "endChar": 479
+  }
+]

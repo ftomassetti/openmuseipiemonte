@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925651,
+    "label": "Biella",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Biella",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 46,
+    "endChar": 52
+  },
+  {
+    "idEntity": 1925652,
+    "label": "Borgosesia",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Borgosesia",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 55,
+    "endChar": 65
+  },
+  {
+    "idEntity": 1925653,
+    "label": "Centro",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Centre_%28region%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 688,
+    "endChar": 694
+  }
+]

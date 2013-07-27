@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1925007,
+    "label": "Giovanni Battista Beccaria",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Giovanni_Battista_Beccaria",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 333,
+    "endChar": 359
+  },
+  {
+    "idEntity": 1925005,
+    "label": "La Torre",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/La_Torre",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 8
+  },
+  {
+    "idEntity": 1925008,
+    "label": "Piemonte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Piedmont",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 448,
+    "endChar": 456
+  },
+  {
+    "idEntity": 1925006,
+    "label": "Belvedere",
+    "extractorType": "Band",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Belvedere_%28band%29",
+    "confidence": 0.882,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 13,
+    "endChar": 22
+  },
+  {
+    "idEntity": 1925009,
+    "label": "Belvedere",
+    "extractorType": "Band",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Belvedere_%28band%29",
+    "confidence": 0.882,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 759,
+    "endChar": 768
+  }
+]

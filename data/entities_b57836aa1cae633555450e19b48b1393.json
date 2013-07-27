@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1925327,
+    "label": "Stazzano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Stazzano",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 57,
+    "endChar": 65
+  },
+  {
+    "idEntity": 1925328,
+    "label": "Liguria",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Liguria",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 616,
+    "endChar": 623
+  },
+  {
+    "idEntity": 1925329,
+    "label": "Piemonte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Piedmont",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 630,
+    "endChar": 638
+  },
+  {
+    "idEntity": 1925330,
+    "label": "Alessandria",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alessandria",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 787,
+    "endChar": 798
+  }
+]

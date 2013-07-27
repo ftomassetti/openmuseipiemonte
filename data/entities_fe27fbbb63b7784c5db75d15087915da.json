@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1922186,
+    "label": "Giaveno",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Giaveno",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 118,
+    "endChar": 125
+  },
+  {
+    "idEntity": 1922185,
+    "label": "Francesco Garnier Valletti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.901667,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 90,
+    "endChar": 116
+  }
+]

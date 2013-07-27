@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925513,
+    "label": "San Cristoforo",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/Saint_Christopher",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1190,
+    "endChar": 1204
+  },
+  {
+    "idEntity": 1925514,
+    "label": "Cristo Redentore",
+    "extractorType": "ProtectedArea",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Christ_the_Redeemer_%28statue%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1342,
+    "endChar": 1358
+  },
+  {
+    "idEntity": 1925512,
+    "label": "La chiesa",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Church_%28film%29",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 695,
+    "endChar": 704
+  }
+]

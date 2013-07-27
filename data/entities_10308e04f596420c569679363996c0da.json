@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922251,
+    "label": "Andezeno",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Andezeno",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 25,
+    "endChar": 33
+  },
+  {
+    "idEntity": 1922252,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 158,
+    "endChar": 167
+  },
+  {
+    "idEntity": 1922253,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 385,
+    "endChar": 394
+  }
+]

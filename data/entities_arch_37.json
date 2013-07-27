@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924723,
+    "label": "Serralunga d'Alba",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Serralunga_d%27Alba",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 448,
+    "endChar": 465
+  },
+  {
+    "idEntity": 1924722,
+    "label": "Dogliani",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Dogliani",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 409,
+    "endChar": 417
+  },
+  {
+    "idEntity": 1924721,
+    "label": "Alba",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alba%2C_Aragon",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 28,
+    "endChar": 32
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1924488,
+    "label": "Roma",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Rome",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 469,
+    "endChar": 473
+  },
+  {
+    "idEntity": 1924486,
+    "label": "Savigliano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savigliano",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 198,
+    "endChar": 208
+  },
+  {
+    "idEntity": 1924489,
+    "label": "XVIII secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.686059,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 563,
+    "endChar": 575
+  },
+  {
+    "idEntity": 1924485,
+    "label": "San Francesco",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.584638,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 43,
+    "endChar": 56
+  },
+  {
+    "idEntity": 1924487,
+    "label": "Davide Calandra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.553092,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 290,
+    "endChar": 305
+  },
+  {
+    "idEntity": 1924490,
+    "label": "Attilio Bonino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.530435,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 651,
+    "endChar": 665
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1924317,
+    "label": "Alessandro Antonelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Alessandro_Antonelli",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 122,
+    "endChar": 142
+  }
+]

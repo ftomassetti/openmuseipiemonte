@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1923700,
+    "label": "Xavier KÃ¼rten",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.903676,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 153,
+    "endChar": 167
+  },
+  {
+    "idEntity": 1923699,
+    "label": "Opera",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Opera_%28MI%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 144,
+    "endChar": 149
+  }
+]

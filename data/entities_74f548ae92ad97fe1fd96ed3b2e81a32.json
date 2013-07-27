@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1924114,
+    "label": "Antonio Rosmini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Antonio_Rosmini-Serbati",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 297,
+    "endChar": 312
+  },
+  {
+    "idEntity": 1924113,
+    "label": "Alessandro Manzoni",
+    "extractorType": "Writer",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Alessandro_Manzoni",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 84,
+    "endChar": 102
+  },
+  {
+    "idEntity": 1924112,
+    "label": "Palazzo Stampa",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.73668,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 2,
+    "endChar": 16
+  },
+  {
+    "idEntity": 1924115,
+    "label": "Giulio Carcano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.563238,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 346,
+    "endChar": 360
+  }
+]

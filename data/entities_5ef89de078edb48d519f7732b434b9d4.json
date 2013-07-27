@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1925338,
+    "label": "Casalnoceto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Casalnoceto",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 61,
+    "endChar": 72
+  },
+  {
+    "idEntity": 1925341,
+    "label": "Volpedo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Volpedo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 461,
+    "endChar": 468
+  },
+  {
+    "idEntity": 1925342,
+    "label": "Casalnoceto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Casalnoceto",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 496,
+    "endChar": 507
+  },
+  {
+    "idEntity": 1925339,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 156,
+    "endChar": 165
+  },
+  {
+    "idEntity": 1925340,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 246,
+    "endChar": 255
+  }
+]

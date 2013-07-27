@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1922842,
+    "label": "Martin van Heemskerk",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.881685,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 703,
+    "endChar": 723
+  },
+  {
+    "idEntity": 1922837,
+    "label": "Carlo Alberto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.851522,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 205,
+    "endChar": 218
+  },
+  {
+    "idEntity": 1922838,
+    "label": "Gaudenzio Ferrari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.821739,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 293,
+    "endChar": 310
+  },
+  {
+    "idEntity": 1922839,
+    "label": "Filippo Lippi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.765797,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 652,
+    "endChar": 665
+  },
+  {
+    "idEntity": 1922840,
+    "label": "Ignazio Collino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.689928,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 667,
+    "endChar": 682
+  },
+  {
+    "idEntity": 1922841,
+    "label": "Giuseppe Bagetti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.689058,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 684,
+    "endChar": 700
+  }
+]

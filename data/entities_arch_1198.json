@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1923585,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.891169,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 297,
+    "endChar": 303
+  },
+  {
+    "idEntity": 1923583,
+    "label": "Porta Principalis",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.877015,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 62,
+    "endChar": 79
+  },
+  {
+    "idEntity": 1923584,
+    "label": "Augusta Taurinorum",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.84306,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 191,
+    "endChar": 209
+  },
+  {
+    "idEntity": 1923586,
+    "label": "Porta Palatii",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.81607,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 539,
+    "endChar": 552
+  }
+]

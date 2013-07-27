@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925738,
+    "label": "Biella",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Biella",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 57,
+    "endChar": 63
+  },
+  {
+    "idEntity": 1925739,
+    "label": "Biella",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Biella",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 674,
+    "endChar": 680
+  }
+]

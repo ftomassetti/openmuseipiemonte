@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925093,
+    "label": "Saluzzo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Saluzzo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 124,
+    "endChar": 131
+  }
+]

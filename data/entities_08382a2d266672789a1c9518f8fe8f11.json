@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925793,
+    "label": "Valstrona",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Valstrona",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 97,
+    "endChar": 106
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1922141,
+    "label": "Valli Valdesi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.912931,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 48,
+    "endChar": 61
+  }
+]

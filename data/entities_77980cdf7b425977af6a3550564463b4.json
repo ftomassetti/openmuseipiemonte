@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1924479,
+    "label": "Foix",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Foix",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 408,
+    "endChar": 412
+  },
+  {
+    "idEntity": 1924476,
+    "label": "Palazzo Marchionale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.922727,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 22,
+    "endChar": 41
+  },
+  {
+    "idEntity": 1924478,
+    "label": "Margherita",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Margherita%2C_Assam",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 394,
+    "endChar": 404
+  },
+  {
+    "idEntity": 1924477,
+    "label": "Carlo Denina",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.833068,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 143,
+    "endChar": 155
+  },
+  {
+    "idEntity": 1924481,
+    "label": "Saluzzo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.813068,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 449,
+    "endChar": 456
+  },
+  {
+    "idEntity": 1924483,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.805682,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 533,
+    "endChar": 540
+  },
+  {
+    "idEntity": 1924480,
+    "label": "Ludovico II",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.785341,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 424,
+    "endChar": 435
+  },
+  {
+    "idEntity": 1924482,
+    "label": "San Luigi IX",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.753523,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 508,
+    "endChar": 520
+  },
+  {
+    "idEntity": 1924484,
+    "label": "Santa Margherita d'Antiochia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.749545,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 544,
+    "endChar": 572
+  }
+]

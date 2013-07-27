@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1922578,
+    "label": "Val Germanasca",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.8505,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 19,
+    "endChar": 33
+  },
+  {
+    "idEntity": 1922580,
+    "label": "Val Germanasca",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.8505,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 143,
+    "endChar": 157
+  },
+  {
+    "idEntity": 1922579,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.7075,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 46,
+    "endChar": 52
+  },
+  {
+    "idEntity": 1922581,
+    "label": "Occitane",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.6945,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 215,
+    "endChar": 223
+  },
+  {
+    "idEntity": 1922582,
+    "label": "Paola",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.58,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 348,
+    "endChar": 353
+  },
+  {
+    "idEntity": 1922583,
+    "label": "Gianna",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.554,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 356,
+    "endChar": 362
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925448,
+    "label": "Liguria",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Liguria",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 100,
+    "endChar": 107
+  },
+  {
+    "idEntity": 1925447,
+    "label": "Prasco",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Prasco",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 15,
+    "endChar": 21
+  },
+  {
+    "idEntity": 1925446,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 11
+  }
+]

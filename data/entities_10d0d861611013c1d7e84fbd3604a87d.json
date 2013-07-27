@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922416,
+    "label": "San Giuseppe",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/Saint_Joseph",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 292,
+    "endChar": 304
+  },
+  {
+    "idEntity": 1922415,
+    "label": "Leonardo Murialdo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.884921,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 120,
+    "endChar": 137
+  },
+  {
+    "idEntity": 1922414,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.882857,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 54,
+    "endChar": 60
+  }
+]

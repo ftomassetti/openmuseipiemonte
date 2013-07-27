@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1925751,
+    "label": "Trivero",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Trivero",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 318,
+    "endChar": 325
+  },
+  {
+    "idEntity": 1925750,
+    "label": "Ermenegildo Zegna",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Ermenegildo_Zegna",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 98,
+    "endChar": 115
+  },
+  {
+    "idEntity": 1925752,
+    "label": "La zona",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/La_Zona_%282007%29",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 767,
+    "endChar": 774
+  },
+  {
+    "idEntity": 1925749,
+    "label": "Trenta",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Trenta%2C_Italy",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 46,
+    "endChar": 52
+  }
+]

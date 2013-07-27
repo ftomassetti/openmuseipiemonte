@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1923654,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/France",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 208,
+    "endChar": 215
+  },
+  {
+    "idEntity": 1923660,
+    "label": "Politecnico di Torino",
+    "extractorType": "University",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Polytechnic_University_of_Turin",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1181,
+    "endChar": 1202
+  },
+  {
+    "idEntity": 1923652,
+    "label": "Valentino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Valentino_Garavani",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 34,
+    "endChar": 43
+  },
+  {
+    "idEntity": 1923658,
+    "label": "Corona",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Corona%2C_California",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 807,
+    "endChar": 813
+  },
+  {
+    "idEntity": 1923653,
+    "label": "Emanuele Filiberto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.71197,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 64,
+    "endChar": 82
+  },
+  {
+    "idEntity": 1923655,
+    "label": "Vittorio Amedeo I",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.686602,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 240,
+    "endChar": 257
+  },
+  {
+    "idEntity": 1923659,
+    "label": "Esposizione Nazionale dell'Industria",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.669978,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1036,
+    "endChar": 1072
+  },
+  {
+    "idEntity": 1923656,
+    "label": "Carlo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.646537,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 343,
+    "endChar": 348
+  },
+  {
+    "idEntity": 1923657,
+    "label": "Amedeo di Castellamonte",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.6129,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 351,
+    "endChar": 374
+  }
+]

@@ -1,0 +1,210 @@
+{
+  "Torino": [
+    {
+      "uri": "http://dbpedia.org/resource/Savoie",
+      "count": 36
+    },
+    {
+      "uri": "http://dbpedia.org/resource/1900_%28film%29",
+      "count": 31
+    },
+    {
+      "uri": "http://dbpedia.org/resource/The_Church_%28film%29",
+      "count": 24
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Italy",
+      "count": 23
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Piedmont",
+      "count": 23
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Valperga",
+      "count": 13
+    }
+  ],
+  "Vercelli": [
+    {
+      "uri": "http://dbpedia.org/resource/Varallo_Sesia",
+      "count": 9
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Vercelli",
+      "count": 8
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Sacri_Monti_of_Piedmont_and_Lombardy",
+      "count": 6
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Quinto%2C_Switzerland",
+      "count": 4
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Gaudenzio_Ferrari",
+      "count": 4
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Savoie",
+      "count": 4
+    }
+  ],
+  "Novara": [
+    {
+      "uri": "http://dbpedia.org/resource/Novara",
+      "count": 17
+    },
+    {
+      "uri": "http://dbpedia.org/resource/1900_%28film%29",
+      "count": 4
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Ameno",
+      "count": 3
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Oleggio",
+      "count": 3
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Badia_%28BZ%29",
+      "count": 3
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Pombia",
+      "count": 2
+    }
+  ],
+  "Cuneo": [
+    {
+      "uri": "http://dbpedia.org/resource/Saluzzo",
+      "count": 24
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+      "count": 16
+    },
+    {
+      "uri": "http://dbpedia.org/resource/1900_%28film%29",
+      "count": 16
+    },
+    {
+      "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+      "count": 15
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Cuneo",
+      "count": 15
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Savoie",
+      "count": 13
+    }
+  ],
+  "Asti": [
+    {
+      "uri": "http://dbpedia.org/resource/Asti",
+      "count": 18
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Piedmont",
+      "count": 9
+    },
+    {
+      "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+      "count": 8
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Canelli",
+      "count": 5
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Italy",
+      "count": 5
+    },
+    {
+      "uri": "http://dbpedia.org/resource/1900_%28film%29",
+      "count": 5
+    }
+  ],
+  "Alessandria": [
+    {
+      "uri": "http://dbpedia.org/resource/1900_%28film%29",
+      "count": 14
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Alessandria",
+      "count": 12
+    },
+    {
+      "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+      "count": 11
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+      "count": 11
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Piedmont",
+      "count": 10
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Ovada",
+      "count": 6
+    }
+  ],
+  "Biella": [
+    {
+      "uri": "http://dbpedia.org/resource/Biella",
+      "count": 15
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+      "count": 10
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Santuario%2C_Risaralda",
+      "count": 9
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Vercelli",
+      "count": 5
+    },
+    {
+      "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+      "count": 4
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Savoie",
+      "count": 4
+    }
+  ],
+  "Verbania": [
+    {
+      "uri": "http://dbpedia.org/resource/Italy",
+      "count": 4
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Alps",
+      "count": 3
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Quarna_Sotto",
+      "count": 2
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Padua",
+      "count": 2
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Lago_%28commune%29",
+      "count": 2
+    },
+    {
+      "uri": "http://dbpedia.org/resource/Milan",
+      "count": 2
+    }
+  ]
+}

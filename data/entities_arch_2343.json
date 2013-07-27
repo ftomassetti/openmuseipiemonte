@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1922986,
+    "label": "Pavarolo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Pavarolo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 15,
+    "endChar": 23
+  },
+  {
+    "idEntity": 1922987,
+    "label": "Alpi",
+    "extractorType": "MountainRange",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alps",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 114,
+    "endChar": 118
+  },
+  {
+    "idEntity": 1922989,
+    "label": "Pavarolo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Pavarolo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 905,
+    "endChar": 913
+  },
+  {
+    "idEntity": 1922988,
+    "label": "del Comune",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.567963,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 844,
+    "endChar": 854
+  }
+]

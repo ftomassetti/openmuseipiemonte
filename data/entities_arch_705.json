@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924880,
+    "label": "Gaudenzio Ferrari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Gaudenzio_Ferrari",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 786,
+    "endChar": 803
+  },
+  {
+    "idEntity": 1924879,
+    "label": "Elva",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Elva_%28CN%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 569,
+    "endChar": 573
+  },
+  {
+    "idEntity": 1924878,
+    "label": "San Gregorio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/San_Gregorio%2C_Chile",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 490,
+    "endChar": 502
+  }
+]

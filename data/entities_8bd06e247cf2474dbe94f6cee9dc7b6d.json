@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1924660,
+    "label": "Carlo Emanuele I di Savoia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Charles_Emmanuel_I%2C_Duke_of_Savoy",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 562,
+    "endChar": 588
+  },
+  {
+    "idEntity": 1924659,
+    "label": "Lagnasco",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lagnasco",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 521,
+    "endChar": 529
+  },
+  {
+    "idEntity": 1924658,
+    "label": "Revello",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Revello",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 460,
+    "endChar": 467
+  },
+  {
+    "idEntity": 1924657,
+    "label": "Madonna",
+    "extractorType": "MusicalArtist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 328,
+    "endChar": 335
+  },
+  {
+    "idEntity": 1924656,
+    "label": "Ercole",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Herakles_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 295,
+    "endChar": 301
+  }
+]

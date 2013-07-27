@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925122,
+    "label": "Umberto Mastroianni",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Umberto_Mastroianni",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 405,
+    "endChar": 424
+  },
+  {
+    "idEntity": 1925121,
+    "label": "Asti",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Asti",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 71,
+    "endChar": 75
+  }
+]

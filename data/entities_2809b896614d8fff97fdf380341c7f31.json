@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1923935,
+    "label": "Adamo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Adam",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 207,
+    "endChar": 212
+  },
+  {
+    "idEntity": 1923934,
+    "label": "Galileo Ferraris",
+    "extractorType": "Scientist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Galileo_Ferraris",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 19,
+    "endChar": 35
+  },
+  {
+    "idEntity": 1923933,
+    "label": "natale",
+    "extractorType": "Holiday",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.932841,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 9,
+    "endChar": 15
+  }
+]

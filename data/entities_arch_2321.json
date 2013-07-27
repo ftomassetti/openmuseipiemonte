@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1922976,
+    "label": "Compans",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Compans",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 391,
+    "endChar": 398
+  },
+  {
+    "idEntity": 1922979,
+    "label": "Compans",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Compans",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 467,
+    "endChar": 474
+  },
+  {
+    "idEntity": 1922975,
+    "label": "Roche",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Roche%2C_Is%C3%A8re",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 317,
+    "endChar": 322
+  },
+  {
+    "idEntity": 1922974,
+    "label": "Valperga",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Valperga",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 239,
+    "endChar": 247
+  },
+  {
+    "idEntity": 1922978,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 440,
+    "endChar": 449
+  },
+  {
+    "idEntity": 1922973,
+    "label": "XV secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.783818,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 194,
+    "endChar": 203
+  },
+  {
+    "idEntity": 1922971,
+    "label": "Mercenasco",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.444174,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 21,
+    "endChar": 31
+  },
+  {
+    "idEntity": 1922972,
+    "label": "Candia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.428781,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 93,
+    "endChar": 99
+  },
+  {
+    "idEntity": 1922980,
+    "label": "Jean Chevalley",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.409928,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 502,
+    "endChar": 516
+  },
+  {
+    "idEntity": 1922977,
+    "label": "Brichantea Challanti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.393657,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 402,
+    "endChar": 422
+  }
+]

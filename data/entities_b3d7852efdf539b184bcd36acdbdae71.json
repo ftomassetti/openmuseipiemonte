@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922254,
+    "label": "Serre",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Serre_%28SA%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 12,
+    "endChar": 17
+  },
+  {
+    "idEntity": 1922255,
+    "label": "Angrogna",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Angrogna",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 21,
+    "endChar": 29
+  },
+  {
+    "idEntity": 1922256,
+    "label": "Angrogna",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Angrogna",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 265,
+    "endChar": 273
+  }
+]

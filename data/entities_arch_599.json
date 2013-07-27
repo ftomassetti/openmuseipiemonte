@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925244,
+    "label": "Asti",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Asti",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 266,
+    "endChar": 270
+  },
+  {
+    "idEntity": 1925245,
+    "label": "Aosta",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Aosta",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 429,
+    "endChar": 434
+  }
+]

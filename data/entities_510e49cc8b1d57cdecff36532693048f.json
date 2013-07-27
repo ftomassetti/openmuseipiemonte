@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925333,
+    "label": "Carrega Ligure",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Carrega_Ligure",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 40,
+    "endChar": 54
+  }
+]

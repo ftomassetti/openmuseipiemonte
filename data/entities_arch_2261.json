@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925598,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 11
+  },
+  {
+    "idEntity": 1925599,
+    "label": "Centro",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Centre_%28region%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 437,
+    "endChar": 443
+  }
+]

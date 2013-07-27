@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1925320,
+    "label": "Bernardo Strozzi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Bernardo_Strozzi",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 348,
+    "endChar": 364
+  },
+  {
+    "idEntity": 1925319,
+    "label": "Luca Cambiaso",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Luca_Cambiasi",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 296,
+    "endChar": 309
+  },
+  {
+    "idEntity": 1925317,
+    "label": "Liguria",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Liguria",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 183,
+    "endChar": 190
+  },
+  {
+    "idEntity": 1925318,
+    "label": "Piemonte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Piedmont",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 193,
+    "endChar": 201
+  },
+  {
+    "idEntity": 1925316,
+    "label": "Voltaggio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Voltaggio",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 158,
+    "endChar": 167
+  }
+]

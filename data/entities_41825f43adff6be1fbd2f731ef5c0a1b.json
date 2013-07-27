@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922246,
+    "label": "Chisone",
+    "extractorType": "River",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Chisone",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 795,
+    "endChar": 802
+  },
+  {
+    "idEntity": 1922245,
+    "label": "Pellice",
+    "extractorType": "River",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Pellice",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 786,
+    "endChar": 793
+  },
+  {
+    "idEntity": 1922244,
+    "label": "Fondazione Centro Culturale Valdese",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.839103,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 595,
+    "endChar": 630
+  }
+]

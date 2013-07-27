@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1923595,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/France",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 189,
+    "endChar": 196
+  },
+  {
+    "idEntity": 1923600,
+    "label": "Saluzzo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Saluzzo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 930,
+    "endChar": 937
+  },
+  {
+    "idEntity": 1923593,
+    "label": "Filippo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Philip_the_Evangelist",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 105,
+    "endChar": 112
+  },
+  {
+    "idEntity": 1923597,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 302,
+    "endChar": 308
+  },
+  {
+    "idEntity": 1923594,
+    "label": "Reale Cristiana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.705614,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 170,
+    "endChar": 185
+  },
+  {
+    "idEntity": 1923596,
+    "label": "Amedeo di Castellamonte",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.687368,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 231,
+    "endChar": 254
+  },
+  {
+    "idEntity": 1923601,
+    "label": "Maria Cristina di",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.658421,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 971,
+    "endChar": 988
+  },
+  {
+    "idEntity": 1923598,
+    "label": "Carlo Felice",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.636667,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 791,
+    "endChar": 803
+  },
+  {
+    "idEntity": 1923599,
+    "label": "Michele Borda",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.617018,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 913,
+    "endChar": 926
+  }
+]

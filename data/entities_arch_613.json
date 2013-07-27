@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925523,
+    "label": "Alessandria",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alessandria",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 158,
+    "endChar": 169
+  }
+]

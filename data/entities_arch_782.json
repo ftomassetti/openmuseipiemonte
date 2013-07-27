@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1923559,
+    "label": "Davide Calandra",
+    "extractorType": "Artist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Davide_Calandra",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 346,
+    "endChar": 361
+  },
+  {
+    "idEntity": 1923557,
+    "label": "Valentino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Valentino_Garavani",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 274,
+    "endChar": 283
+  },
+  {
+    "idEntity": 1923556,
+    "label": "Belle Arti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.867917,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 29,
+    "endChar": 39
+  },
+  {
+    "idEntity": 1923558,
+    "label": "Enrico Bonicelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.785104,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 327,
+    "endChar": 343
+  },
+  {
+    "idEntity": 1923560,
+    "label": "Giovanni Chevalley",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.773125,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 600,
+    "endChar": 618
+  }
+]

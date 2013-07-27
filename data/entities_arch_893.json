@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1925718,
+    "label": "San Sebastiano",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/Saint_Sebastian",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 44,
+    "endChar": 58
+  },
+  {
+    "idEntity": 1925719,
+    "label": "San Sebastiano",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/Saint_Sebastian",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 268,
+    "endChar": 282
+  },
+  {
+    "idEntity": 1925720,
+    "label": "Nerone",
+    "extractorType": "Monarch",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Nero",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 743,
+    "endChar": 749
+  },
+  {
+    "idEntity": 1925721,
+    "label": "Roma",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Rome",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 771,
+    "endChar": 775
+  },
+  {
+    "idEntity": 1925722,
+    "label": "Limoges",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Limoges",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1179,
+    "endChar": 1186
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925232,
+    "label": "Inghilterra",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/England",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 650,
+    "endChar": 661
+  },
+  {
+    "idEntity": 1925233,
+    "label": "Piemonte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Piedmont",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 679,
+    "endChar": 687
+  },
+  {
+    "idEntity": 1925234,
+    "label": "Napoleone",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Napol%C3%A9on_%281927_film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 724,
+    "endChar": 733
+  }
+]

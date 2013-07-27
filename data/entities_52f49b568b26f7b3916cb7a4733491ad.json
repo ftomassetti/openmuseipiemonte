@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1923938,
+    "label": "Carlo Locca",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.830769,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 479,
+    "endChar": 490
+  }
+]

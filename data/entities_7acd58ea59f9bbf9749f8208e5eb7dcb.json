@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1924128,
+    "label": "Golasecca",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Golasecca",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 181,
+    "endChar": 190
+  },
+  {
+    "idEntity": 1924131,
+    "label": "Pombia",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Pombia",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 299,
+    "endChar": 305
+  },
+  {
+    "idEntity": 1924130,
+    "label": "Agrate Conturbia",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Agrate_Conturbia",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 281,
+    "endChar": 297
+  },
+  {
+    "idEntity": 1924132,
+    "label": "Varallo Pombia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.755463,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 308,
+    "endChar": 322
+  },
+  {
+    "idEntity": 1924129,
+    "label": "Comignago",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.632315,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 270,
+    "endChar": 279
+  }
+]

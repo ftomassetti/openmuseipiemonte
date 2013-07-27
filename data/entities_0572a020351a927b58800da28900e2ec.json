@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1924348,
+    "label": "Sant'Antonino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.896512,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 322,
+    "endChar": 335
+  }
+]

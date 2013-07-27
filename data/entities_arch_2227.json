@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1923705,
+    "label": "Gozzano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Gozzano_%28NO%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 457,
+    "endChar": 464
+  },
+  {
+    "idEntity": 1923704,
+    "label": "giapponese",
+    "extractorType": "FieldTerminology",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.902931,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 253,
+    "endChar": 263
+  },
+  {
+    "idEntity": 1923703,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 220,
+    "endChar": 229
+  },
+  {
+    "idEntity": 1923702,
+    "label": "Guido Gozzano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.866453,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 89,
+    "endChar": 102
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1923105,
+    "label": "Andrea Pozzo",
+    "extractorType": "Artist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Andrea_Pozzo",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 594,
+    "endChar": 606
+  },
+  {
+    "idEntity": 1923099,
+    "label": "Contrada",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Contrada_%28AV%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 249,
+    "endChar": 257
+  },
+  {
+    "idEntity": 1923101,
+    "label": "Garibaldi",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Garibaldi%2C_Oregon",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 278,
+    "endChar": 287
+  },
+  {
+    "idEntity": 1923098,
+    "label": "Antonio Provana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.853053,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 195,
+    "endChar": 210
+  },
+  {
+    "idEntity": 1923100,
+    "label": "Dora Grossa",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.837013,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 261,
+    "endChar": 272
+  },
+  {
+    "idEntity": 1923102,
+    "label": "Bernardo Antonio Vittone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.804934,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 354,
+    "endChar": 378
+  },
+  {
+    "idEntity": 1923106,
+    "label": "Joseph De Maistre",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.770752,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 691,
+    "endChar": 708
+  },
+  {
+    "idEntity": 1923103,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.761681,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 451,
+    "endChar": 466
+  },
+  {
+    "idEntity": 1923104,
+    "label": "Antonio Milocco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.732699,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 514,
+    "endChar": 529
+  }
+]

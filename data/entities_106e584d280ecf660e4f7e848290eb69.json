@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925349,
+    "label": "La casa",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Evil_Dead",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 7
+  }
+]

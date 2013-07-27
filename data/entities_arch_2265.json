@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1925766,
+    "label": "Luigi Einaudi",
+    "extractorType": "President",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Luigi_Einaudi",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 688,
+    "endChar": 701
+  },
+  {
+    "idEntity": 1925765,
+    "label": "Norberto Bobbio",
+    "extractorType": "Philosopher",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Norberto_Bobbio",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 670,
+    "endChar": 685
+  },
+  {
+    "idEntity": 1925763,
+    "label": "Benedetto Croce",
+    "extractorType": "Philosopher",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Benedetto_Croce",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 634,
+    "endChar": 649
+  },
+  {
+    "idEntity": 1925764,
+    "label": "Cesare Pavese",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Cesare_Pavese",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 652,
+    "endChar": 665
+  },
+  {
+    "idEntity": 1925761,
+    "label": "Elvo",
+    "extractorType": "River",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Elvo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 44,
+    "endChar": 48
+  },
+  {
+    "idEntity": 1925762,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 620,
+    "endChar": 629
+  }
+]

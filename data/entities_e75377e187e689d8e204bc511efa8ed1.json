@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1922313,
+    "label": "La chiesa",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Church_%28film%29",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 9
+  },
+  {
+    "idEntity": 1922314,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.913793,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 101,
+    "endChar": 107
+  },
+  {
+    "idEntity": 1922315,
+    "label": "Torre",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Torre%2C_Switzerland",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 134,
+    "endChar": 139
+  },
+  {
+    "idEntity": 1922316,
+    "label": "Val Susa",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.877586,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 197,
+    "endChar": 205
+  }
+]

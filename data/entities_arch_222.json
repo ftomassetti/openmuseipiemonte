@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1923548,
+    "label": "Dario Argento",
+    "extractorType": "Actor",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Dario_Argento",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1068,
+    "endChar": 1081
+  },
+  {
+    "idEntity": 1923542,
+    "label": "Pietro Fenoglio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.80209,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 32,
+    "endChar": 47
+  },
+  {
+    "idEntity": 1923547,
+    "label": "Pietro Fenoglio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.80209,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 669,
+    "endChar": 684
+  },
+  {
+    "idEntity": 1923543,
+    "label": "professor Gottardo Gussoni",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.655691,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 74,
+    "endChar": 100
+  },
+  {
+    "idEntity": 1923546,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.600967,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 292,
+    "endChar": 298
+  },
+  {
+    "idEntity": 1923549,
+    "label": "Profondo Rosso",
+    "extractorType": "Movie",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.544613,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1113,
+    "endChar": 1127
+  },
+  {
+    "idEntity": 1923545,
+    "label": "Alfonso Scott",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.531501,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 137,
+    "endChar": 150
+  },
+  {
+    "idEntity": 1923544,
+    "label": "Villa Scott",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.515755,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 102,
+    "endChar": 113
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1925812,
+    "label": "Trarego Viggiona",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Trarego_Viggiona",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 75,
+    "endChar": 91
+  },
+  {
+    "idEntity": 1925809,
+    "label": "La visita",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/La_visita",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 9
+  },
+  {
+    "idEntity": 1925810,
+    "label": "Lago",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lago_%28commune%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 51,
+    "endChar": 55
+  },
+  {
+    "idEntity": 1925811,
+    "label": "Montagna",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Montan",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 64,
+    "endChar": 72
+  }
+]

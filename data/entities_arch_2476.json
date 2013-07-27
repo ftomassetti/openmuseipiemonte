@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1923264,
+    "label": "La chiesa",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Church_%28film%29",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 9
+  },
+  {
+    "idEntity": 1923265,
+    "label": "Giacomo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.692319,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 109,
+    "endChar": 116
+  },
+  {
+    "idEntity": 1923267,
+    "label": "Sant'Agostino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.686087,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 195,
+    "endChar": 208
+  },
+  {
+    "idEntity": 1923268,
+    "label": "San Giovanni",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.668937,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 211,
+    "endChar": 223
+  },
+  {
+    "idEntity": 1923269,
+    "label": "Carlo Ceppi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.666377,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 585,
+    "endChar": 596
+  },
+  {
+    "idEntity": 1923266,
+    "label": "Filippo, del",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.658502,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 119,
+    "endChar": 131
+  },
+  {
+    "idEntity": 1923270,
+    "label": "Ludovico Vanello",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.64343,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 769,
+    "endChar": 785
+  }
+]

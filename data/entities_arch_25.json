@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1925677,
+    "label": "Roppolo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Roppolo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 76,
+    "endChar": 83
+  },
+  {
+    "idEntity": 1925678,
+    "label": "Ivrea",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ivrea",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 165,
+    "endChar": 170
+  },
+  {
+    "idEntity": 1925680,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 385,
+    "endChar": 396
+  },
+  {
+    "idEntity": 1925679,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 377,
+    "endChar": 383
+  },
+  {
+    "idEntity": 1925681,
+    "label": "Serra",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Serra%2C_Valencia",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1290,
+    "endChar": 1295
+  }
+]

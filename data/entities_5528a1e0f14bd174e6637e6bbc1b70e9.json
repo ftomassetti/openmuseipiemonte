@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1924449,
+    "label": "Clavesana",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Clavesana",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 628,
+    "endChar": 637
+  },
+  {
+    "idEntity": 1924448,
+    "label": "Palazzo Comunale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.924107,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 12,
+    "endChar": 28
+  }
+]

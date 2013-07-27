@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1923762,
+    "label": "Bricherasio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Bricherasio",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 131,
+    "endChar": 142
+  }
+]

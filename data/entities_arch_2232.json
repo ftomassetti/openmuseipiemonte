@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1923721,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 388,
+    "endChar": 397
+  },
+  {
+    "idEntity": 1923720,
+    "label": "Alfredo D'Andrade",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.835185,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 332,
+    "endChar": 349
+  }
+]

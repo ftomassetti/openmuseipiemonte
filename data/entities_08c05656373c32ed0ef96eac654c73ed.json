@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1922401,
+    "label": "Gesù",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Jesus",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 259,
+    "endChar": 263
+  },
+  {
+    "idEntity": 1922403,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 729,
+    "endChar": 735
+  },
+  {
+    "idEntity": 1922400,
+    "label": "Passione",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Golden_Boy_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 247,
+    "endChar": 255
+  },
+  {
+    "idEntity": 1922399,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.844057,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 91,
+    "endChar": 97
+  },
+  {
+    "idEntity": 1922404,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.844057,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 761,
+    "endChar": 767
+  },
+  {
+    "idEntity": 1922402,
+    "label": "Museo propone",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.832751,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 494,
+    "endChar": 507
+  },
+  {
+    "idEntity": 1922398,
+    "label": "Museo della Sindone",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.702061,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 3,
+    "endChar": 22
+  }
+]

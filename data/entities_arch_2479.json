@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1923294,
+    "label": "Madonna",
+    "extractorType": "MusicalArtist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 450,
+    "endChar": 457
+  },
+  {
+    "idEntity": 1923290,
+    "label": "Don Bosco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.864099,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 11,
+    "endChar": 20
+  },
+  {
+    "idEntity": 1923291,
+    "label": "Antonio Spezia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.835045,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 59,
+    "endChar": 73
+  },
+  {
+    "idEntity": 1923292,
+    "label": "Mario Ceradini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.805428,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 340,
+    "endChar": 354
+  },
+  {
+    "idEntity": 1923296,
+    "label": "San Giovanni Bosco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.78786,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 588,
+    "endChar": 606
+  },
+  {
+    "idEntity": 1923295,
+    "label": "Camillo Boggio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.757568,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 477,
+    "endChar": 491
+  },
+  {
+    "idEntity": 1923293,
+    "label": "Giulio Vallotti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.754077,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 357,
+    "endChar": 372
+  },
+  {
+    "idEntity": 1923297,
+    "label": "Tommaso Lorenzone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.742252,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 717,
+    "endChar": 734
+  },
+  {
+    "idEntity": 1923298,
+    "label": "Maria Ausiliatrice",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.690901,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 746,
+    "endChar": 764
+  }
+]

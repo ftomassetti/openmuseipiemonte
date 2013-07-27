@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1925673,
+    "label": "Maria Giovanna Battista di Savoia-Nemours",
+    "extractorType": "BritishRoyalty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Marie_Jeanne_of_Savoy-Nemours",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1535,
+    "endChar": 1576
+  },
+  {
+    "idEntity": 1925666,
+    "label": "Biella",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Biella",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 529,
+    "endChar": 535
+  },
+  {
+    "idEntity": 1925671,
+    "label": "Madonna",
+    "extractorType": "MusicalArtist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1387,
+    "endChar": 1394
+  },
+  {
+    "idEntity": 1925668,
+    "label": "Madonna",
+    "extractorType": "MusicalArtist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 893,
+    "endChar": 900
+  },
+  {
+    "idEntity": 1925674,
+    "label": "Madonna",
+    "extractorType": "MusicalArtist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1774,
+    "endChar": 1781
+  },
+  {
+    "idEntity": 1925669,
+    "label": "Santuario",
+    "extractorType": "Town",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Santuario%2C_Risaralda",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 958,
+    "endChar": 967
+  },
+  {
+    "idEntity": 1925667,
+    "label": "Santuario",
+    "extractorType": "Town",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Santuario%2C_Risaralda",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 805,
+    "endChar": 814
+  },
+  {
+    "idEntity": 1925672,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1434,
+    "endChar": 1440
+  },
+  {
+    "idEntity": 1925670,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1175,
+    "endChar": 1181
+  },
+  {
+    "idEntity": 1925665,
+    "label": "Tesoro",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Treasure_%28Clive_Cussler_novel%29",
+    "confidence": 0.868635,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 36,
+    "endChar": 42
+  }
+]

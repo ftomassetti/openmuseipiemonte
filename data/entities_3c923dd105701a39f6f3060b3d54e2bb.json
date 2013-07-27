@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925659,
+    "label": "Alpini",
+    "extractorType": "MilitaryUnit",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Alpini",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 91,
+    "endChar": 97
+  }
+]

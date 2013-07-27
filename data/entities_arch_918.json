@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924907,
+    "label": "Fossano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Fossano",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 135,
+    "endChar": 142
+  },
+  {
+    "idEntity": 1924908,
+    "label": "Palladio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Palladius_%28Caesar%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 742,
+    "endChar": 750
+  },
+  {
+    "idEntity": 1924909,
+    "label": "Pellegrino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Pilgrim_%28archbishop%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1014,
+    "endChar": 1024
+  }
+]

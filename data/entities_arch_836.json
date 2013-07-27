@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1924208,
+    "label": "Baveno",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Baveno",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 305,
+    "endChar": 311
+  },
+  {
+    "idEntity": 1924207,
+    "label": "Ameno",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ameno",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 64,
+    "endChar": 69
+  },
+  {
+    "idEntity": 1924206,
+    "label": "Santuario",
+    "extractorType": "Town",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Santuario%2C_Risaralda",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 3,
+    "endChar": 12
+  },
+  {
+    "idEntity": 1924210,
+    "label": "Santuario",
+    "extractorType": "Town",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Santuario%2C_Risaralda",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 696,
+    "endChar": 705
+  },
+  {
+    "idEntity": 1924211,
+    "label": "Maria Santissima",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.660538,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 842,
+    "endChar": 858
+  },
+  {
+    "idEntity": 1924209,
+    "label": "Giovanni Molli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.648817,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 363,
+    "endChar": 377
+  }
+]

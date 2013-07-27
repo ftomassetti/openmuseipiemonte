@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1924397,
+    "label": "Magliano Alfieri",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Magliano_Alfieri",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 46,
+    "endChar": 62
+  },
+  {
+    "idEntity": 1924398,
+    "label": "Museo di Arti",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.920608,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 77,
+    "endChar": 90
+  }
+]

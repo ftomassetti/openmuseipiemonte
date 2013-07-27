@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1925023,
+    "label": "Caterina d'Austria",
+    "extractorType": "BritishRoyalty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Catherine_of_Austria_%281533%E2%80%931572%29",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1073,
+    "endChar": 1091
+  },
+  {
+    "idEntity": 1925022,
+    "label": "Margherita di Valois",
+    "extractorType": "BritishRoyalty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Margaret_of_Valois",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1023,
+    "endChar": 1043
+  },
+  {
+    "idEntity": 1925019,
+    "label": "Sanfront",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Sanfront",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 77,
+    "endChar": 85
+  },
+  {
+    "idEntity": 1925021,
+    "label": "Emanuele Filiberto di Savoia",
+    "extractorType": "BritishRoyalty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Emanuele_Filiberto%2C_Prince_of_Venice_and_Piedmont",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 980,
+    "endChar": 1008
+  },
+  {
+    "idEntity": 1925020,
+    "label": "Senato",
+    "extractorType": "Legislature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Senate_of_France",
+    "confidence": 0.882,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 363,
+    "endChar": 369
+  }
+]

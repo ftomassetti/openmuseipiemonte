@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924741,
+    "label": "Azeglio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Azeglio",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 54,
+    "endChar": 61
+  },
+  {
+    "idEntity": 1924742,
+    "label": "Lagnasco",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lagnasco",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 65,
+    "endChar": 73
+  },
+  {
+    "idEntity": 1924743,
+    "label": "Sala",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/K%C3%B6ping%2C_Sweden",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 925,
+    "endChar": 929
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1923931,
+    "label": "Artena",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Artena",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 620,
+    "endChar": 626
+  },
+  {
+    "idEntity": 1923932,
+    "label": "Aprilia",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Aprilia%2C_Latina",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 630,
+    "endChar": 637
+  },
+  {
+    "idEntity": 1923929,
+    "label": "Lancia",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Lancia",
+    "confidence": 0.882,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 595,
+    "endChar": 601
+  },
+  {
+    "idEntity": 1923926,
+    "label": "Fobello",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.859342,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 127,
+    "endChar": 134
+  },
+  {
+    "idEntity": 1923924,
+    "label": "Fobello",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.859342,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 61,
+    "endChar": 68
+  },
+  {
+    "idEntity": 1923925,
+    "label": "Vincenzo Lancia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.644079,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 95,
+    "endChar": 110
+  },
+  {
+    "idEntity": 1923927,
+    "label": "G. Lancia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.611096,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 300,
+    "endChar": 309
+  },
+  {
+    "idEntity": 1923928,
+    "label": "della Lancia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.606272,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 492,
+    "endChar": 504
+  },
+  {
+    "idEntity": 1923923,
+    "label": "Lancia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.580658,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 12,
+    "endChar": 18
+  },
+  {
+    "idEntity": 1923930,
+    "label": "Augusta",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.569605,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 611,
+    "endChar": 618
+  }
+]

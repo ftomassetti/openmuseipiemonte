@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1922199,
+    "label": "Carolina Kostner",
+    "extractorType": "FigureSkater",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Carolina_Kostner",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 651,
+    "endChar": 667
+  },
+  {
+    "idEntity": 1922195,
+    "label": "Vancouver",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Vancouver",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 84,
+    "endChar": 93
+  },
+  {
+    "idEntity": 1922200,
+    "label": "Pininfarina",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Pininfarina",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 739,
+    "endChar": 750
+  },
+  {
+    "idEntity": 1922198,
+    "label": "Grandi",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Grant%2C_Tolmin",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 466,
+    "endChar": 472
+  },
+  {
+    "idEntity": 1922196,
+    "label": "Olimpiadi",
+    "extractorType": "SportingEvent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.785387,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 211,
+    "endChar": 220
+  },
+  {
+    "idEntity": 1922203,
+    "label": "Olimpiadi",
+    "extractorType": "SportingEvent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.785387,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1099,
+    "endChar": 1108
+  },
+  {
+    "idEntity": 1922202,
+    "label": "olimpica",
+    "extractorType": "SportingEvent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.721669,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1034,
+    "endChar": 1042
+  },
+  {
+    "idEntity": 1922197,
+    "label": "Museo Regionale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.70119,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 251,
+    "endChar": 266
+  },
+  {
+    "idEntity": 1922194,
+    "label": "Giochi Olimpici",
+    "extractorType": "SportingEvent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.674821,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 56,
+    "endChar": 71
+  },
+  {
+    "idEntity": 1922201,
+    "label": "olimpico",
+    "extractorType": "SportingEvent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.668294,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 765,
+    "endChar": 773
+  }
+]

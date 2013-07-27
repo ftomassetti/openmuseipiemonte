@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1924039,
+    "label": "Vercelli",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Vercelli",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1345,
+    "endChar": 1353
+  },
+  {
+    "idEntity": 1924037,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1170,
+    "endChar": 1181
+  },
+  {
+    "idEntity": 1924035,
+    "label": "Quinto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Quinto%2C_Switzerland",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 548,
+    "endChar": 554
+  },
+  {
+    "idEntity": 1924031,
+    "label": "Quinto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Quinto%2C_Switzerland",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 6
+  },
+  {
+    "idEntity": 1924033,
+    "label": "Quinto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Quinto%2C_Switzerland",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 199,
+    "endChar": 205
+  },
+  {
+    "idEntity": 1924038,
+    "label": "Quinto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Quinto%2C_Switzerland",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1309,
+    "endChar": 1315
+  },
+  {
+    "idEntity": 1924032,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 179,
+    "endChar": 185
+  },
+  {
+    "idEntity": 1924036,
+    "label": "San Pietro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.687405,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 624,
+    "endChar": 634
+  },
+  {
+    "idEntity": 1924034,
+    "label": "Vercelli",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.683494,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 245,
+    "endChar": 253
+  }
+]

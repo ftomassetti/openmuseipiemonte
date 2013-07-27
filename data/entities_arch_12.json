@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1925382,
+    "label": "Benito Mussolini",
+    "extractorType": "President",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Benito_Mussolini",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1389,
+    "endChar": 1405
+  },
+  {
+    "idEntity": 1925381,
+    "label": "Paola",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Paola%2C_Italy",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 694,
+    "endChar": 699
+  },
+  {
+    "idEntity": 1925380,
+    "label": "Camino",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Camino_%28AL%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 536,
+    "endChar": 542
+  },
+  {
+    "idEntity": 1925379,
+    "label": "Camino",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Camino_%28AL%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 15,
+    "endChar": 21
+  }
+]

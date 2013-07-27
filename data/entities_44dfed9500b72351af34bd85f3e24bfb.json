@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925315,
+    "label": "Siena",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Siena",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 287,
+    "endChar": 292
+  }
+]

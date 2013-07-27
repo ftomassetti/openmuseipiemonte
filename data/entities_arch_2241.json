@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1923739,
+    "label": "Vittoria",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Vittoria%2C_Italy",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 386,
+    "endChar": 394
+  },
+  {
+    "idEntity": 1923738,
+    "label": "Maddalena",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Maddalena_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 231,
+    "endChar": 240
+  },
+  {
+    "idEntity": 1923740,
+    "label": "Edoardo Rubino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.793464,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 459,
+    "endChar": 473
+  },
+  {
+    "idEntity": 1923741,
+    "label": "Gabriele d'Annunzio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.740655,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 490,
+    "endChar": 509
+  }
+]

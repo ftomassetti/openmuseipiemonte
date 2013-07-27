@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925587,
+    "label": "Villadeati",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Villadeati",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 12,
+    "endChar": 22
+  },
+  {
+    "idEntity": 1925589,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 441,
+    "endChar": 452
+  },
+  {
+    "idEntity": 1925588,
+    "label": "Belvedere",
+    "extractorType": "Band",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Belvedere_%28band%29",
+    "confidence": 0.882,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 188,
+    "endChar": 197
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1924166,
+    "label": "Biandrate",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Biandrate",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 22,
+    "endChar": 31
+  },
+  {
+    "idEntity": 1924175,
+    "label": "Cavaglietto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cavaglietto",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 663,
+    "endChar": 674
+  },
+  {
+    "idEntity": 1924174,
+    "label": "Mandello Vitta",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Mandello_Vitta",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 623,
+    "endChar": 637
+  },
+  {
+    "idEntity": 1924172,
+    "label": "Milano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Milan",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 537,
+    "endChar": 543
+  },
+  {
+    "idEntity": 1924170,
+    "label": "Cavaglietto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cavaglietto",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 385,
+    "endChar": 396
+  },
+  {
+    "idEntity": 1924171,
+    "label": "Novara",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Novara",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 457,
+    "endChar": 463
+  },
+  {
+    "idEntity": 1924168,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 284,
+    "endChar": 295
+  },
+  {
+    "idEntity": 1924169,
+    "label": "Caccia",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Xag%C4%A7ra",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 356,
+    "endChar": 362
+  },
+  {
+    "idEntity": 1924173,
+    "label": "Caccia",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Xag%C4%A7ra",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 613,
+    "endChar": 619
+  },
+  {
+    "idEntity": 1924167,
+    "label": "San Silvestro",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.640862,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 165,
+    "endChar": 178
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1923771,
+    "label": "Chialamberto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Chialamberto",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 257,
+    "endChar": 269
+  },
+  {
+    "idEntity": 1923770,
+    "label": "Chialamberto",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.735439,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 119,
+    "endChar": 131
+  }
+]

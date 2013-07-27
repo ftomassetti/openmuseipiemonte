@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1924331,
+    "label": "Sartirana Lomellina",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Sartirana_Lomellina",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 421,
+    "endChar": 440
+  },
+  {
+    "idEntity": 1924333,
+    "label": "Valentino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Valentino_Garavani",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 614,
+    "endChar": 623
+  },
+  {
+    "idEntity": 1924330,
+    "label": "Casa Martelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.85433,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 48,
+    "endChar": 61
+  },
+  {
+    "idEntity": 1924334,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.645089,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 626,
+    "endChar": 632
+  },
+  {
+    "idEntity": 1924332,
+    "label": "Carlo Nigra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.633571,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 511,
+    "endChar": 522
+  }
+]

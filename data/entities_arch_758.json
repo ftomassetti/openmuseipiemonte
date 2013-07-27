@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1925581,
+    "label": "Macrino",
+    "extractorType": "Monarch",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Macrinus",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 392,
+    "endChar": 399
+  },
+  {
+    "idEntity": 1925584,
+    "label": "Moncalvo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Moncalvo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 538,
+    "endChar": 546
+  },
+  {
+    "idEntity": 1925583,
+    "label": "Madonna",
+    "extractorType": "MusicalArtist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 438,
+    "endChar": 445
+  },
+  {
+    "idEntity": 1925582,
+    "label": "Alba",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alba%2C_Aragon",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 402,
+    "endChar": 406
+  }
+]

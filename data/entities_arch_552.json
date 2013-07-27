@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1923638,
+    "label": "Emanuele Filiberto di Savoia-Carignano",
+    "extractorType": "BritishRoyalty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Emmanuel_Philibert%2C_Prince_of_Carignan",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 121,
+    "endChar": 159
+  },
+  {
+    "idEntity": 1923639,
+    "label": "Guarino Guarini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Guarino_Guarini",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 208,
+    "endChar": 223
+  },
+  {
+    "idEntity": 1923641,
+    "label": "Roma",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Rome",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 839,
+    "endChar": 843
+  },
+  {
+    "idEntity": 1923642,
+    "label": "primo Parlamento Subalpino",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.825943,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1111,
+    "endChar": 1137
+  },
+  {
+    "idEntity": 1923640,
+    "label": "Domenico Ferri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.780157,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 577,
+    "endChar": 591
+  }
+]

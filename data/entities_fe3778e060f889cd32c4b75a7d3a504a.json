@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1924635,
+    "label": "Mondovì",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Mondov%C3%AC",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 181,
+    "endChar": 188
+  },
+  {
+    "idEntity": 1924634,
+    "label": "monte Calvario",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.894716,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 112,
+    "endChar": 126
+  },
+  {
+    "idEntity": 1924633,
+    "label": "Villanova Mondovì",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.865417,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 53,
+    "endChar": 70
+  },
+  {
+    "idEntity": 1924637,
+    "label": "Cuneo",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.638377,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 329,
+    "endChar": 334
+  },
+  {
+    "idEntity": 1924636,
+    "label": "Santa Lucia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.635702,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 268,
+    "endChar": 279
+  },
+  {
+    "idEntity": 1924638,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.611184,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 349,
+    "endChar": 355
+  }
+]

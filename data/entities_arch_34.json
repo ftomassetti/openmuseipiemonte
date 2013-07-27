@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1924701,
+    "label": "Caraglio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Caraglio",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 165,
+    "endChar": 173
+  },
+  {
+    "idEntity": 1924705,
+    "label": "Saluzzo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Saluzzo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 447,
+    "endChar": 454
+  },
+  {
+    "idEntity": 1924703,
+    "label": "Saluzzo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Saluzzo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 235,
+    "endChar": 242
+  },
+  {
+    "idEntity": 1924706,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/France",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 586,
+    "endChar": 593
+  },
+  {
+    "idEntity": 1924709,
+    "label": "Maestro",
+    "extractorType": "MusicalArtist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Maestro_%28rapper%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1021,
+    "endChar": 1028
+  },
+  {
+    "idEntity": 1924708,
+    "label": "Fontana",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Fontana%2C_California",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 913,
+    "endChar": 920
+  },
+  {
+    "idEntity": 1924707,
+    "label": "Manta",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Manta_%28CN%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 646,
+    "endChar": 651
+  },
+  {
+    "idEntity": 1924702,
+    "label": "Cavour",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cavour_%28TO%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 175,
+    "endChar": 181
+  },
+  {
+    "idEntity": 1924704,
+    "label": "Manta",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Manta_%28CN%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 277,
+    "endChar": 282
+  },
+  {
+    "idEntity": 1924710,
+    "label": "Manta",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Manta_%28CN%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1035,
+    "endChar": 1040
+  }
+]

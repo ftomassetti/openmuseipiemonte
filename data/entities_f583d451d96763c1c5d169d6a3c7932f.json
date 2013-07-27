@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1922843,
+    "label": "Torre Pellice",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Torre_Pellice",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 52,
+    "endChar": 65
+  },
+  {
+    "idEntity": 1922849,
+    "label": "Maglione",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Maglione",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 464,
+    "endChar": 472
+  },
+  {
+    "idEntity": 1922846,
+    "label": "Torre Pellice",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Torre_Pellice",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 314,
+    "endChar": 327
+  },
+  {
+    "idEntity": 1922845,
+    "label": "Felice Casorati",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Felice_Casorati",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 240,
+    "endChar": 255
+  },
+  {
+    "idEntity": 1922851,
+    "label": "Arte",
+    "extractorType": "Broadcast",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Arte",
+    "confidence": 0.882,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 755,
+    "endChar": 759
+  },
+  {
+    "idEntity": 1922847,
+    "label": "La formula",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Formula_%281980_film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 330,
+    "endChar": 340
+  },
+  {
+    "idEntity": 1922844,
+    "label": "Filippo Scroppo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.662038,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 76,
+    "endChar": 91
+  },
+  {
+    "idEntity": 1922850,
+    "label": "Civica Galleria",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.640861,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 737,
+    "endChar": 752
+  },
+  {
+    "idEntity": 1922848,
+    "label": "Maurizio Corgnati",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.632276,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 426,
+    "endChar": 443
+  }
+]

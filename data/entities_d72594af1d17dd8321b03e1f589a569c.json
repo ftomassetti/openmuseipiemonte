@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925302,
+    "label": "Giulio Monteverde",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Giulio_Monteverde",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 67,
+    "endChar": 84
+  },
+  {
+    "idEntity": 1925304,
+    "label": "Giulio Monteverde",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Giulio_Monteverde",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 180,
+    "endChar": 197
+  },
+  {
+    "idEntity": 1925303,
+    "label": "Bistagno",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Bistagno",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 117,
+    "endChar": 125
+  }
+]

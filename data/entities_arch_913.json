@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925046,
+    "label": "Monte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Monte%2C_Haute-Corse",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 161,
+    "endChar": 166
+  },
+  {
+    "idEntity": 1925047,
+    "label": "Carignano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Carignano",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 323,
+    "endChar": 332
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1922140,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Italy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 401,
+    "endChar": 407
+  },
+  {
+    "idEntity": 1922137,
+    "label": "Sestriere",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Sestriere",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 274,
+    "endChar": 283
+  },
+  {
+    "idEntity": 1922136,
+    "label": "Val Chisone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.902108,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 247,
+    "endChar": 258
+  },
+  {
+    "idEntity": 1922138,
+    "label": "Trenta",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Trenta%2C_Italy",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 309,
+    "endChar": 315
+  },
+  {
+    "idEntity": 1922139,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 320,
+    "endChar": 329
+  }
+]

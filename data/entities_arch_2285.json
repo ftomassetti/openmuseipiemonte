@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1923767,
+    "label": "Libano",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.833025,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 490,
+    "endChar": 496
+  }
+]

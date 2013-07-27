@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1925816,
+    "label": "Lago Maggiore",
+    "extractorType": "Lake",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lake_Maggiore",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 239,
+    "endChar": 252
+  },
+  {
+    "idEntity": 1925818,
+    "label": "Sala",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/K%C3%B6ping%2C_Sweden",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 810,
+    "endChar": 814
+  },
+  {
+    "idEntity": 1925820,
+    "label": "Sala",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/K%C3%B6ping%2C_Sweden",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 994,
+    "endChar": 998
+  },
+  {
+    "idEntity": 1925819,
+    "label": "Sala",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/K%C3%B6ping%2C_Sweden",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 888,
+    "endChar": 892
+  },
+  {
+    "idEntity": 1925817,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 660,
+    "endChar": 669
+  }
+]

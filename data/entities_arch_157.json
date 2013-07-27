@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1922881,
+    "label": "Carlo Emilio San Martino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.670604,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 338,
+    "endChar": 362
+  },
+  {
+    "idEntity": 1922882,
+    "label": "Cesare Chiala",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.654541,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 589,
+    "endChar": 602
+  }
+]

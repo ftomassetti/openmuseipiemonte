@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1925801,
+    "label": "Alpi",
+    "extractorType": "MountainRange",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alps",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 84,
+    "endChar": 88
+  },
+  {
+    "idEntity": 1925802,
+    "label": "Macugnaga",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Macugnaga",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 145,
+    "endChar": 154
+  },
+  {
+    "idEntity": 1925805,
+    "label": "Alpi",
+    "extractorType": "MountainRange",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alps",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 993,
+    "endChar": 997
+  },
+  {
+    "idEntity": 1925803,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Italy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 197,
+    "endChar": 203
+  },
+  {
+    "idEntity": 1925804,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 551,
+    "endChar": 560
+  }
+]

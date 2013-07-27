@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1923731,
+    "label": "Orbassano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Orbassano",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 286,
+    "endChar": 295
+  },
+  {
+    "idEntity": 1923730,
+    "label": "Villa Amoretti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.919495,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 82,
+    "endChar": 96
+  }
+]

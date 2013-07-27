@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1923310,
+    "label": "Defendente Ferrari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.831019,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 653,
+    "endChar": 671
+  }
+]

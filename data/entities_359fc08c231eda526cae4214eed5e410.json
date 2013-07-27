@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922129,
+    "label": "Luserna",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Luserna",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 13,
+    "endChar": 20
+  },
+  {
+    "idEntity": 1922131,
+    "label": "Rorà",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ror%C3%A0",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 494,
+    "endChar": 498
+  },
+  {
+    "idEntity": 1922130,
+    "label": "Museo Valdese",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.8725,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 393,
+    "endChar": 406
+  }
+]

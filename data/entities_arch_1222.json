@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1923191,
+    "label": "Chiusa di San Michele",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Chiusa_di_San_Michele",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 414,
+    "endChar": 435
+  },
+  {
+    "idEntity": 1923192,
+    "label": "Piemonte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Piedmont",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 786,
+    "endChar": 794
+  },
+  {
+    "idEntity": 1923194,
+    "label": "Cavour",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cavour_%28TO%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1111,
+    "endChar": 1117
+  },
+  {
+    "idEntity": 1923189,
+    "label": "Saluzzo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.88375,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 134,
+    "endChar": 141
+  },
+  {
+    "idEntity": 1923190,
+    "label": "Torino Landolfo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.865663,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 166,
+    "endChar": 181
+  },
+  {
+    "idEntity": 1923193,
+    "label": "Museo Archeologico 'CABURRUM",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.831534,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1027,
+    "endChar": 1055
+  },
+  {
+    "idEntity": 1923188,
+    "label": "Cavour",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.768409,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 117,
+    "endChar": 123
+  }
+]

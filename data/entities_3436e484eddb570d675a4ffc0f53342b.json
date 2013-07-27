@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1922512,
+    "label": "Massimo d'Azeglio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Massimo_d%27Azeglio",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 66,
+    "endChar": 83
+  },
+  {
+    "idEntity": 1922513,
+    "label": "Leopoldo Mansueti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.85672,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 193,
+    "endChar": 210
+  },
+  {
+    "idEntity": 1922514,
+    "label": "Museo dell'Uomo",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.831369,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 992,
+    "endChar": 1007
+  },
+  {
+    "idEntity": 1922515,
+    "label": "Regione Piemonte",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.803822,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1054,
+    "endChar": 1070
+  }
+]

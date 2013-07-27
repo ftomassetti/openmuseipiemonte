@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922269,
+    "label": "Bardonecchia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.922917,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 24,
+    "endChar": 36
+  },
+  {
+    "idEntity": 1922271,
+    "label": "Casa Comunale",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.826042,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 628,
+    "endChar": 641
+  },
+  {
+    "idEntity": 1922270,
+    "label": "Esso",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Esso",
+    "confidence": 0.7546,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 567,
+    "endChar": 571
+  }
+]

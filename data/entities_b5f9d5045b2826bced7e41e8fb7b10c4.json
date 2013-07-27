@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1923957,
+    "label": "Terre d´Acqua",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.841242,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 757,
+    "endChar": 770
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1923989,
+    "label": "Sant'Ambrogio",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/Ambrose",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 353,
+    "endChar": 366
+  },
+  {
+    "idEntity": 1923987,
+    "label": "Pellegrino Tibaldi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.557022,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 219,
+    "endChar": 237
+  },
+  {
+    "idEntity": 1923988,
+    "label": "Madonna",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.536356,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 318,
+    "endChar": 325
+  },
+  {
+    "idEntity": 1923992,
+    "label": "Giovanni Larghi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.512444,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 638,
+    "endChar": 653
+  },
+  {
+    "idEntity": 1923990,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.499244,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 550,
+    "endChar": 567
+  },
+  {
+    "idEntity": 1923991,
+    "label": "Luigi Barberis",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.481778,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 570,
+    "endChar": 584
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925035,
+    "label": "Fiano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Fiano_%28TO%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 105,
+    "endChar": 110
+  },
+  {
+    "idEntity": 1925036,
+    "label": "Roma",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Rome",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 191,
+    "endChar": 195
+  },
+  {
+    "idEntity": 1925037,
+    "label": "Cuneo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cuneo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 198,
+    "endChar": 203
+  }
+]

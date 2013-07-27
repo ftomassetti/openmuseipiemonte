@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924124,
+    "label": "Carlo Francesco Frasconi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.922403,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 29,
+    "endChar": 53
+  },
+  {
+    "idEntity": 1924125,
+    "label": "San Bernardino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/San_Bernardino%2C_California",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 245,
+    "endChar": 259
+  },
+  {
+    "idEntity": 1924126,
+    "label": "San Gaudenzio",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.80039,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 394,
+    "endChar": 407
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1924531,
+    "label": "Provincia di Cuneo",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Province_of_Cuneo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 68,
+    "endChar": 86
+  },
+  {
+    "idEntity": 1924532,
+    "label": "Russia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Russia",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 200,
+    "endChar": 206
+  },
+  {
+    "idEntity": 1924533,
+    "label": "Lequio Berria",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lequio_Berria",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 321,
+    "endChar": 334
+  },
+  {
+    "idEntity": 1924536,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Italy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 683,
+    "endChar": 689
+  },
+  {
+    "idEntity": 1924534,
+    "label": "Cuneo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cuneo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 370,
+    "endChar": 375
+  },
+  {
+    "idEntity": 1924535,
+    "label": "Jaroslav",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.792769,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 491,
+    "endChar": 499
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1922644,
+    "label": "Guglielmo da Volpiano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/William_of_Volpiano",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 83,
+    "endChar": 104
+  },
+  {
+    "idEntity": 1922646,
+    "label": "Guglielmo da Volpiano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/William_of_Volpiano",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 249,
+    "endChar": 270
+  },
+  {
+    "idEntity": 1922645,
+    "label": "Abbazia",
+    "extractorType": "Town",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Opatija",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 198,
+    "endChar": 205
+  },
+  {
+    "idEntity": 1922643,
+    "label": "Abbazia",
+    "extractorType": "Town",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Opatija",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 72,
+    "endChar": 79
+  },
+  {
+    "idEntity": 1922650,
+    "label": "Abbazia",
+    "extractorType": "Town",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Opatija",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 764,
+    "endChar": 771
+  },
+  {
+    "idEntity": 1922647,
+    "label": "Arduino d'Ivrea",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.643384,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 378,
+    "endChar": 393
+  },
+  {
+    "idEntity": 1922651,
+    "label": "Santo Sepolcro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.586896,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 877,
+    "endChar": 891
+  },
+  {
+    "idEntity": 1922648,
+    "label": "Bernardo Antonio Vittone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.583988,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 571,
+    "endChar": 595
+  },
+  {
+    "idEntity": 1922649,
+    "label": "Cardinale Vittorio Amedeo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.556974,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 616,
+    "endChar": 641
+  }
+]

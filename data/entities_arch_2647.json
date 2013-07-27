@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1924325,
+    "label": "Cesare Correnti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.828763,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 564,
+    "endChar": 579
+  }
+]

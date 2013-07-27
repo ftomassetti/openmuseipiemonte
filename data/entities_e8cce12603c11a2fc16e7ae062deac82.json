@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1922277,
+    "label": "Cesana Torinese",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cesana_Torinese",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 174,
+    "endChar": 189
+  }
+]

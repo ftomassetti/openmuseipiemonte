@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924404,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 11
+  },
+  {
+    "idEntity": 1924405,
+    "label": "Rocca De' Baldi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.887761,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 15,
+    "endChar": 30
+  },
+  {
+    "idEntity": 1924406,
+    "label": "Augusto Doro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.856791,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 68,
+    "endChar": 80
+  }
+]

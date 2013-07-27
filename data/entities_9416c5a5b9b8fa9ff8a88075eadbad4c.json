@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1922248,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Italy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 200,
+    "endChar": 206
+  },
+  {
+    "idEntity": 1922247,
+    "label": "Sala",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/K%C3%B6ping%2C_Sweden",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 66,
+    "endChar": 70
+  },
+  {
+    "idEntity": 1922250,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 562,
+    "endChar": 571
+  },
+  {
+    "idEntity": 1922249,
+    "label": "Carlo Pittaluga",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.856609,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 221,
+    "endChar": 236
+  }
+]

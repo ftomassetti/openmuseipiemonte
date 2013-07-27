@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1925550,
+    "label": "Amerigo Tot",
+    "extractorType": "Actor",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Amerigo_Tot",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1248,
+    "endChar": 1259
+  },
+  {
+    "idEntity": 1925548,
+    "label": "Marcello Piacentini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Marcello_Piacentini",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 449,
+    "endChar": 468
+  },
+  {
+    "idEntity": 1925551,
+    "label": "Ferrari",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Ferrari",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1674,
+    "endChar": 1681
+  },
+  {
+    "idEntity": 1925547,
+    "label": "Amato",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Amato",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 442,
+    "endChar": 447
+  },
+  {
+    "idEntity": 1925549,
+    "label": "Adamo ed Eva",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Adam_and_Eve_%281949_film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 992,
+    "endChar": 1004
+  }
+]

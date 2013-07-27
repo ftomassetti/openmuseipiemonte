@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1924930,
+    "label": "San Sebastiano",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/Saint_Sebastian",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 13,
+    "endChar": 27
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925458,
+    "label": "Etiopia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ethiopia",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 554,
+    "endChar": 561
+  },
+  {
+    "idEntity": 1925456,
+    "label": "Sulla strada",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/On_the_Road",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 12
+  },
+  {
+    "idEntity": 1925457,
+    "label": "San Martino",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/%C5%A0martno%2C_Brda",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 29,
+    "endChar": 40
+  }
+]

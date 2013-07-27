@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925727,
+    "label": "Madonna",
+    "extractorType": "MusicalArtist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1538,
+    "endChar": 1545
+  },
+  {
+    "idEntity": 1925726,
+    "label": "Sacramento",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Sacramento%2C_California",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 974,
+    "endChar": 984
+  }
+]

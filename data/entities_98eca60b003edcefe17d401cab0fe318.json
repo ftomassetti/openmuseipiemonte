@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925794,
+    "label": "Ticino",
+    "extractorType": "River",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ticino_%28river%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 748,
+    "endChar": 754
+  }
+]

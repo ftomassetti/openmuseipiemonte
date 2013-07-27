@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1923890,
+    "label": "Vercelli",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Vercelli",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 937,
+    "endChar": 945
+  },
+  {
+    "idEntity": 1923888,
+    "label": "Langosco",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.832255,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 649,
+    "endChar": 657
+  },
+  {
+    "idEntity": 1923887,
+    "label": "Langosco",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.832255,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 295,
+    "endChar": 303
+  },
+  {
+    "idEntity": 1923884,
+    "label": "Camillo Leone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.585426,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 82,
+    "endChar": 95
+  },
+  {
+    "idEntity": 1923885,
+    "label": "Belle Arti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.567597,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 129,
+    "endChar": 139
+  },
+  {
+    "idEntity": 1923889,
+    "label": "Vittorio Viale",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.536912,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 853,
+    "endChar": 867
+  },
+  {
+    "idEntity": 1923886,
+    "label": "Casa Alciati",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.534393,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 261,
+    "endChar": 273
+  }
+]

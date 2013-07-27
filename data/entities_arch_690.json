@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1924986,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/France",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 295,
+    "endChar": 302
+  },
+  {
+    "idEntity": 1924990,
+    "label": "Busca",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Busca",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 610,
+    "endChar": 615
+  },
+  {
+    "idEntity": 1924989,
+    "label": "Melle",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Melle_%28CN%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 601,
+    "endChar": 606
+  },
+  {
+    "idEntity": 1924988,
+    "label": "Cherasco",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cherasco",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 503,
+    "endChar": 511
+  },
+  {
+    "idEntity": 1924987,
+    "label": "Napoleone",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Napol%C3%A9on_%281927_film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 462,
+    "endChar": 471
+  }
+]
