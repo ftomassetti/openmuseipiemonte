@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1922109,
+    "label": "Valli Orco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.909091,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 138,
+    "endChar": 148
+  }
+]

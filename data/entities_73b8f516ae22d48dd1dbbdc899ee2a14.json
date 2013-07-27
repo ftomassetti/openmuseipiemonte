@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1922005,
+    "label": "Antonello da Messina",
+    "extractorType": "Artist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Antonello_da_Messina",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1288,
+    "endChar": 1308
+  },
+  {
+    "idEntity": 1921999,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Italy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 260,
+    "endChar": 266
+  },
+  {
+    "idEntity": 1922004,
+    "label": "La visita",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/La_visita",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 753,
+    "endChar": 762
+  },
+  {
+    "idEntity": 1921997,
+    "label": "Palazzo Madama",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.829619,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 72,
+    "endChar": 86
+  },
+  {
+    "idEntity": 1922000,
+    "label": "Palazzo Madama",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.829619,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 298,
+    "endChar": 312
+  },
+  {
+    "idEntity": 1921996,
+    "label": "Carlo Alberto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.625,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 13
+  },
+  {
+    "idEntity": 1921998,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.61421,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 227,
+    "endChar": 233
+  },
+  {
+    "idEntity": 1922001,
+    "label": "Fondazione Torino Musei",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.548131,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 410,
+    "endChar": 433
+  },
+  {
+    "idEntity": 1922002,
+    "label": "Fondazione CRT",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.5305,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 460,
+    "endChar": 474
+  },
+  {
+    "idEntity": 1922003,
+    "label": "Museo Civico d'Arte",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.523421,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 479,
+    "endChar": 498
+  }
+]
