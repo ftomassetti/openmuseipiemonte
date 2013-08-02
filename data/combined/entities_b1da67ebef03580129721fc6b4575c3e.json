@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924440,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 446,
+    "endChar": 455
+  },
+  {
+    "idEntity": 1924439,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 404,
+    "endChar": 413
+  },
+  {
+    "idEntity": 1924438,
+    "label": "Pollentia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.871094,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 264,
+    "endChar": 273
+  }
+]

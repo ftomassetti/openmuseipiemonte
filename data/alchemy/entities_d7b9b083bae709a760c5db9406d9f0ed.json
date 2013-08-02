@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1934961,
+    "label": "Pietro Accorsi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.866167,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 117,
+    "endChar": 131
+  },
+  {
+    "idEntity": 1934962,
+    "label": "Pietro Accorsi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.866167,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 198,
+    "endChar": 212
+  },
+  {
+    "idEntity": 1934963,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.71025,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 225,
+    "endChar": 231
+  },
+  {
+    "idEntity": 1934964,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.71025,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 645,
+    "endChar": 651
+  }
+]

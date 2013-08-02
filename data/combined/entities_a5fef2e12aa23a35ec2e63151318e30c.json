@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925356,
+    "label": "Il Centro",
+    "extractorType": "Newspaper",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Il_Centro",
+    "confidence": 0.9118,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 150,
+    "endChar": 159
+  }
+]

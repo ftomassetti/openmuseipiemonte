@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1936538,
+    "label": "Ivrea",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.832985,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 269,
+    "endChar": 274
+  },
+  {
+    "idEntity": 1936539,
+    "label": "Ivrea",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.832985,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 755,
+    "endChar": 760
+  },
+  {
+    "idEntity": 1936540,
+    "label": "Superga",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.598467,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 259,
+    "endChar": 266
+  },
+  {
+    "idEntity": 1936541,
+    "label": "Novara",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.592361,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 234,
+    "endChar": 240
+  },
+  {
+    "idEntity": 1936542,
+    "label": "Vercelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.523609,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 795,
+    "endChar": 803
+  }
+]

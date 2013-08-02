@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936424,
+    "label": "Borgosesia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.8925,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 43,
+    "endChar": 53
+  },
+  {
+    "idEntity": 1936425,
+    "label": "Borgosesia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.8925,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 318,
+    "endChar": 328
+  },
+  {
+    "idEntity": 1936426,
+    "label": "monte Fenera",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.81194,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 462,
+    "endChar": 474
+  }
+]

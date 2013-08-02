@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1935017,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.767928,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 922,
+    "endChar": 928
+  },
+  {
+    "idEntity": 1935018,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.767928,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1616,
+    "endChar": 1622
+  },
+  {
+    "idEntity": 1935019,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.767928,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1675,
+    "endChar": 1681
+  },
+  {
+    "idEntity": 1935020,
+    "label": "Museo Gianduja",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.63886,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 49,
+    "endChar": 63
+  },
+  {
+    "idEntity": 1935021,
+    "label": "Teatro Popolare",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.613398,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 422,
+    "endChar": 437
+  },
+  {
+    "idEntity": 1935022,
+    "label": "Claudio Cinelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.568339,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 985,
+    "endChar": 1000
+  },
+  {
+    "idEntity": 1935023,
+    "label": "Roma",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.456564,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1625,
+    "endChar": 1629
+  }
+]

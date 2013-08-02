@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935291,
+    "label": "Maria Ausiliatrice",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.917857,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 40,
+    "endChar": 58
+  },
+  {
+    "idEntity": 1935292,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.889796,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 61,
+    "endChar": 67
+  }
+]

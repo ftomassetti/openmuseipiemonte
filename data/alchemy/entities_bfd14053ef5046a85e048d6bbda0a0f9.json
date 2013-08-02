@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935048,
+    "label": "Charles Beckwith",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.923352,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 22,
+    "endChar": 38
+  },
+  {
+    "idEntity": 1935049,
+    "label": "Pramollo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.846978,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 377,
+    "endChar": 385
+  }
+]

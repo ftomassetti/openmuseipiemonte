@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936336,
+    "label": "sede del Museo d'Arte Contemporanea",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.682522,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 95,
+    "endChar": 130
+  },
+  {
+    "idEntity": 1936337,
+    "label": "Rivoli",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.612452,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 82,
+    "endChar": 88
+  },
+  {
+    "idEntity": 1936338,
+    "label": "San Grato",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.559425,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 300,
+    "endChar": 309
+  },
+  {
+    "idEntity": 1936339,
+    "label": "Regio Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.538544,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 374,
+    "endChar": 395
+  }
+]

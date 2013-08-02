@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1935319,
+    "label": "Susa",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.877692,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 191,
+    "endChar": 195
+  },
+  {
+    "idEntity": 1935320,
+    "label": "Il Parco",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.857564,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 8
+  },
+  {
+    "idEntity": 1935321,
+    "label": "Val Sangone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.85,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 226,
+    "endChar": 237
+  },
+  {
+    "idEntity": 1935322,
+    "label": "del Parco",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.798846,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 574,
+    "endChar": 583
+  },
+  {
+    "idEntity": 1935323,
+    "label": "Fenestrelle",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.767692,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 749,
+    "endChar": 760
+  },
+  {
+    "idEntity": 1935324,
+    "label": "Val Chisone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.766923,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 764,
+    "endChar": 775
+  }
+]

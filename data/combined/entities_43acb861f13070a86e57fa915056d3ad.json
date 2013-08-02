@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1922157,
+    "label": "Il Centro",
+    "extractorType": "Newspaper",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Il_Centro",
+    "confidence": 0.9118,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 212,
+    "endChar": 221
+  },
+  {
+    "idEntity": 1922155,
+    "label": "Comitato Italiano",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.902885,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 156,
+    "endChar": 173
+  },
+  {
+    "idEntity": 1922154,
+    "label": "Centro",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Centre_%28region%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 6
+  },
+  {
+    "idEntity": 1922156,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.870192,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 204,
+    "endChar": 210
+  }
+]

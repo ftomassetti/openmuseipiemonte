@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935183,
+    "label": "Egitto",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.726478,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 203,
+    "endChar": 209
+  },
+  {
+    "idEntity": 1935184,
+    "label": "Giovanni Marro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.716454,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 99,
+    "endChar": 113
+  },
+  {
+    "idEntity": 1935185,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.666903,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 91,
+    "endChar": 97
+  },
+  {
+    "idEntity": 1935186,
+    "label": "San Giovanni",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.654279,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 921,
+    "endChar": 933
+  },
+  {
+    "idEntity": 1935187,
+    "label": "Santo Domingo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.643499,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 647,
+    "endChar": 660
+  }
+]

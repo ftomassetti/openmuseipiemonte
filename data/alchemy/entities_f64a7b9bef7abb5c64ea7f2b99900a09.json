@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936401,
+    "label": "Walser",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.87,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 19,
+    "endChar": 25
+  },
+  {
+    "idEntity": 1936402,
+    "label": "Walser",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.87,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 183,
+    "endChar": 189
+  },
+  {
+    "idEntity": 1936403,
+    "label": "tedesco",
+    "extractorType": "FieldTerminology",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.71863,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 954,
+    "endChar": 961
+  },
+  {
+    "idEntity": 1936404,
+    "label": "Monte Rosa",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.675144,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 400,
+    "endChar": 410
+  }
+]

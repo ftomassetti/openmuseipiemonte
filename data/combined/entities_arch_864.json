@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1925775,
+    "label": "Sacro Monte",
+    "extractorType": "WorldHeritageSite",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Sacri_Monti_of_Piedmont_and_Lombardy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 639,
+    "endChar": 650
+  },
+  {
+    "idEntity": 1925768,
+    "label": "Biella",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Biella",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 111,
+    "endChar": 117
+  },
+  {
+    "idEntity": 1925774,
+    "label": "Graglia",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Graglia",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 557,
+    "endChar": 564
+  },
+  {
+    "idEntity": 1925770,
+    "label": "Piemonte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Piedmont",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 368,
+    "endChar": 376
+  },
+  {
+    "idEntity": 1925773,
+    "label": "Varallo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Varallo_Sesia",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 547,
+    "endChar": 554
+  },
+  {
+    "idEntity": 1925771,
+    "label": "Lombardia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lombardy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 385,
+    "endChar": 394
+  },
+  {
+    "idEntity": 1925769,
+    "label": "Madonna",
+    "extractorType": "MusicalArtist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 202,
+    "endChar": 209
+  },
+  {
+    "idEntity": 1925772,
+    "label": "Patrimonio",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Patrimonio",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 423,
+    "endChar": 433
+  },
+  {
+    "idEntity": 1925767,
+    "label": "Santuario",
+    "extractorType": "Town",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Santuario%2C_Risaralda",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 77,
+    "endChar": 86
+  }
+]

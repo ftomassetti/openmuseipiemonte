@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935108,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.92381,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 8,
+    "endChar": 14
+  },
+  {
+    "idEntity": 1935109,
+    "label": "Intesa Sanpaolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.896429,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 33,
+    "endChar": 48
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1924061,
+    "label": "Vercelli",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Vercelli",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 534,
+    "endChar": 542
+  },
+  {
+    "idEntity": 1924058,
+    "label": "palazzo Langosco, edificio",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.813491,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 143,
+    "endChar": 169
+  },
+  {
+    "idEntity": 1924059,
+    "label": "Camillo Leone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.406765,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 286,
+    "endChar": 299
+  },
+  {
+    "idEntity": 1924060,
+    "label": "Vittorio Viale",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.4,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 451,
+    "endChar": 465
+  }
+]

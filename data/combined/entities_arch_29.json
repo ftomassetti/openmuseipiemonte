@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924685,
+    "label": "Castiglione Falletto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Castiglione_Falletto",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 35,
+    "endChar": 55
+  },
+  {
+    "idEntity": 1924686,
+    "label": "Marchesato di Saluzzo",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Marquisate_of_Saluzzo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 120,
+    "endChar": 141
+  },
+  {
+    "idEntity": 1924687,
+    "label": "Dogliani",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Dogliani",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 779,
+    "endChar": 787
+  }
+]

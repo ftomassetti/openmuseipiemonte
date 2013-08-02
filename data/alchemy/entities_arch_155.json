@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936641,
+    "label": "Galeazzo Sforza",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.866344,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 77,
+    "endChar": 92
+  },
+  {
+    "idEntity": 1936642,
+    "label": "Ambrogio Ferrari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.838118,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 130,
+    "endChar": 146
+  },
+  {
+    "idEntity": 1936643,
+    "label": "Museo d'Arte Contemporanea",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.830914,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 528,
+    "endChar": 554
+  }
+]

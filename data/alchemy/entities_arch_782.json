@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936181,
+    "label": "Belle Arti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.867917,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 29,
+    "endChar": 39
+  },
+  {
+    "idEntity": 1936182,
+    "label": "Enrico Bonicelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.785104,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 327,
+    "endChar": 343
+  },
+  {
+    "idEntity": 1936183,
+    "label": "Giovanni Chevalley",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.773125,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 600,
+    "endChar": 618
+  },
+  {
+    "idEntity": 1936184,
+    "label": "Davide Calandra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.733542,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 346,
+    "endChar": 361
+  }
+]

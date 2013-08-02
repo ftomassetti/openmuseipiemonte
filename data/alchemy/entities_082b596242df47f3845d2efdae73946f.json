@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935450,
+    "label": "Palazzo Comunale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.92381,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 12,
+    "endChar": 28
+  },
+  {
+    "idEntity": 1935451,
+    "label": "Valperga",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.82869,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 390,
+    "endChar": 398
+  },
+  {
+    "idEntity": 1935452,
+    "label": "Cuorgnè",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.790595,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 529,
+    "endChar": 536
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935493,
+    "label": "Alfredo D´Andrade",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.92191,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 72,
+    "endChar": 89
+  },
+  {
+    "idEntity": 1935494,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.890075,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 322,
+    "endChar": 328
+  },
+  {
+    "idEntity": 1935495,
+    "label": "della Valle",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.864419,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 709,
+    "endChar": 720
+  }
+]

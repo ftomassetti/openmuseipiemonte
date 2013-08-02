@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1922223,
+    "label": "Alpi",
+    "extractorType": "MountainRange",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alps",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 483,
+    "endChar": 487
+  },
+  {
+    "idEntity": 1922221,
+    "label": "Alpi",
+    "extractorType": "MountainRange",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alps",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 203,
+    "endChar": 207
+  },
+  {
+    "idEntity": 1922222,
+    "label": "Club Alpino Italiano",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.897256,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 327,
+    "endChar": 347
+  },
+  {
+    "idEntity": 1922220,
+    "label": "Monte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Monte%2C_Haute-Corse",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 98,
+    "endChar": 103
+  },
+  {
+    "idEntity": 1922224,
+    "label": "Centro",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Centre_%28region%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1068,
+    "endChar": 1074
+  }
+]

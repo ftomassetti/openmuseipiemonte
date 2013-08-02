@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925004,
+    "label": "Emanuele Tesauro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Emanuele_Tesauro",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 122,
+    "endChar": 138
+  },
+  {
+    "idEntity": 1925003,
+    "label": "Fossano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Fossano",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 65,
+    "endChar": 72
+  }
+]

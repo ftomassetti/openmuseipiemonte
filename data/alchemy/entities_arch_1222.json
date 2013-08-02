@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935894,
+    "label": "Saluzzo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.88375,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 134,
+    "endChar": 141
+  },
+  {
+    "idEntity": 1935895,
+    "label": "Torino Landolfo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.865663,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 166,
+    "endChar": 181
+  },
+  {
+    "idEntity": 1935896,
+    "label": "Museo Archeologico 'CABURRUM",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.831534,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1027,
+    "endChar": 1055
+  },
+  {
+    "idEntity": 1935897,
+    "label": "San Michele",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.829583,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 424,
+    "endChar": 435
+  },
+  {
+    "idEntity": 1935898,
+    "label": "Cavour",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.768409,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 117,
+    "endChar": 123
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935987,
+    "label": "Susa",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.732927,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 17,
+    "endChar": 21
+  },
+  {
+    "idEntity": 1935988,
+    "label": "Susa",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.732927,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 134,
+    "endChar": 138
+  },
+  {
+    "idEntity": 1935989,
+    "label": "Ignazio Bertola",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.535962,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1068,
+    "endChar": 1083
+  },
+  {
+    "idEntity": 1935990,
+    "label": "Giovanni Antonio Odone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.5283,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1105,
+    "endChar": 1127
+  },
+  {
+    "idEntity": 1935991,
+    "label": "Giuseppe Guglielmino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.507156,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1285,
+    "endChar": 1305
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1936614,
+    "label": "Meina",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.809113,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 174,
+    "endChar": 179
+  },
+  {
+    "idEntity": 1936615,
+    "label": "Meina",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.809113,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 948,
+    "endChar": 953
+  },
+  {
+    "idEntity": 1936616,
+    "label": "Catherine Faraggiana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.582661,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 85,
+    "endChar": 105
+  },
+  {
+    "idEntity": 1936617,
+    "label": "Faraggiana Ferrandi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.569756,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 95,
+    "endChar": 114
+  },
+  {
+    "idEntity": 1936618,
+    "label": "Alessandro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.564825,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 128,
+    "endChar": 138
+  },
+  {
+    "idEntity": 1936619,
+    "label": "Novara",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.564649,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 224,
+    "endChar": 230
+  },
+  {
+    "idEntity": 1936620,
+    "label": "Piemonte",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.55155,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 469,
+    "endChar": 477
+  },
+  {
+    "idEntity": 1936621,
+    "label": "Alessandro Faraggiana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.512817,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1015,
+    "endChar": 1036
+  },
+  {
+    "idEntity": 1936622,
+    "label": "Ugo Ferrandi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.511647,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1069,
+    "endChar": 1081
+  }
+]

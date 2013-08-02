@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936046,
+    "label": "Alessandro Antonelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.950763,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 55,
+    "endChar": 75
+  },
+  {
+    "idEntity": 1936047,
+    "label": "Barolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.743514,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 390,
+    "endChar": 396
+  },
+  {
+    "idEntity": 1936048,
+    "label": "Barolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.743514,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 994,
+    "endChar": 1000
+  },
+  {
+    "idEntity": 1936049,
+    "label": "San Maurizio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.510281,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 429,
+    "endChar": 441
+  }
+]

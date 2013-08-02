@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1936736,
+    "label": "Novara",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.71892,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 34,
+    "endChar": 40
+  },
+  {
+    "idEntity": 1936737,
+    "label": "Novara",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.71892,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 380,
+    "endChar": 386
+  },
+  {
+    "idEntity": 1936738,
+    "label": "Paolo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.471023,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 730,
+    "endChar": 735
+  },
+  {
+    "idEntity": 1936739,
+    "label": "Palazzo dell'Arengo",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.461288,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 554,
+    "endChar": 573
+  },
+  {
+    "idEntity": 1936740,
+    "label": "Palazzo dei Paratici",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.444545,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 574,
+    "endChar": 594
+  },
+  {
+    "idEntity": 1936741,
+    "label": "Adele Giannoni",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.437538,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 738,
+    "endChar": 752
+  },
+  {
+    "idEntity": 1936742,
+    "label": "Palazzo del",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.427424,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 621,
+    "endChar": 632
+  },
+  {
+    "idEntity": 1936743,
+    "label": "Palazzo dei Referendari",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.410985,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 596,
+    "endChar": 619
+  }
+]

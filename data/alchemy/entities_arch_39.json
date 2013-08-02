@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936635,
+    "label": "Ludovico il",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.671185,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 98,
+    "endChar": 109
+  }
+]

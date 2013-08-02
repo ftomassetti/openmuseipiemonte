@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924428,
+    "label": "Museo Archeologico",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.923707,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 28,
+    "endChar": 46
+  },
+  {
+    "idEntity": 1924430,
+    "label": "Federico Eusebio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.897989,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 158,
+    "endChar": 174
+  },
+  {
+    "idEntity": 1924429,
+    "label": "Alba",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alba%2C_Aragon",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 72,
+    "endChar": 76
+  }
+]

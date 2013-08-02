@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935497,
+    "label": "Vittorio Emanuele II",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.913312,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 96,
+    "endChar": 116
+  }
+]

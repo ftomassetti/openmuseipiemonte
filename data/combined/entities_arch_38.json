@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1924725,
+    "label": "Tommaso I di Saluzzo",
+    "extractorType": "BritishRoyalty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Thomas_I_of_Saluzzo",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 67,
+    "endChar": 87
+  },
+  {
+    "idEntity": 1924728,
+    "label": "Saluzzo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Saluzzo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 268,
+    "endChar": 275
+  },
+  {
+    "idEntity": 1924731,
+    "label": "Moretta",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Moretta",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 493,
+    "endChar": 500
+  },
+  {
+    "idEntity": 1924727,
+    "label": "Nucetto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Nucetto",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 124,
+    "endChar": 131
+  },
+  {
+    "idEntity": 1924724,
+    "label": "Monasterolo di Savigliano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Monasterolo_di_Savigliano",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 15,
+    "endChar": 40
+  },
+  {
+    "idEntity": 1924730,
+    "label": "Solaro",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Solaro",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 483,
+    "endChar": 489
+  },
+  {
+    "idEntity": 1924729,
+    "label": "Aimone di Savoia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Aimone%2C_Count_of_Savoy",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 378,
+    "endChar": 394
+  },
+  {
+    "idEntity": 1924726,
+    "label": "Ottone",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ottone_%28PC%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 114,
+    "endChar": 120
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936405,
+    "label": "Borgosesia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.915104,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 109,
+    "endChar": 119
+  }
+]

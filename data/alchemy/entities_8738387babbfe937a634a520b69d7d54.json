@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1935553,
+    "label": "Maglione",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.731255,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 2,
+    "endChar": 10
+  },
+  {
+    "idEntity": 1935554,
+    "label": "Maglione",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.731255,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 140,
+    "endChar": 148
+  },
+  {
+    "idEntity": 1935555,
+    "label": "Maglione",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.731255,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 851,
+    "endChar": 859
+  },
+  {
+    "idEntity": 1935556,
+    "label": "Museo d'Arte Contemporanea",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.430392,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 99,
+    "endChar": 125
+  },
+  {
+    "idEntity": 1935557,
+    "label": "Regione Piemonte",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.403343,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 652,
+    "endChar": 668
+  },
+  {
+    "idEntity": 1935558,
+    "label": "Maurizio Corgnati",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.398584,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 178,
+    "endChar": 195
+  },
+  {
+    "idEntity": 1935559,
+    "label": "Belle Arti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.367048,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 604,
+    "endChar": 614
+  }
+]

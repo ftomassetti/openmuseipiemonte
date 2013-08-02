@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1936080,
+    "label": "Gae Aulenti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.824518,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 232,
+    "endChar": 243
+  },
+  {
+    "idEntity": 1936081,
+    "label": "Gae Aulenti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.824518,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 450,
+    "endChar": 461
+  },
+  {
+    "idEntity": 1936082,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.646386,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 89,
+    "endChar": 95
+  },
+  {
+    "idEntity": 1936083,
+    "label": "Olimpiadi Invernali",
+    "extractorType": "SportingEvent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.638855,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 251,
+    "endChar": 270
+  },
+  {
+    "idEntity": 1936084,
+    "label": "Giorgio Rigotti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.617892,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 50,
+    "endChar": 65
+  }
+]

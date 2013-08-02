@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1925935,
+    "label": "Giovanni Battista",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/John_the_Baptist",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 421,
+    "endChar": 438
+  },
+  {
+    "idEntity": 1925933,
+    "label": "Madonna del Sasso",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Madonna_del_Sasso",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 149,
+    "endChar": 166
+  },
+  {
+    "idEntity": 1925932,
+    "label": "Lago Maggiore",
+    "extractorType": "Lake",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lake_Maggiore",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 73,
+    "endChar": 86
+  },
+  {
+    "idEntity": 1925934,
+    "label": "Santuario",
+    "extractorType": "Town",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Santuario%2C_Risaralda",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 254,
+    "endChar": 263
+  },
+  {
+    "idEntity": 1925936,
+    "label": "Caravaggio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Caravaggio%2C_Italy",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 541,
+    "endChar": 551
+  }
+]

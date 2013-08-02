@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1934965,
+    "label": "Palazzo Madama",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.829619,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 72,
+    "endChar": 86
+  },
+  {
+    "idEntity": 1934966,
+    "label": "Palazzo Madama",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.829619,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 298,
+    "endChar": 312
+  },
+  {
+    "idEntity": 1934967,
+    "label": "Carlo Alberto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.625,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 13
+  },
+  {
+    "idEntity": 1934968,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.61421,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 227,
+    "endChar": 233
+  },
+  {
+    "idEntity": 1934969,
+    "label": "Fondazione Torino Musei",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.548131,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 410,
+    "endChar": 433
+  },
+  {
+    "idEntity": 1934970,
+    "label": "Fondazione CRT",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.5305,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 460,
+    "endChar": 474
+  },
+  {
+    "idEntity": 1934971,
+    "label": "Museo Civico d'Arte",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.523421,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 479,
+    "endChar": 498
+  }
+]

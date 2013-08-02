@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935840,
+    "label": "Alessandro Antonelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.722174,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 233,
+    "endChar": 253
+  },
+  {
+    "idEntity": 1935841,
+    "label": "Enrico Petiti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.71,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 517,
+    "endChar": 530
+  },
+  {
+    "idEntity": 1935842,
+    "label": "Chieri",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.687391,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1395,
+    "endChar": 1401
+  }
+]

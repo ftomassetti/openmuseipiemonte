@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1936127,
+    "label": "Palazzo Ã¨ sede",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.91175,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 443,
+    "endChar": 458
+  },
+  {
+    "idEntity": 1936128,
+    "label": "Barolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.81883,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 23,
+    "endChar": 29
+  },
+  {
+    "idEntity": 1936129,
+    "label": "Barolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.81883,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 474,
+    "endChar": 480
+  },
+  {
+    "idEntity": 1936130,
+    "label": "Barolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.81883,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 587,
+    "endChar": 593
+  },
+  {
+    "idEntity": 1936131,
+    "label": "Palazzo Falletti",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.639468,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 3,
+    "endChar": 19
+  },
+  {
+    "idEntity": 1936132,
+    "label": "Gian Francesco Baroncelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.593227,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 126,
+    "endChar": 151
+  },
+  {
+    "idEntity": 1936133,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.562376,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 204,
+    "endChar": 221
+  },
+  {
+    "idEntity": 1936134,
+    "label": "Giulia Colbert",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.502447,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 560,
+    "endChar": 574
+  },
+  {
+    "idEntity": 1936135,
+    "label": "Luigi XIV",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.496064,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 645,
+    "endChar": 654
+  }
+]

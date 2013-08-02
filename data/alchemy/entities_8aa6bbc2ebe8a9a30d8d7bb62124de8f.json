@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935156,
+    "label": "Municipio",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.921535,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 32,
+    "endChar": 41
+  },
+  {
+    "idEntity": 1935157,
+    "label": "Ceres",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.895545,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 45,
+    "endChar": 50
+  },
+  {
+    "idEntity": 1935158,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.825495,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 662,
+    "endChar": 668
+  }
+]

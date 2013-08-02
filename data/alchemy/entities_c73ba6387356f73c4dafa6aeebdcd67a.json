@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936623,
+    "label": "Bernardo Zenale",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.33,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 439,
+    "endChar": 454
+  },
+  {
+    "idEntity": 1936624,
+    "label": "Santi Fabiano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.33,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 154,
+    "endChar": 167
+  },
+  {
+    "idEntity": 1936625,
+    "label": "Sebastiano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.33,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 170,
+    "endChar": 180
+  },
+  {
+    "idEntity": 1936626,
+    "label": "Santissimo Sacramento",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.33,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 127,
+    "endChar": 148
+  },
+  {
+    "idEntity": 1936627,
+    "label": "Oleggio",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.33,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 38,
+    "endChar": 45
+  },
+  {
+    "idEntity": 1936628,
+    "label": "Santissimo Rosario",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.33,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 103,
+    "endChar": 121
+  }
+]

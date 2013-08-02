@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1935438,
+    "label": "San Mauro",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.746589,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 136,
+    "endChar": 145
+  },
+  {
+    "idEntity": 1935439,
+    "label": "Regione Piemonte",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.686124,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1364,
+    "endChar": 1380
+  },
+  {
+    "idEntity": 1935440,
+    "label": "Torino",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.667287,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1446,
+    "endChar": 1452
+  },
+  {
+    "idEntity": 1935441,
+    "label": "Cultura Materiale",
+    "extractorType": "Movie",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.666977,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1464,
+    "endChar": 1481
+  }
+]

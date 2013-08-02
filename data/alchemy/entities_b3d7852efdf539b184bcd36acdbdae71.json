@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935144,
+    "label": "Angrogna",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.890431,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 21,
+    "endChar": 29
+  },
+  {
+    "idEntity": 1935145,
+    "label": "Angrogna",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.890431,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 265,
+    "endChar": 273
+  }
+]

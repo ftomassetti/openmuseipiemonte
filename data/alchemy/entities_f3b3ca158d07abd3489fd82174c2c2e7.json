@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935448,
+    "label": "Museo Archeologico",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.924573,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 3,
+    "endChar": 21
+  },
+  {
+    "idEntity": 1935449,
+    "label": "Chiomonte",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.898291,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 25,
+    "endChar": 34
+  }
+]

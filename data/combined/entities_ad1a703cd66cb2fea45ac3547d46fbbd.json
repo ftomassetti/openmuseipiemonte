@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1922084,
+    "label": "Nomaglio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Nomaglio",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 207,
+    "endChar": 215
+  },
+  {
+    "idEntity": 1922087,
+    "label": "Nomaglio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Nomaglio",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 349,
+    "endChar": 357
+  },
+  {
+    "idEntity": 1922085,
+    "label": "Montana",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.686381,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 244,
+    "endChar": 251
+  },
+  {
+    "idEntity": 1922086,
+    "label": "Dora Baltea Canavesana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.685634,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 252,
+    "endChar": 274
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935302,
+    "label": "Bussoleno",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.836739,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 593,
+    "endChar": 602
+  }
+]

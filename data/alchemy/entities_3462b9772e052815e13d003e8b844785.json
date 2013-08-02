@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936913,
+    "label": "natale",
+    "extractorType": "Holiday",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.953334,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 8,
+    "endChar": 14
+  },
+  {
+    "idEntity": 1936914,
+    "label": "Cesare Pavese",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.598174,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 18,
+    "endChar": 31
+  }
+]

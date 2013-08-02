@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936190,
+    "label": "Carlo Emanuele",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.867773,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 371,
+    "endChar": 385
+  }
+]

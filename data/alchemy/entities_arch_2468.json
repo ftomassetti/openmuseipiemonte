@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935927,
+    "label": "Bernardo Vittone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.889873,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 211,
+    "endChar": 227
+  }
+]

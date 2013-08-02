@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1936493,
+    "label": "Gerusalemme",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.786348,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 352,
+    "endChar": 363
+  },
+  {
+    "idEntity": 1936494,
+    "label": "Gerusalemme",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.786348,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 977,
+    "endChar": 988
+  },
+  {
+    "idEntity": 1936495,
+    "label": "Gerusalemme",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.786348,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1056,
+    "endChar": 1067
+  },
+  {
+    "idEntity": 1936496,
+    "label": "Gerusalemme",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.786348,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1379,
+    "endChar": 1390
+  },
+  {
+    "idEntity": 1936497,
+    "label": "Egitto",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.49577,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 883,
+    "endChar": 889
+  },
+  {
+    "idEntity": 1936498,
+    "label": "Bernardino Caimi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.479009,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 292,
+    "endChar": 308
+  },
+  {
+    "idEntity": 1936499,
+    "label": "Gaudenzio Ferrari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.449811,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1609,
+    "endChar": 1626
+  },
+  {
+    "idEntity": 1936500,
+    "label": "Santo Sepolcro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.431604,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1259,
+    "endChar": 1273
+  },
+  {
+    "idEntity": 1936501,
+    "label": "Varallo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.415849,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 318,
+    "endChar": 325
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1923355,
+    "label": "La chiesa",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Church_%28film%29",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 9
+  },
+  {
+    "idEntity": 1923356,
+    "label": "Santa Maria",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.923661,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 13,
+    "endChar": 24
+  },
+  {
+    "idEntity": 1923357,
+    "label": "Angelo Moia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.83125,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 727,
+    "endChar": 738
+  }
+]

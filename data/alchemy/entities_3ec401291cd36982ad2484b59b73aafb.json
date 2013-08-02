@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935318,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.916949,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 113,
+    "endChar": 120
+  }
+]

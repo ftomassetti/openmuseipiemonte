@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936157,
+    "label": "Gian Andrea Garabello",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.838974,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 250,
+    "endChar": 271
+  },
+  {
+    "idEntity": 1936158,
+    "label": "Palazzo Scaglia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.793462,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 385,
+    "endChar": 400
+  },
+  {
+    "idEntity": 1936159,
+    "label": "San Martino della",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.762692,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 449,
+    "endChar": 466
+  }
+]

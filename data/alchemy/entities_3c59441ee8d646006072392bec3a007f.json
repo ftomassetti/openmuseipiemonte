@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935458,
+    "label": "Luigi XIV",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.886815,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 68,
+    "endChar": 77
+  },
+  {
+    "idEntity": 1935459,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.867144,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 505,
+    "endChar": 511
+  },
+  {
+    "idEntity": 1935460,
+    "label": "Esercito Italiano",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.855764,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 177,
+    "endChar": 194
+  },
+  {
+    "idEntity": 1935461,
+    "label": "Regio Esercito",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.852898,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 171,
+    "endChar": 185
+  },
+  {
+    "idEntity": 1935462,
+    "label": "Umberto II",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.794406,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 735,
+    "endChar": 745
+  }
+]

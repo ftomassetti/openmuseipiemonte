@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936886,
+    "label": "ricette",
+    "extractorType": "FieldTerminology",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.746507,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 953,
+    "endChar": 960
+  }
+]

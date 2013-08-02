@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936532,
+    "label": "Vercelli",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.748815,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 47,
+    "endChar": 55
+  },
+  {
+    "idEntity": 1936533,
+    "label": "Giuseppe Locarni",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.699685,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 400,
+    "endChar": 416
+  },
+  {
+    "idEntity": 1936534,
+    "label": "Tempio",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.685259,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 329,
+    "endChar": 335
+  },
+  {
+    "idEntity": 1936535,
+    "label": "Carlo Costa",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.631593,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1028,
+    "endChar": 1039
+  },
+  {
+    "idEntity": 1936536,
+    "label": "Ercole Villa",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.596481,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1095,
+    "endChar": 1107
+  },
+  {
+    "idEntity": 1936537,
+    "label": "Michele Fornari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.57937,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1110,
+    "endChar": 1125
+  }
+]

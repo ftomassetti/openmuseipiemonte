@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936297,
+    "label": "Dora Baltea",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.855218,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 508,
+    "endChar": 519
+  }
+]

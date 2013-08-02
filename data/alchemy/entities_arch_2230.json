@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936298,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.870833,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 365,
+    "endChar": 372
+  },
+  {
+    "idEntity": 1936299,
+    "label": "Reale Cristiana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.851711,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 346,
+    "endChar": 361
+  },
+  {
+    "idEntity": 1936300,
+    "label": "Vittorio Emanuele II",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.814722,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 649,
+    "endChar": 669
+  },
+  {
+    "idEntity": 1936301,
+    "label": "Michel Benard",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.78424,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 458,
+    "endChar": 471
+  }
+]

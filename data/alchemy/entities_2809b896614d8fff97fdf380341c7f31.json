@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936472,
+    "label": "natale",
+    "extractorType": "Holiday",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.932841,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 9,
+    "endChar": 15
+  },
+  {
+    "idEntity": 1936473,
+    "label": "Galileo Ferraris",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.597814,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 19,
+    "endChar": 35
+  },
+  {
+    "idEntity": 1936474,
+    "label": "Adamo",
+    "extractorType": "Technology",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.582514,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 207,
+    "endChar": 212
+  }
+]

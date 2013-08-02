@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1935718,
+    "label": "San Martino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.79125,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 147,
+    "endChar": 158
+  },
+  {
+    "idEntity": 1935719,
+    "label": "San Martino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.79125,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 343,
+    "endChar": 354
+  },
+  {
+    "idEntity": 1935720,
+    "label": "San Martino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.79125,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 615,
+    "endChar": 626
+  },
+  {
+    "idEntity": 1935721,
+    "label": "San Martino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.79125,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 707,
+    "endChar": 718
+  },
+  {
+    "idEntity": 1935722,
+    "label": "Valperga",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.517905,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 317,
+    "endChar": 325
+  },
+  {
+    "idEntity": 1935723,
+    "label": "Valperga",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.517905,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 540,
+    "endChar": 548
+  },
+  {
+    "idEntity": 1935724,
+    "label": "Canavese",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.39897,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 15,
+    "endChar": 23
+  },
+  {
+    "idEntity": 1935725,
+    "label": "Lodovico Pievano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.340051,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 658,
+    "endChar": 674
+  },
+  {
+    "idEntity": 1935726,
+    "label": "Alfredo D'Andrade",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.318654,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 889,
+    "endChar": 906
+  },
+  {
+    "idEntity": 1935727,
+    "label": "Costantino Nigra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.293249,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 909,
+    "endChar": 925
+  }
+]

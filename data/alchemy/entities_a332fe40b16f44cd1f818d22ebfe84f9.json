@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1935478,
+    "label": "Guglielmo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.819782,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 83,
+    "endChar": 92
+  },
+  {
+    "idEntity": 1935479,
+    "label": "Guglielmo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.819782,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 249,
+    "endChar": 258
+  },
+  {
+    "idEntity": 1935480,
+    "label": "Volpiano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.781611,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 96,
+    "endChar": 104
+  },
+  {
+    "idEntity": 1935481,
+    "label": "Volpiano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.781611,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 262,
+    "endChar": 270
+  },
+  {
+    "idEntity": 1935482,
+    "label": "Arduino d'Ivrea",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.643384,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 378,
+    "endChar": 393
+  },
+  {
+    "idEntity": 1935483,
+    "label": "Santo Sepolcro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.586896,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 877,
+    "endChar": 891
+  },
+  {
+    "idEntity": 1935484,
+    "label": "Bernardo Antonio Vittone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.583988,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 571,
+    "endChar": 595
+  },
+  {
+    "idEntity": 1935485,
+    "label": "Cardinale Vittorio Amedeo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.556974,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 616,
+    "endChar": 641
+  }
+]

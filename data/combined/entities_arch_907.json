@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1924889,
+    "label": "San Lorenzo",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/Lawrence_of_Rome",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 875,
+    "endChar": 886
+  },
+  {
+    "idEntity": 1924890,
+    "label": "Madonna",
+    "extractorType": "MusicalArtist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Madonna_%28entertainer%29",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 955,
+    "endChar": 962
+  }
+]

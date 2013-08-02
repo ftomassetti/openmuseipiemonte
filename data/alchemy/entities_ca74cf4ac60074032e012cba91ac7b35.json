@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1934895,
+    "label": "XIX secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.793079,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 893,
+    "endChar": 903
+  },
+  {
+    "idEntity": 1934896,
+    "label": "Caravino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.723992,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 65,
+    "endChar": 73
+  },
+  {
+    "idEntity": 1934897,
+    "label": "Canavese",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.65856,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 518,
+    "endChar": 526
+  }
+]

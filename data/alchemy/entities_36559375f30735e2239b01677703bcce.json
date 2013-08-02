@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936811,
+    "label": "Rocca De' Baldi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.887761,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 15,
+    "endChar": 30
+  },
+  {
+    "idEntity": 1936812,
+    "label": "Augusto Doro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.856791,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 68,
+    "endChar": 80
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936199,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.843333,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 113,
+    "endChar": 119
+  },
+  {
+    "idEntity": 1936200,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.843333,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 286,
+    "endChar": 292
+  },
+  {
+    "idEntity": 1936201,
+    "label": "Intesa Sanpaolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.59113,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 373,
+    "endChar": 388
+  },
+  {
+    "idEntity": 1936202,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.560057,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1105,
+    "endChar": 1111
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1924588,
+    "label": "Piemonte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Piedmont",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 791,
+    "endChar": 799
+  },
+  {
+    "idEntity": 1924587,
+    "label": "Nel corso del tempo",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Kings_of_the_Road",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 695,
+    "endChar": 714
+  },
+  {
+    "idEntity": 1924584,
+    "label": "Musei",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Musei",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 142,
+    "endChar": 147
+  },
+  {
+    "idEntity": 1924585,
+    "label": "Federico Craveri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.861545,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 267,
+    "endChar": 283
+  },
+  {
+    "idEntity": 1924586,
+    "label": "Federico Craveri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.861545,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 641,
+    "endChar": 657
+  },
+  {
+    "idEntity": 1924583,
+    "label": "Bra",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.731402,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 90,
+    "endChar": 93
+  }
+]

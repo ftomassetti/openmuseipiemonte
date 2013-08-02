@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936522,
+    "label": "Bernardo Antonio Vittone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.591566,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 63,
+    "endChar": 87
+  },
+  {
+    "idEntity": 1936523,
+    "label": "Ignazio Amedeo Galletti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.565808,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 285,
+    "endChar": 308
+  },
+  {
+    "idEntity": 1936524,
+    "label": "ad Auditorium",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.533838,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 868,
+    "endChar": 881
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936022,
+    "label": "Valperga",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.724471,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 72,
+    "endChar": 80
+  },
+  {
+    "idEntity": 1936023,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.70481,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 159,
+    "endChar": 165
+  },
+  {
+    "idEntity": 1936024,
+    "label": "Palestina",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.662236,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 574,
+    "endChar": 583
+  },
+  {
+    "idEntity": 1936025,
+    "label": "Varallo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.642495,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 459,
+    "endChar": 466
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936788,
+    "label": "Museo Storico Votivo",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.9125,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 70,
+    "endChar": 90
+  }
+]

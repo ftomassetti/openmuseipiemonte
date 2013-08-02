@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936378,
+    "label": "Parco Naturale Alta Valsesia",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.83058,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 51,
+    "endChar": 79
+  },
+  {
+    "idEntity": 1936379,
+    "label": "Parco Naturale Alta Valsesia",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.83058,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 732,
+    "endChar": 760
+  },
+  {
+    "idEntity": 1936380,
+    "label": "Fum Bitz",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.736867,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 14,
+    "endChar": 22
+  },
+  {
+    "idEntity": 1936381,
+    "label": "Monte Rosa",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.70269,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 187,
+    "endChar": 197
+  },
+  {
+    "idEntity": 1936382,
+    "label": "d'Europa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.669884,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 492,
+    "endChar": 500
+  },
+  {
+    "idEntity": 1936383,
+    "label": "Parco",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.650833,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 51,
+    "endChar": 56
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925886,
+    "label": "Isola Bella",
+    "extractorType": "Island",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Isola_Bella_%28Lago_Maggiore%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 107,
+    "endChar": 118
+  },
+  {
+    "idEntity": 1925887,
+    "label": "Lago Maggiore",
+    "extractorType": "Lake",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lake_Maggiore",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 296,
+    "endChar": 309
+  },
+  {
+    "idEntity": 1925888,
+    "label": "Adda",
+    "extractorType": "River",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Adda_%28river%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1141,
+    "endChar": 1145
+  }
+]

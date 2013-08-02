@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936669,
+    "label": "Ameno",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.72371,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 64,
+    "endChar": 69
+  },
+  {
+    "idEntity": 1936670,
+    "label": "Baveno",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.667366,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 305,
+    "endChar": 311
+  },
+  {
+    "idEntity": 1936671,
+    "label": "Maria Santissima",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.660538,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 842,
+    "endChar": 858
+  },
+  {
+    "idEntity": 1936672,
+    "label": "Giovanni Molli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.648817,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 363,
+    "endChar": 377
+  }
+]

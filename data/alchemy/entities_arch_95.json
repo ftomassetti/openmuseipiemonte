@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1935792,
+    "label": "Congresso",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.726136,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 242,
+    "endChar": 251
+  },
+  {
+    "idEntity": 1935793,
+    "label": "Ferdinando Bonsignore",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.708788,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 143,
+    "endChar": 164
+  },
+  {
+    "idEntity": 1935794,
+    "label": "Vienna",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.702424,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 255,
+    "endChar": 261
+  },
+  {
+    "idEntity": 1935795,
+    "label": "Andrea Galassi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.694735,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 416,
+    "endChar": 430
+  },
+  {
+    "idEntity": 1935796,
+    "label": "Vittorio Emanuele I",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.690795,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 205,
+    "endChar": 224
+  },
+  {
+    "idEntity": 1935797,
+    "label": "Guerra Mondiale",
+    "extractorType": "FieldTerminology",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.686098,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 615,
+    "endChar": 630
+  },
+  {
+    "idEntity": 1935798,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.653068,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 227,
+    "endChar": 233
+  },
+  {
+    "idEntity": 1935799,
+    "label": "Giovanni Ricci",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.631818,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 663,
+    "endChar": 677
+  }
+]

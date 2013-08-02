@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1936464,
+    "label": "Fobello",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.859342,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 61,
+    "endChar": 68
+  },
+  {
+    "idEntity": 1936465,
+    "label": "Fobello",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.859342,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 127,
+    "endChar": 134
+  },
+  {
+    "idEntity": 1936466,
+    "label": "Vincenzo Lancia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.644079,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 95,
+    "endChar": 110
+  },
+  {
+    "idEntity": 1936467,
+    "label": "G. Lancia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.611096,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 300,
+    "endChar": 309
+  },
+  {
+    "idEntity": 1936468,
+    "label": "della Lancia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.606272,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 492,
+    "endChar": 504
+  },
+  {
+    "idEntity": 1936469,
+    "label": "Lancia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.580658,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 12,
+    "endChar": 18
+  },
+  {
+    "idEntity": 1936470,
+    "label": "Augusta",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.569605,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 611,
+    "endChar": 618
+  },
+  {
+    "idEntity": 1936471,
+    "label": "Vincenzo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.558465,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 95,
+    "endChar": 103
+  }
+]

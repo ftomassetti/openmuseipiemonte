@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935453,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.891111,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 120,
+    "endChar": 127
+  },
+  {
+    "idEntity": 1935454,
+    "label": "Exilles",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.878889,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 12,
+    "endChar": 19
+  },
+  {
+    "idEntity": 1935455,
+    "label": "Susa",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.849444,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 77,
+    "endChar": 81
+  },
+  {
+    "idEntity": 1935456,
+    "label": "Occidentali",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.848333,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 471,
+    "endChar": 482
+  },
+  {
+    "idEntity": 1935457,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.840185,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 226,
+    "endChar": 232
+  }
+]

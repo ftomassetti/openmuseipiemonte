@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936840,
+    "label": "Cuneo",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.880093,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 318,
+    "endChar": 323
+  },
+  {
+    "idEntity": 1936841,
+    "label": "Madonna",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.849537,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 409,
+    "endChar": 416
+  }
+]

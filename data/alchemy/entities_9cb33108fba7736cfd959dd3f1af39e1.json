@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936843,
+    "label": "Garessio",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.835417,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 675,
+    "endChar": 683
+  },
+  {
+    "idEntity": 1936844,
+    "label": "Val Tanaro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.800833,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 829,
+    "endChar": 839
+  }
+]

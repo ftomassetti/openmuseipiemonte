@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1935877,
+    "label": "San Maurizio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.712044,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 41,
+    "endChar": 53
+  },
+  {
+    "idEntity": 1935878,
+    "label": "Santa Croce",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.711903,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 309,
+    "endChar": 320
+  },
+  {
+    "idEntity": 1935879,
+    "label": "Piemonte",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.669883,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 431,
+    "endChar": 439
+  },
+  {
+    "idEntity": 1935880,
+    "label": "Defendente Ferrari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.651455,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1008,
+    "endChar": 1026
+  },
+  {
+    "idEntity": 1935881,
+    "label": "Bernardo Vittone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.648969,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 508,
+    "endChar": 524
+  },
+  {
+    "idEntity": 1935882,
+    "label": "Giuseppe Giovenone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.632762,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1079,
+    "endChar": 1097
+  }
+]

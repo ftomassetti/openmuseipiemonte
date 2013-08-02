@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925743,
+    "label": "Biella",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Biella",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 78,
+    "endChar": 84
+  },
+  {
+    "idEntity": 1925744,
+    "label": "Vercelli",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Vercelli",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 165,
+    "endChar": 173
+  },
+  {
+    "idEntity": 1925745,
+    "label": "Biella",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Biella",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 208,
+    "endChar": 214
+  }
+]

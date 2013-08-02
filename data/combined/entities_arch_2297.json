@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924188,
+    "label": "Oleggio Castello",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Oleggio_Castello",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 160,
+    "endChar": 176
+  },
+  {
+    "idEntity": 1924189,
+    "label": "Lago Maggiore",
+    "extractorType": "Lake",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lake_Maggiore",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 182,
+    "endChar": 195
+  },
+  {
+    "idEntity": 1924190,
+    "label": "Pozzo d'Annone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.873333,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 342,
+    "endChar": 356
+  }
+]

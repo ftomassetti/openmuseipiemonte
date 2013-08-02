@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1924594,
+    "label": "Alpi Marittime",
+    "extractorType": "MountainRange",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Maritime_Alps",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 680,
+    "endChar": 694
+  },
+  {
+    "idEntity": 1924592,
+    "label": "Entracque",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Entracque",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 378,
+    "endChar": 387
+  },
+  {
+    "idEntity": 1924591,
+    "label": "Il Centro",
+    "extractorType": "Newspaper",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Il_Centro",
+    "confidence": 0.9118,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 9
+  },
+  {
+    "idEntity": 1924595,
+    "label": "Il Centro",
+    "extractorType": "Newspaper",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Il_Centro",
+    "confidence": 0.9118,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 696,
+    "endChar": 705
+  },
+  {
+    "idEntity": 1924593,
+    "label": "Ligabue",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.883017,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 568,
+    "endChar": 575
+  }
+]

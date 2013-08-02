@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936803,
+    "label": "Grinzane Cavour",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.895833,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 15,
+    "endChar": 30
+  },
+  {
+    "idEntity": 1936804,
+    "label": "XIII",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.705357,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 91,
+    "endChar": 95
+  },
+  {
+    "idEntity": 1936805,
+    "label": "Museo delle Langhe",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.703214,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 203,
+    "endChar": 221
+  },
+  {
+    "idEntity": 1936806,
+    "label": "Camillo Benso",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.702024,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 123,
+    "endChar": 136
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1936447,
+    "label": "Pinacoteca Varallo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.751972,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 425,
+    "endChar": 443
+  },
+  {
+    "idEntity": 1936448,
+    "label": "Sacro Monte",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.717775,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 107,
+    "endChar": 118
+  },
+  {
+    "idEntity": 1936449,
+    "label": "Sacro Monte",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.717775,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1071,
+    "endChar": 1082
+  },
+  {
+    "idEntity": 1936450,
+    "label": "XIX secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.555696,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 745,
+    "endChar": 755
+  },
+  {
+    "idEntity": 1936451,
+    "label": "Società di Conservazione delle Opere",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.500838,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 331,
+    "endChar": 367
+  },
+  {
+    "idEntity": 1936452,
+    "label": "Valsesia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.498976,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 394,
+    "endChar": 402
+  },
+  {
+    "idEntity": 1936453,
+    "label": "Gaudenzio Ferrari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.4645,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 799,
+    "endChar": 816
+  },
+  {
+    "idEntity": 1936454,
+    "label": "Antonini, Albertoni, Della",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.460745,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1132,
+    "endChar": 1158
+  }
+]

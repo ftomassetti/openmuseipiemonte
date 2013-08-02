@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936550,
+    "label": "lago d'Orta",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.796929,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 253,
+    "endChar": 264
+  },
+  {
+    "idEntity": 1936551,
+    "label": "Antonio Calderara",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.562987,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 318,
+    "endChar": 335
+  }
+]

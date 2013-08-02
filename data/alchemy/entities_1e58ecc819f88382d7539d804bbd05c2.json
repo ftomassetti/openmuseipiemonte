@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936490,
+    "label": "Arialdo Daverio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.868316,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 37,
+    "endChar": 52
+  },
+  {
+    "idEntity": 1936491,
+    "label": "Monte Fenera",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.63818,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 977,
+    "endChar": 989
+  }
+]

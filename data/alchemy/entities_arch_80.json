@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1935756,
+    "label": "calcio",
+    "extractorType": "Sport",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": null,
+    "confidence": 0.743998,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1217,
+    "endChar": 1223
+  },
+  {
+    "idEntity": 1935757,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.718936,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 45,
+    "endChar": 60
+  },
+  {
+    "idEntity": 1935758,
+    "label": "Rivoli",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.702199,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 288,
+    "endChar": 294
+  },
+  {
+    "idEntity": 1935759,
+    "label": "Vittorio Amedeo II",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.700851,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 95,
+    "endChar": 113
+  },
+  {
+    "idEntity": 1935760,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.643865,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 132,
+    "endChar": 138
+  },
+  {
+    "idEntity": 1935761,
+    "label": "Francesco Martinez",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.63578,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 982,
+    "endChar": 1000
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1935931,
+    "label": "Santa Teresa",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.888462,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 22,
+    "endChar": 34
+  },
+  {
+    "idEntity": 1935932,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.875962,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 177,
+    "endChar": 184
+  },
+  {
+    "idEntity": 1935933,
+    "label": "Cristina di",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.841731,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 165,
+    "endChar": 176
+  },
+  {
+    "idEntity": 1935934,
+    "label": "Andrea Costaguta",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.832308,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 116,
+    "endChar": 132
+  },
+  {
+    "idEntity": 1935935,
+    "label": "Santa Cristina",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.803654,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 399,
+    "endChar": 413
+  },
+  {
+    "idEntity": 1935936,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.788654,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 636,
+    "endChar": 651
+  },
+  {
+    "idEntity": 1935937,
+    "label": "San Giuseppe",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.785577,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 685,
+    "endChar": 697
+  },
+  {
+    "idEntity": 1935938,
+    "label": "Carlo Filippo Aliberti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.783654,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 299,
+    "endChar": 321
+  },
+  {
+    "idEntity": 1935939,
+    "label": "Luigi Vacca",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.761538,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 473,
+    "endChar": 484
+  },
+  {
+    "idEntity": 1935940,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.756731,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 336,
+    "endChar": 353
+  }
+]

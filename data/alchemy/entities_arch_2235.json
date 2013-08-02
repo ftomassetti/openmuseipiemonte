@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936309,
+    "label": "Simone Martinez",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.780035,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 807,
+    "endChar": 822
+  },
+  {
+    "idEntity": 1936310,
+    "label": "Emanuele Filiberto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.584476,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 16,
+    "endChar": 34
+  },
+  {
+    "idEntity": 1936311,
+    "label": "De Marne",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.570131,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 322,
+    "endChar": 330
+  },
+  {
+    "idEntity": 1936312,
+    "label": "San Maurizio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.519904,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1253,
+    "endChar": 1265
+  }
+]

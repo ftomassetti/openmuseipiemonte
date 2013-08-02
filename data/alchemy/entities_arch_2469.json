@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935928,
+    "label": "Giuseppe Tecco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.554521,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 349,
+    "endChar": 363
+  },
+  {
+    "idEntity": 1935929,
+    "label": "Carlo Sada",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.516303,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 457,
+    "endChar": 467
+  },
+  {
+    "idEntity": 1935930,
+    "label": "Giuseppe Leoni",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.498774,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 470,
+    "endChar": 484
+  }
+]

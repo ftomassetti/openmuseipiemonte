@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936040,
+    "label": "XVII secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.86581,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 438,
+    "endChar": 449
+  },
+  {
+    "idEntity": 1936041,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.693784,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1127,
+    "endChar": 1133
+  },
+  {
+    "idEntity": 1936042,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.690901,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 249,
+    "endChar": 264
+  },
+  {
+    "idEntity": 1936043,
+    "label": "Carlo Mosca",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.656486,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 301,
+    "endChar": 312
+  },
+  {
+    "idEntity": 1936044,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.640541,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 266,
+    "endChar": 283
+  },
+  {
+    "idEntity": 1936045,
+    "label": "Ernesto Melano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.64018,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 285,
+    "endChar": 299
+  }
+]

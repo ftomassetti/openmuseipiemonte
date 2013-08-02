@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1922268,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.906452,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 149,
+    "endChar": 155
+  },
+  {
+    "idEntity": 1922267,
+    "label": "Montagna",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Montan",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 137,
+    "endChar": 145
+  }
+]

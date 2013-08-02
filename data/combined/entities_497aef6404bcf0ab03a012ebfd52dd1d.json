@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922677,
+    "label": "Pietro Micca",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.922368,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 32,
+    "endChar": 44
+  },
+  {
+    "idEntity": 1922678,
+    "label": "Cittadella",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cittadella",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 385,
+    "endChar": 395
+  },
+  {
+    "idEntity": 1922679,
+    "label": "Cittadella",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cittadella",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 491,
+    "endChar": 501
+  }
+]

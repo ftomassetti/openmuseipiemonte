@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922121,
+    "label": "Pramollo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Pramollo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 377,
+    "endChar": 385
+  },
+  {
+    "idEntity": 1922120,
+    "label": "Charles Beckwith",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.923352,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 22,
+    "endChar": 38
+  },
+  {
+    "idEntity": 1922122,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 661,
+    "endChar": 670
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936408,
+    "label": "Gian Battista Filippa",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.879062,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 122,
+    "endChar": 143
+  },
+  {
+    "idEntity": 1936409,
+    "label": "Walser",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.841042,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 267,
+    "endChar": 273
+  },
+  {
+    "idEntity": 1936410,
+    "label": "Spagna",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.825521,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 615,
+    "endChar": 621
+  }
+]

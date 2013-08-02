@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1935287,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.844057,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 91,
+    "endChar": 97
+  },
+  {
+    "idEntity": 1935288,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.844057,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 761,
+    "endChar": 767
+  },
+  {
+    "idEntity": 1935289,
+    "label": "Museo propone",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.832751,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 494,
+    "endChar": 507
+  },
+  {
+    "idEntity": 1935290,
+    "label": "Museo della Sindone",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.702061,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 3,
+    "endChar": 22
+  }
+]

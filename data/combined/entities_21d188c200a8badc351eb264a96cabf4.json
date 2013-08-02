@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1924142,
+    "label": "Africa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Africa",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 993,
+    "endChar": 999
+  },
+  {
+    "idEntity": 1924143,
+    "label": "Asia",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Asia",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1007,
+    "endChar": 1011
+  },
+  {
+    "idEntity": 1924138,
+    "label": "Meina",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.809113,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 174,
+    "endChar": 179
+  },
+  {
+    "idEntity": 1924141,
+    "label": "Meina",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.809113,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 948,
+    "endChar": 953
+  },
+  {
+    "idEntity": 1924136,
+    "label": "Catherine Faraggiana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.582661,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 85,
+    "endChar": 105
+  },
+  {
+    "idEntity": 1924137,
+    "label": "Alessandro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.564825,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 128,
+    "endChar": 138
+  },
+  {
+    "idEntity": 1924139,
+    "label": "Novara",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.564649,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 224,
+    "endChar": 230
+  },
+  {
+    "idEntity": 1924140,
+    "label": "Piemonte",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.55155,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 469,
+    "endChar": 477
+  },
+  {
+    "idEntity": 1924144,
+    "label": "Alessandro Faraggiana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.512817,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1015,
+    "endChar": 1036
+  },
+  {
+    "idEntity": 1924145,
+    "label": "Ugo Ferrandi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.511647,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1069,
+    "endChar": 1081
+  }
+]

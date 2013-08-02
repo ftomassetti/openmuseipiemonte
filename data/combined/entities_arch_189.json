@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925417,
+    "label": "Repubblica di Genova",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Republic_of_Genoa",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 519,
+    "endChar": 539
+  }
+]

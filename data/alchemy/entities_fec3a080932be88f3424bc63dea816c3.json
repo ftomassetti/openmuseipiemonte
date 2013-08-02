@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936928,
+    "label": "Ligabue",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.883017,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 568,
+    "endChar": 575
+  }
+]

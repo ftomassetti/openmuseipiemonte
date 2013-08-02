@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936655,
+    "label": "scuola elementare",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.826763,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 593,
+    "endChar": 610
+  },
+  {
+    "idEntity": 1936656,
+    "label": "Badia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.716682,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 29,
+    "endChar": 34
+  }
+]

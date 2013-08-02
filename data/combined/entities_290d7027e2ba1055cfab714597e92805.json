@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1922323,
+    "label": "Torre Pellice",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Torre_Pellice",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 30,
+    "endChar": 43
+  }
+]

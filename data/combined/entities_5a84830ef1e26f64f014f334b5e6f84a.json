@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1925260,
+    "label": "Leonardo Bistolfi",
+    "extractorType": "Artist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Leonardo_Bistolfi",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 310,
+    "endChar": 327
+  },
+  {
+    "idEntity": 1925258,
+    "label": "Casale Monferrato",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Casale_Monferrato",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 19,
+    "endChar": 36
+  },
+  {
+    "idEntity": 1925259,
+    "label": "Moncalvo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Moncalvo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 195,
+    "endChar": 203
+  },
+  {
+    "idEntity": 1925261,
+    "label": "Moncalvo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Moncalvo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 442,
+    "endChar": 450
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925507,
+    "label": "Luca Giordano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Luca_Giordano",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 527,
+    "endChar": 540
+  },
+  {
+    "idEntity": 1925505,
+    "label": "Ovada",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ovada",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 42,
+    "endChar": 47
+  },
+  {
+    "idEntity": 1925506,
+    "label": "Santa Teresa",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Santa_Teresa%2C_Carazo",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 510,
+    "endChar": 522
+  }
+]

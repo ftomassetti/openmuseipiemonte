@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936875,
+    "label": "Cuneo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.923462,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 27,
+    "endChar": 32
+  },
+  {
+    "idEntity": 1936876,
+    "label": "Sala Reale",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.894487,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 218,
+    "endChar": 228
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935993,
+    "label": "Domenico Guidobono",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.831115,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 877,
+    "endChar": 895
+  }
+]

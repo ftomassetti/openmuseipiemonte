@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1935632,
+    "label": "Torre Pellice",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.891155,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 52,
+    "endChar": 65
+  },
+  {
+    "idEntity": 1935633,
+    "label": "Torre Pellice",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.891155,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 314,
+    "endChar": 327
+  },
+  {
+    "idEntity": 1935634,
+    "label": "Filippo Scroppo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.662038,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 76,
+    "endChar": 91
+  },
+  {
+    "idEntity": 1935635,
+    "label": "Felice Casorati",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.652374,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 240,
+    "endChar": 255
+  },
+  {
+    "idEntity": 1935636,
+    "label": "Maglione",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.649755,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 464,
+    "endChar": 472
+  },
+  {
+    "idEntity": 1935637,
+    "label": "Civica Galleria",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.640861,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 737,
+    "endChar": 752
+  },
+  {
+    "idEntity": 1935638,
+    "label": "Maurizio Corgnati",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.632276,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 426,
+    "endChar": 443
+  }
+]

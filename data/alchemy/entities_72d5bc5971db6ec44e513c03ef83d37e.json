@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935424,
+    "label": "Coazze",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.878235,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 13,
+    "endChar": 19
+  },
+  {
+    "idEntity": 1935425,
+    "label": "Giaveno",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.824706,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 52,
+    "endChar": 59
+  },
+  {
+    "idEntity": 1935426,
+    "label": "Valgioie",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.798529,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 62,
+    "endChar": 70
+  }
+]

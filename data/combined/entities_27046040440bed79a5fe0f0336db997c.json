@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922285,
+    "label": "Chisone",
+    "extractorType": "River",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Chisone",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 573,
+    "endChar": 580
+  },
+  {
+    "idEntity": 1922286,
+    "label": "Pellice",
+    "extractorType": "River",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Pellice",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 600,
+    "endChar": 607
+  },
+  {
+    "idEntity": 1922287,
+    "label": "Susa",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Sousse",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 618,
+    "endChar": 622
+  }
+]

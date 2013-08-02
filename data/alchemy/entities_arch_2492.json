@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1936014,
+    "label": "Chieri",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.805646,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 69,
+    "endChar": 75
+  },
+  {
+    "idEntity": 1936015,
+    "label": "Chieri",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.805646,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 963,
+    "endChar": 969
+  },
+  {
+    "idEntity": 1936016,
+    "label": "Maria Assunta",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.538604,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1250,
+    "endChar": 1263
+  },
+  {
+    "idEntity": 1936017,
+    "label": "Milano",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.520796,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 857,
+    "endChar": 863
+  },
+  {
+    "idEntity": 1936018,
+    "label": "Amedeo VIII",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.509294,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 922,
+    "endChar": 933
+  }
+]

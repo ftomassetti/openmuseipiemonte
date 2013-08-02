@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925594,
+    "label": "Libano",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lebanon",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 263,
+    "endChar": 269
+  }
+]

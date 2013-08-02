@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1936136,
+    "label": "Gianfrancesco Baroncelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.869609,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 13,
+    "endChar": 37
+  },
+  {
+    "idEntity": 1936137,
+    "label": "Camillo Benso",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.847344,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 193,
+    "endChar": 206
+  },
+  {
+    "idEntity": 1936138,
+    "label": "Casa Savoia",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.82375,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 358,
+    "endChar": 369
+  },
+  {
+    "idEntity": 1936139,
+    "label": "Gerolamo Buonaparte",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.815703,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 314,
+    "endChar": 333
+  },
+  {
+    "idEntity": 1936140,
+    "label": "Napoleone III",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.812187,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 387,
+    "endChar": 400
+  },
+  {
+    "idEntity": 1936141,
+    "label": "Palazzo Graneri",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.808516,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 47,
+    "endChar": 62
+  },
+  {
+    "idEntity": 1936142,
+    "label": "Regione Piemonte",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.800781,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 877,
+    "endChar": 893
+  },
+  {
+    "idEntity": 1936143,
+    "label": "Palazzo Granari",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.784687,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 809,
+    "endChar": 824
+  }
+]

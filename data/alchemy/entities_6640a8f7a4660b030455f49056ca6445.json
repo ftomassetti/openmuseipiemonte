@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935356,
+    "label": "Regio Museo Industriale italiano",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.958621,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 365,
+    "endChar": 397
+  },
+  {
+    "idEntity": 1935357,
+    "label": "dell'Ateneo",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.897396,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 107,
+    "endChar": 118
+  },
+  {
+    "idEntity": 1935358,
+    "label": "Centro Museo",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.879609,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 3,
+    "endChar": 15
+  },
+  {
+    "idEntity": 1935359,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.825781,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 444,
+    "endChar": 450
+  },
+  {
+    "idEntity": 1935360,
+    "label": "Regio Museo Industriale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.807604,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 365,
+    "endChar": 388
+  }
+]

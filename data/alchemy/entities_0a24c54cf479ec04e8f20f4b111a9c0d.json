@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1935206,
+    "label": "Don Bosco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.803477,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 17,
+    "endChar": 26
+  },
+  {
+    "idEntity": 1935207,
+    "label": "Don Bosco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.803477,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 388,
+    "endChar": 397
+  },
+  {
+    "idEntity": 1935208,
+    "label": "Don Bosco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.803477,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1012,
+    "endChar": 1021
+  },
+  {
+    "idEntity": 1935209,
+    "label": "Chieri",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.726728,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 126,
+    "endChar": 132
+  },
+  {
+    "idEntity": 1935210,
+    "label": "Chieri",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.726728,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 539,
+    "endChar": 545
+  },
+  {
+    "idEntity": 1935211,
+    "label": "San Filippo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.584753,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 277,
+    "endChar": 288
+  },
+  {
+    "idEntity": 1935212,
+    "label": "Luigi Comollo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.556667,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 342,
+    "endChar": 355
+  },
+  {
+    "idEntity": 1935213,
+    "label": "Giovanni Bosco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.551728,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 625,
+    "endChar": 639
+  }
+]

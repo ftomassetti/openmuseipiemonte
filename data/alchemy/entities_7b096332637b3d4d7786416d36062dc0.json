@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935009,
+    "label": "Michele Colombino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.828763,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 551,
+    "endChar": 568
+  },
+  {
+    "idEntity": 1935010,
+    "label": "Frossasco",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.800538,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 586,
+    "endChar": 595
+  }
+]

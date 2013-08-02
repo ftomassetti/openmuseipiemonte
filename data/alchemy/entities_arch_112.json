@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1936502,
+    "label": "Casale Monferrato",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.801786,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1163,
+    "endChar": 1180
+  },
+  {
+    "idEntity": 1936503,
+    "label": "Leri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.799524,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 878,
+    "endChar": 882
+  },
+  {
+    "idEntity": 1936504,
+    "label": "Francesco Gallo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.770655,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1054,
+    "endChar": 1069
+  },
+  {
+    "idEntity": 1936505,
+    "label": "Chivasso",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.767381,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1152,
+    "endChar": 1160
+  },
+  {
+    "idEntity": 1936506,
+    "label": "Milano",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.765298,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1199,
+    "endChar": 1205
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1935512,
+    "label": "Palazzo Reale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.755651,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 773,
+    "endChar": 786
+  },
+  {
+    "idEntity": 1935513,
+    "label": "Palazzo Reale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.755651,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 959,
+    "endChar": 972
+  },
+  {
+    "idEntity": 1935514,
+    "label": "Palazzo",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.704857,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 357,
+    "endChar": 364
+  },
+  {
+    "idEntity": 1935515,
+    "label": "Emanuele Filiberto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.677175,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 109,
+    "endChar": 127
+  },
+  {
+    "idEntity": 1935516,
+    "label": "Grecia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.654364,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 735,
+    "endChar": 741
+  },
+  {
+    "idEntity": 1935517,
+    "label": "Vittorio Amedeo II",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.646257,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 244,
+    "endChar": 262
+  },
+  {
+    "idEntity": 1935518,
+    "label": "Museo Egizio",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.602569,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 495,
+    "endChar": 507
+  },
+  {
+    "idEntity": 1935519,
+    "label": "Augusta Taurinorum",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.558092,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1098,
+    "endChar": 1116
+  },
+  {
+    "idEntity": 1935520,
+    "label": "Museo di Antichità",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.551386,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 15,
+    "endChar": 33
+  }
+]

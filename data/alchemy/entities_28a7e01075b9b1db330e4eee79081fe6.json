@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935601,
+    "label": "Nicola Fabrizi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.861765,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 379,
+    "endChar": 393
+  },
+  {
+    "idEntity": 1935602,
+    "label": "Svizzera",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.834559,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 400,
+    "endChar": 408
+  },
+  {
+    "idEntity": 1935603,
+    "label": "Netro",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.831618,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 427,
+    "endChar": 432
+  }
+]

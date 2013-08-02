@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1923588,
+    "label": "Politecnico di Torino",
+    "extractorType": "University",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Polytechnic_University_of_Turin",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 271,
+    "endChar": 292
+  },
+  {
+    "idEntity": 1923587,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.843333,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 113,
+    "endChar": 119
+  },
+  {
+    "idEntity": 1923589,
+    "label": "Intesa Sanpaolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.59113,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 373,
+    "endChar": 388
+  },
+  {
+    "idEntity": 1923590,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.560057,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1105,
+    "endChar": 1111
+  }
+]

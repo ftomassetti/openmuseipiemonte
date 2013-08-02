@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935643,
+    "label": "Santa Maria",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.74498,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 153,
+    "endChar": 164
+  },
+  {
+    "idEntity": 1935644,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.689076,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 443,
+    "endChar": 450
+  },
+  {
+    "idEntity": 1935645,
+    "label": "Carlo Emanuele III",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.66759,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 592,
+    "endChar": 610
+  }
+]

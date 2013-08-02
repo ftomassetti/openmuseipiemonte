@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1935684,
+    "label": "Valperga",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.823446,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 217,
+    "endChar": 225
+  },
+  {
+    "idEntity": 1935685,
+    "label": "Valperga",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.823446,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 318,
+    "endChar": 326
+  },
+  {
+    "idEntity": 1935686,
+    "label": "re Arduino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.655546,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 101,
+    "endChar": 111
+  },
+  {
+    "idEntity": 1935687,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.559295,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 609,
+    "endChar": 616
+  },
+  {
+    "idEntity": 1935688,
+    "label": "San Martino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.521026,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 340,
+    "endChar": 351
+  },
+  {
+    "idEntity": 1935689,
+    "label": "Carlo Giuseppe Coardi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.506923,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 925,
+    "endChar": 946
+  },
+  {
+    "idEntity": 1935690,
+    "label": "Madama Reale",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.505641,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 633,
+    "endChar": 645
+  },
+  {
+    "idEntity": 1935691,
+    "label": "Carpeneto",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.496282,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 950,
+    "endChar": 959
+  }
+]

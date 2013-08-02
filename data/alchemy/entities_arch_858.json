@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936547,
+    "label": "palazzo Langosco, edificio",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.813491,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 143,
+    "endChar": 169
+  },
+  {
+    "idEntity": 1936548,
+    "label": "Camillo Leone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.406765,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 286,
+    "endChar": 299
+  },
+  {
+    "idEntity": 1936549,
+    "label": "Vittorio Viale",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.4,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 451,
+    "endChar": 465
+  }
+]

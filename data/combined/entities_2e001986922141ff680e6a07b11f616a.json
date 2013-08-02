@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1923877,
+    "label": "Borgosesia",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Borgosesia",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 318,
+    "endChar": 328
+  },
+  {
+    "idEntity": 1923876,
+    "label": "Borgosesia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.8925,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 43,
+    "endChar": 53
+  },
+  {
+    "idEntity": 1923878,
+    "label": "monte Fenera",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.81194,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 462,
+    "endChar": 474
+  }
+]

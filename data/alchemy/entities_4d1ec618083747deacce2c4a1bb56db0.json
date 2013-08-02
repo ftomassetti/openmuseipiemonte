@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935046,
+    "label": "Val Germanasca",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.905488,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 206,
+    "endChar": 220
+  },
+  {
+    "idEntity": 1935047,
+    "label": "d'Europa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.844512,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 320,
+    "endChar": 328
+  }
+]

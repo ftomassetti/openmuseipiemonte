@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1935827,
+    "label": "Antonio Provana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.853053,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 195,
+    "endChar": 210
+  },
+  {
+    "idEntity": 1935828,
+    "label": "Dora Grossa",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.837013,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 261,
+    "endChar": 272
+  },
+  {
+    "idEntity": 1935829,
+    "label": "Bernardo Antonio Vittone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.804934,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 354,
+    "endChar": 378
+  },
+  {
+    "idEntity": 1935830,
+    "label": "Andrea Pozzo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.789889,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 594,
+    "endChar": 606
+  },
+  {
+    "idEntity": 1935831,
+    "label": "Joseph De Maistre",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.770752,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 691,
+    "endChar": 708
+  },
+  {
+    "idEntity": 1935832,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.761681,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 451,
+    "endChar": 466
+  },
+  {
+    "idEntity": 1935833,
+    "label": "Antonio Milocco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.732699,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 514,
+    "endChar": 529
+  }
+]

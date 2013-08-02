@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924598,
+    "label": "Santo Stefano",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/Saint_Stephen",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 858,
+    "endChar": 871
+  },
+  {
+    "idEntity": 1924596,
+    "label": "Cuneo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cuneo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 594,
+    "endChar": 599
+  },
+  {
+    "idEntity": 1924597,
+    "label": "Politecnico di Torino",
+    "extractorType": "University",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Polytechnic_University_of_Turin",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 620,
+    "endChar": 641
+  }
+]

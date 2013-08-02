@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936034,
+    "label": "Carignano",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.594792,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 126,
+    "endChar": 135
+  },
+  {
+    "idEntity": 1936035,
+    "label": "Michelangelo Garove",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.574323,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 57,
+    "endChar": 76
+  },
+  {
+    "idEntity": 1936036,
+    "label": "San Marzano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.552448,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 185,
+    "endChar": 196
+  },
+  {
+    "idEntity": 1936037,
+    "label": "Camillo Boggio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.523021,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 729,
+    "endChar": 743
+  },
+  {
+    "idEntity": 1936038,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.49099,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 485,
+    "endChar": 502
+  },
+  {
+    "idEntity": 1936039,
+    "label": "Francesco Martinez",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.456875,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 505,
+    "endChar": 523
+  }
+]

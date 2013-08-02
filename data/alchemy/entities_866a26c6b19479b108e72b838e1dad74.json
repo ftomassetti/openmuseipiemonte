@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1935064,
+    "label": "Camillo Benso",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.824954,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 483,
+    "endChar": 496
+  },
+  {
+    "idEntity": 1935065,
+    "label": "Camillo Benso",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.824954,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 669,
+    "endChar": 682
+  },
+  {
+    "idEntity": 1935066,
+    "label": "Cavour",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.818194,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 22,
+    "endChar": 28
+  },
+  {
+    "idEntity": 1935067,
+    "label": "Cavour",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.818194,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 194,
+    "endChar": 200
+  },
+  {
+    "idEntity": 1935068,
+    "label": "Fondazione Camillo Cavour",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.737037,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 3,
+    "endChar": 28
+  },
+  {
+    "idEntity": 1935069,
+    "label": "Santena",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.620741,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 306,
+    "endChar": 313
+  }
+]

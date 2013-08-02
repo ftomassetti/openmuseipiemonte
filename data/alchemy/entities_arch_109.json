@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936657,
+    "label": "Antonio Barbavara",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.666478,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 471,
+    "endChar": 488
+  },
+  {
+    "idEntity": 1936658,
+    "label": "Biandrate",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.533893,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 66,
+    "endChar": 75
+  },
+  {
+    "idEntity": 1936659,
+    "label": "San Benedetto",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.476096,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1728,
+    "endChar": 1741
+  },
+  {
+    "idEntity": 1936660,
+    "label": "Galeazzo Maria Sforza",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.451157,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 862,
+    "endChar": 883
+  }
+]

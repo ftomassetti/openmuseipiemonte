@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1935345,
+    "label": "Galileo, Lagrange, Hubble, Einstein",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.699653,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 933,
+    "endChar": 968
+  },
+  {
+    "idEntity": 1935346,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.699438,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 349,
+    "endChar": 355
+  },
+  {
+    "idEntity": 1935347,
+    "label": "d'Europa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.689483,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 570,
+    "endChar": 578
+  },
+  {
+    "idEntity": 1935348,
+    "label": "dell'Universo",
+    "extractorType": "FieldTerminology",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.686516,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 666,
+    "endChar": 679
+  }
+]

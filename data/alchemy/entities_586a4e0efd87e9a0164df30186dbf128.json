@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936916,
+    "label": "Facoltà di Agraria dell'Università degli Studi di Torino",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.865816,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 434,
+    "endChar": 490
+  }
+]

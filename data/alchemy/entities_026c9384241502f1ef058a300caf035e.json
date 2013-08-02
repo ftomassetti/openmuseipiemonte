@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1936820,
+    "label": "Fernanda Gregoli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.887521,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 40,
+    "endChar": 56
+  },
+  {
+    "idEntity": 1936821,
+    "label": "l'Amministrazione Comunale",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.8573,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 436,
+    "endChar": 462
+  },
+  {
+    "idEntity": 1936822,
+    "label": "Giovanni Biglione",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.856736,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 138,
+    "endChar": 155
+  },
+  {
+    "idEntity": 1936823,
+    "label": "Valle Maira",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.855496,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 162,
+    "endChar": 173
+  },
+  {
+    "idEntity": 1936824,
+    "label": "della Valle",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.848127,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 423,
+    "endChar": 434
+  }
+]

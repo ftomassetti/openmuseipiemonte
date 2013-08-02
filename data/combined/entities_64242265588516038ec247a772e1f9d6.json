@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922311,
+    "label": "Sala",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/K%C3%B6ping%2C_Sweden",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 367,
+    "endChar": 371
+  },
+  {
+    "idEntity": 1922310,
+    "label": "Domenico Torta",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.748413,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 58,
+    "endChar": 72
+  },
+  {
+    "idEntity": 1922312,
+    "label": "Campane",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.703404,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 776,
+    "endChar": 783
+  }
+]

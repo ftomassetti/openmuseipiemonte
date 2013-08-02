@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1935336,
+    "label": "Giovanni Battista Beccaria",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.836582,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 60,
+    "endChar": 86
+  },
+  {
+    "idEntity": 1935337,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.572815,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 36,
+    "endChar": 42
+  },
+  {
+    "idEntity": 1935338,
+    "label": "Caluso",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.564831,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 283,
+    "endChar": 289
+  },
+  {
+    "idEntity": 1935339,
+    "label": "Pino Torinese",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.556898,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 622,
+    "endChar": 635
+  },
+  {
+    "idEntity": 1935340,
+    "label": "Tommaso Valperga",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.555493,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 263,
+    "endChar": 279
+  },
+  {
+    "idEntity": 1935341,
+    "label": "Antonio Maria Vassalli Eandi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.554389,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 292,
+    "endChar": 320
+  },
+  {
+    "idEntity": 1935342,
+    "label": "Giovanni Plana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.529739,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 369,
+    "endChar": 383
+  },
+  {
+    "idEntity": 1935343,
+    "label": "Sardegna",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.518436,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 530,
+    "endChar": 538
+  },
+  {
+    "idEntity": 1935344,
+    "label": "Joseph-Louis Lagrange",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.511527,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 419,
+    "endChar": 440
+  }
+]

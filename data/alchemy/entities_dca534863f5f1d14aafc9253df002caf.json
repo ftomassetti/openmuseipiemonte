@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936872,
+    "label": "Chiusa",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.848721,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 171,
+    "endChar": 177
+  },
+  {
+    "idEntity": 1936873,
+    "label": "Chiusa",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.848721,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 335,
+    "endChar": 341
+  },
+  {
+    "idEntity": 1936874,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.613663,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 824,
+    "endChar": 830
+  }
+]

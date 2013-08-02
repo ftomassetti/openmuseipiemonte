@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935325,
+    "label": "l'Associazione Museo dell'Agricoltura del",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.830282,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 919,
+    "endChar": 960
+  }
+]

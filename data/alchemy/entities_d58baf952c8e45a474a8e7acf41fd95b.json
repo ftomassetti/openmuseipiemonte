@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935297,
+    "label": "Bruno",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.846147,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 143,
+    "endChar": 148
+  },
+  {
+    "idEntity": 1935298,
+    "label": "Papa Pio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.828383,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 817,
+    "endChar": 825
+  }
+]

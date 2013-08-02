@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1923115,
+    "label": "Mole",
+    "extractorType": "River",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/River_Mole",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 309,
+    "endChar": 313
+  },
+  {
+    "idEntity": 1923114,
+    "label": "Alessandro Antonelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.722174,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 233,
+    "endChar": 253
+  },
+  {
+    "idEntity": 1923116,
+    "label": "Enrico Petiti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.71,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 517,
+    "endChar": 530
+  },
+  {
+    "idEntity": 1923117,
+    "label": "Chieri",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.687391,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1395,
+    "endChar": 1401
+  }
+]

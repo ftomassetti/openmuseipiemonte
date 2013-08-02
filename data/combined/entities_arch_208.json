@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1923437,
+    "label": "Annibale",
+    "extractorType": "MilitaryPerson",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Hannibal",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 39,
+    "endChar": 47
+  },
+  {
+    "idEntity": 1923441,
+    "label": "Gae Aulenti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Gae_Aulenti",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 232,
+    "endChar": 243
+  },
+  {
+    "idEntity": 1923443,
+    "label": "Gae Aulenti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Gae_Aulenti",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 450,
+    "endChar": 461
+  },
+  {
+    "idEntity": 1923439,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Italy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 89,
+    "endChar": 95
+  },
+  {
+    "idEntity": 1923440,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Italy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 149,
+    "endChar": 155
+  },
+  {
+    "idEntity": 1923442,
+    "label": "Olimpiadi Invernali",
+    "extractorType": "SportingEvent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.638855,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 251,
+    "endChar": 270
+  },
+  {
+    "idEntity": 1923438,
+    "label": "Giorgio Rigotti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.617892,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 50,
+    "endChar": 65
+  }
+]

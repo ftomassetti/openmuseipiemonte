@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935181,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.913793,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 101,
+    "endChar": 107
+  },
+  {
+    "idEntity": 1935182,
+    "label": "Val Susa",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.877586,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 197,
+    "endChar": 205
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936317,
+    "label": "Edoardo Rubino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.793464,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 459,
+    "endChar": 473
+  },
+  {
+    "idEntity": 1936318,
+    "label": "Gabriele d'Annunzio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.740655,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 490,
+    "endChar": 509
+  }
+]

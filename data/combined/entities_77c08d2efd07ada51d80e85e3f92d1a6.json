@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925136,
+    "label": "Piovà Massaia",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Piov%C3%A0_Massaia",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 121,
+    "endChar": 134
+  },
+  {
+    "idEntity": 1925135,
+    "label": "Alpini",
+    "extractorType": "MilitaryUnit",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Alpini",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 89,
+    "endChar": 95
+  },
+  {
+    "idEntity": 1925134,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 35,
+    "endChar": 44
+  }
+]

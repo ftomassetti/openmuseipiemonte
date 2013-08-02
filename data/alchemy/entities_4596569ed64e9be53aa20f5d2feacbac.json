@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935153,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.906452,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 149,
+    "endChar": 155
+  }
+]

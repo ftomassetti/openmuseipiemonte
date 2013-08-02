@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936868,
+    "label": "Adriana Filippi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.87913,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 127,
+    "endChar": 142
+  },
+  {
+    "idEntity": 1936869,
+    "label": "San Giacomo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.693478,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 215,
+    "endChar": 226
+  }
+]

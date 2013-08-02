@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935055,
+    "label": "Museo Valdese",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.8725,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 393,
+    "endChar": 406
+  },
+  {
+    "idEntity": 1935056,
+    "label": "Rorà",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.839,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 494,
+    "endChar": 498
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1936507,
+    "label": "Sacri Monti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.858878,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 102,
+    "endChar": 113
+  },
+  {
+    "idEntity": 1936508,
+    "label": "Lorenzo Peracino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.819082,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 521,
+    "endChar": 537
+  },
+  {
+    "idEntity": 1936509,
+    "label": "Giovanni d'Enrico",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.79119,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 752,
+    "endChar": 769
+  },
+  {
+    "idEntity": 1936510,
+    "label": "Gaudenzio Ferrari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.76568,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 946,
+    "endChar": 963
+  },
+  {
+    "idEntity": 1936511,
+    "label": "Giacomo Ferro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.763469,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 800,
+    "endChar": 813
+  }
+]

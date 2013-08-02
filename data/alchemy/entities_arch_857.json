@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936527,
+    "label": "Gaudenzio Ferrari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.871769,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 259,
+    "endChar": 276
+  }
+]

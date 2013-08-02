@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925347,
+    "label": "San Paolo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/S%C3%A3o_Paulo",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 43,
+    "endChar": 52
+  },
+  {
+    "idEntity": 1925348,
+    "label": "Croce",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Croce%2C_Haute-Corse",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 59,
+    "endChar": 64
+  }
+]

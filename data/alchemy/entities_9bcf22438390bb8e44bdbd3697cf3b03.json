@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936769,
+    "label": "Val Maira",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.33,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 199,
+    "endChar": 208
+  }
+]

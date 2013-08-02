@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936915,
+    "label": "Savigliano",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.92449,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 2,
+    "endChar": 12
+  }
+]

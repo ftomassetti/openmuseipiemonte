@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1924497,
+    "label": "La visita",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/La_visita",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1009,
+    "endChar": 1018
+  },
+  {
+    "idEntity": 1924493,
+    "label": "Barolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.662789,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 616,
+    "endChar": 622
+  },
+  {
+    "idEntity": 1924498,
+    "label": "Barolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.662789,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1057,
+    "endChar": 1063
+  },
+  {
+    "idEntity": 1924496,
+    "label": "Barolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.662789,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 871,
+    "endChar": 877
+  },
+  {
+    "idEntity": 1924495,
+    "label": "Tempio dell'Enoturista",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.493902,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 826,
+    "endChar": 848
+  },
+  {
+    "idEntity": 1924494,
+    "label": "Silvio Pellico",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.470886,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 636,
+    "endChar": 650
+  },
+  {
+    "idEntity": 1924491,
+    "label": "Juliette Colbert",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.460773,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 574,
+    "endChar": 590
+  },
+  {
+    "idEntity": 1924492,
+    "label": "Giulia di",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.426544,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 606,
+    "endChar": 615
+  }
+]

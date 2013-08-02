@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935442,
+    "label": "Cantoira",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.731325,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 377,
+    "endChar": 385
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935178,
+    "label": "Pragelato",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.834746,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 619,
+    "endChar": 628
+  }
+]

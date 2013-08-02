@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936406,
+    "label": "Museo del Puncetto",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.919554,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 55,
+    "endChar": 73
+  },
+  {
+    "idEntity": 1936407,
+    "label": "Val Mastallone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.882673,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 202,
+    "endChar": 216
+  }
+]

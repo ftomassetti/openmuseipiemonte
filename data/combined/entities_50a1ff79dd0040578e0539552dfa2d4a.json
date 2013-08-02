@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1924601,
+    "label": "Martiniana Po",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Martiniana_Po",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 301,
+    "endChar": 314
+  },
+  {
+    "idEntity": 1924603,
+    "label": "Martiniana Po",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Martiniana_Po",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 548,
+    "endChar": 561
+  },
+  {
+    "idEntity": 1924602,
+    "label": "Valle",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Bale_%28town%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 497,
+    "endChar": 502
+  },
+  {
+    "idEntity": 1924604,
+    "label": "Municipio",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.677957,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 778,
+    "endChar": 787
+  },
+  {
+    "idEntity": 1924605,
+    "label": "Valle Po",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.668817,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 906,
+    "endChar": 914
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935072,
+    "label": "Comitato Italiano",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.902885,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 156,
+    "endChar": 173
+  },
+  {
+    "idEntity": 1935073,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.870192,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 204,
+    "endChar": 210
+  }
+]

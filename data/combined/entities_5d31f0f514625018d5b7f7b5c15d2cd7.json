@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1922092,
+    "label": "Piemonte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Piedmont",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 272,
+    "endChar": 280
+  },
+  {
+    "idEntity": 1922089,
+    "label": "Lisbona",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lisbon",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 19,
+    "endChar": 26
+  },
+  {
+    "idEntity": 1922093,
+    "label": "Liguria",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Liguria",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 289,
+    "endChar": 296
+  },
+  {
+    "idEntity": 1922090,
+    "label": "Genova",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Genoa",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 34,
+    "endChar": 40
+  },
+  {
+    "idEntity": 1922091,
+    "label": "Valentino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Valentino_Garavani",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 131,
+    "endChar": 140
+  },
+  {
+    "idEntity": 1922088,
+    "label": "Alfredo D'Andrade",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.87035,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 17
+  },
+  {
+    "idEntity": 1922095,
+    "label": "Fondazione",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Foundation_%28novel%29",
+    "confidence": 0.868635,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1196,
+    "endChar": 1206
+  },
+  {
+    "idEntity": 1922094,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.673485,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 821,
+    "endChar": 827
+  }
+]

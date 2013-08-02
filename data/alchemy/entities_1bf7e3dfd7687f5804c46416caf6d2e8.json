@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936789,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.865811,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 142,
+    "endChar": 148
+  },
+  {
+    "idEntity": 1936790,
+    "label": "Marene",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.836081,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 182,
+    "endChar": 188
+  },
+  {
+    "idEntity": 1936791,
+    "label": "San Giuseppe",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.821892,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 310,
+    "endChar": 322
+  }
+]

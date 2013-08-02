@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1936229,
+    "label": "Palazzo Madama",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.725897,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 35,
+    "endChar": 49
+  },
+  {
+    "idEntity": 1936230,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.690962,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 697,
+    "endChar": 704
+  },
+  {
+    "idEntity": 1936231,
+    "label": "Sede del Museo Civico",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.662436,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1632,
+    "endChar": 1653
+  },
+  {
+    "idEntity": 1936232,
+    "label": "Castellamonte",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.64141,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 979,
+    "endChar": 992
+  },
+  {
+    "idEntity": 1936233,
+    "label": "Giovanna Battista",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.634038,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 707,
+    "endChar": 724
+  },
+  {
+    "idEntity": 1936234,
+    "label": "Regio Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.633397,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1193,
+    "endChar": 1214
+  },
+  {
+    "idEntity": 1936235,
+    "label": "Arte Antica",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.628462,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1657,
+    "endChar": 1668
+  },
+  {
+    "idEntity": 1936236,
+    "label": "Carlo Vanello",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.623333,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1064,
+    "endChar": 1077
+  }
+]

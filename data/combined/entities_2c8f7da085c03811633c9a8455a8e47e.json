@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925323,
+    "label": "Alessandria",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alessandria",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 188,
+    "endChar": 199
+  },
+  {
+    "idEntity": 1925322,
+    "label": "Tanaro",
+    "extractorType": "River",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Tanaro_%28river%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 90,
+    "endChar": 96
+  },
+  {
+    "idEntity": 1925321,
+    "label": "Fiume",
+    "extractorType": "Town",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Rijeka",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 26,
+    "endChar": 31
+  }
+]

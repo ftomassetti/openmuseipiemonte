@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936323,
+    "label": "francese",
+    "extractorType": "FieldTerminology",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.716697,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 354,
+    "endChar": 362
+  },
+  {
+    "idEntity": 1936324,
+    "label": "Ernesto Balbo Bertone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.555062,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 455,
+    "endChar": 476
+  },
+  {
+    "idEntity": 1936325,
+    "label": "Marcellino Roda",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.534074,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 553,
+    "endChar": 568
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1923344,
+    "label": "Defendente Ferrari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.808293,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 169,
+    "endChar": 187
+  },
+  {
+    "idEntity": 1923345,
+    "label": "Martino Spanzotti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.773537,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 218,
+    "endChar": 235
+  }
+]

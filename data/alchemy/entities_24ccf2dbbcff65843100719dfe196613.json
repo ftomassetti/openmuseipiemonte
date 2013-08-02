@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935604,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.848333,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 234,
+    "endChar": 240
+  },
+  {
+    "idEntity": 1935605,
+    "label": "San Filippo Neri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.8025,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 424,
+    "endChar": 440
+  }
+]

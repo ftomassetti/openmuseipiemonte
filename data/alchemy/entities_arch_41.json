@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1936636,
+    "label": "Cavaglietto",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.778147,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 385,
+    "endChar": 396
+  },
+  {
+    "idEntity": 1936637,
+    "label": "Cavaglietto",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.778147,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 663,
+    "endChar": 674
+  },
+  {
+    "idEntity": 1936638,
+    "label": "Biandrate",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.675345,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 22,
+    "endChar": 31
+  },
+  {
+    "idEntity": 1936639,
+    "label": "San Silvestro",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.640862,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 165,
+    "endChar": 178
+  },
+  {
+    "idEntity": 1936640,
+    "label": "Milano",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.590431,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 537,
+    "endChar": 543
+  }
+]

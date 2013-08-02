@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1936919,
+    "label": "Bellino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.951218,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 40,
+    "endChar": 47
+  },
+  {
+    "idEntity": 1936920,
+    "label": "Bellino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.951218,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 150,
+    "endChar": 157
+  },
+  {
+    "idEntity": 1936921,
+    "label": "Bellino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.951218,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 467,
+    "endChar": 474
+  },
+  {
+    "idEntity": 1936922,
+    "label": "Bellino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.951218,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 882,
+    "endChar": 889
+  },
+  {
+    "idEntity": 1936923,
+    "label": "Piccolo Carro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.497906,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 529,
+    "endChar": 542
+  }
+]

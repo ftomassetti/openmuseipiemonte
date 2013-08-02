@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1923863,
+    "label": "Roasio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Roasio",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 27,
+    "endChar": 33
+  },
+  {
+    "idEntity": 1923864,
+    "label": "Africa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.855964,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 197,
+    "endChar": 203
+  },
+  {
+    "idEntity": 1923867,
+    "label": "Africa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.855964,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 589,
+    "endChar": 595
+  },
+  {
+    "idEntity": 1923865,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.630211,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 231,
+    "endChar": 238
+  },
+  {
+    "idEntity": 1923866,
+    "label": "Svizzera",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.604608,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 240,
+    "endChar": 248
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936010,
+    "label": "Frati Minori Osservanti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.880449,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 132,
+    "endChar": 155
+  },
+  {
+    "idEntity": 1936011,
+    "label": "Giovanni Martino Spanzotti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.840843,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 301,
+    "endChar": 327
+  }
+]

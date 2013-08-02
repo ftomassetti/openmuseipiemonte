@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935733,
+    "label": "Pavarolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.843333,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 15,
+    "endChar": 23
+  },
+  {
+    "idEntity": 1935734,
+    "label": "Pavarolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.843333,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 905,
+    "endChar": 913
+  },
+  {
+    "idEntity": 1935735,
+    "label": "del Comune",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.567963,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 844,
+    "endChar": 854
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1935293,
+    "label": "Domenico della",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.875156,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 96,
+    "endChar": 110
+  },
+  {
+    "idEntity": 1935294,
+    "label": "Chiesa Inferiore",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.683125,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 23,
+    "endChar": 39
+  },
+  {
+    "idEntity": 1935295,
+    "label": "Chiesa Superiore",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.65625,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 195,
+    "endChar": 211
+  },
+  {
+    "idEntity": 1935296,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.634688,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 577,
+    "endChar": 583
+  }
+]

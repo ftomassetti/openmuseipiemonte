@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1924023,
+    "label": "Novara",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Novara",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 234,
+    "endChar": 240
+  },
+  {
+    "idEntity": 1924029,
+    "label": "Vercelli",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Vercelli",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 795,
+    "endChar": 803
+  },
+  {
+    "idEntity": 1924025,
+    "label": "Ivrea",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ivrea",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 269,
+    "endChar": 274
+  },
+  {
+    "idEntity": 1924028,
+    "label": "Ivrea",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ivrea",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 755,
+    "endChar": 760
+  },
+  {
+    "idEntity": 1924027,
+    "label": "Moncrivello",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Moncrivello",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 396,
+    "endChar": 407
+  },
+  {
+    "idEntity": 1924030,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1320,
+    "endChar": 1331
+  },
+  {
+    "idEntity": 1924026,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 357,
+    "endChar": 363
+  },
+  {
+    "idEntity": 1924024,
+    "label": "Superga",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.598467,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 259,
+    "endChar": 266
+  }
+]

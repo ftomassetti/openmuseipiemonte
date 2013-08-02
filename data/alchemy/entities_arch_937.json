@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936365,
+    "label": "Bardonecchia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.748366,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 68,
+    "endChar": 80
+  },
+  {
+    "idEntity": 1936366,
+    "label": "Regio Esercito",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.688399,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1128,
+    "endChar": 1142
+  }
+]

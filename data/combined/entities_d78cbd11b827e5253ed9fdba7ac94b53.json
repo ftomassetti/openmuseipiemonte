@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1924632,
+    "label": "Tanaro",
+    "extractorType": "River",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Tanaro_%28river%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 343,
+    "endChar": 349
+  }
+]

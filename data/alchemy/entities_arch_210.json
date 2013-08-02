@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936094,
+    "label": "Palazzo Coardi",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.897391,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 48,
+    "endChar": 62
+  },
+  {
+    "idEntity": 1936095,
+    "label": "Amedeo Castellamonte",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.878261,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 26,
+    "endChar": 46
+  },
+  {
+    "idEntity": 1936096,
+    "label": "Bernardo Vittone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.82087,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 154,
+    "endChar": 170
+  },
+  {
+    "idEntity": 1936097,
+    "label": "Pietro Bonvicini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.794565,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 173,
+    "endChar": 189
+  }
+]

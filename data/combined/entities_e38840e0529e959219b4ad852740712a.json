@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925799,
+    "label": "Alpi",
+    "extractorType": "MountainRange",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alps",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 290,
+    "endChar": 294
+  },
+  {
+    "idEntity": 1925800,
+    "label": "Panhard",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Panhard",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 342,
+    "endChar": 349
+  }
+]

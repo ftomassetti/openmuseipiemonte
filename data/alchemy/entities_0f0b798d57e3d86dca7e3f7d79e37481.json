@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935486,
+    "label": "Montana",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.827381,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1088,
+    "endChar": 1095
+  }
+]

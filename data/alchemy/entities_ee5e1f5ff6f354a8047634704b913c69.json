@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936384,
+    "label": "fiume Sesia",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.852485,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 70,
+    "endChar": 81
+  },
+  {
+    "idEntity": 1936385,
+    "label": "Il Parco Naturale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.75,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 17
+  },
+  {
+    "idEntity": 1936386,
+    "label": "San Nazario",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.727546,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 135,
+    "endChar": 146
+  },
+  {
+    "idEntity": 1936387,
+    "label": "Vercelli",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.70537,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 110,
+    "endChar": 118
+  },
+  {
+    "idEntity": 1936388,
+    "label": "Novara",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.702824,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 169,
+    "endChar": 175
+  },
+  {
+    "idEntity": 1936389,
+    "label": "Manlio Ferrero",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.683796,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 965,
+    "endChar": 979
+  }
+]

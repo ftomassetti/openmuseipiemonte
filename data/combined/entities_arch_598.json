@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1925207,
+    "label": "Liutprando",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Liutprand%2C_King_of_the_Lombards",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 112,
+    "endChar": 122
+  },
+  {
+    "idEntity": 1925215,
+    "label": "Henri Matisse",
+    "extractorType": "Artist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Henri_Matisse",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 826,
+    "endChar": 839
+  },
+  {
+    "idEntity": 1925214,
+    "label": "Paul Klee",
+    "extractorType": "Artist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Paul_Klee",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 796,
+    "endChar": 805
+  },
+  {
+    "idEntity": 1925213,
+    "label": "Umberto Mastroianni",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Umberto_Mastroianni",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 757,
+    "endChar": 776
+  },
+  {
+    "idEntity": 1925211,
+    "label": "Renato Guttuso",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Renato_Guttuso",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 723,
+    "endChar": 737
+  },
+  {
+    "idEntity": 1925210,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Italy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 471,
+    "endChar": 477
+  },
+  {
+    "idEntity": 1925212,
+    "label": "Felice Casorati",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Felice_Casorati",
+    "confidence": 0.9,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 739,
+    "endChar": 754
+  },
+  {
+    "idEntity": 1925208,
+    "label": "Longobardi",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Longobardi_%28commune%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 131,
+    "endChar": 141
+  },
+  {
+    "idEntity": 1925209,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 393,
+    "endChar": 402
+  }
+]

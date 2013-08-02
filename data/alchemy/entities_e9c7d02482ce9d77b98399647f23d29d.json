@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935522,
+    "label": "Carlo Emanuele III",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.887902,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 36,
+    "endChar": 54
+  },
+  {
+    "idEntity": 1935523,
+    "label": "Bologna",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.877914,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 527,
+    "endChar": 534
+  },
+  {
+    "idEntity": 1935524,
+    "label": "Ignazio Bertola",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.857657,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 128,
+    "endChar": 143
+  }
+]

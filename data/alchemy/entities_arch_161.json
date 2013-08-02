@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1935692,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.801922,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 46,
+    "endChar": 52
+  },
+  {
+    "idEntity": 1935693,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.801922,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 717,
+    "endChar": 723
+  },
+  {
+    "idEntity": 1935694,
+    "label": "Canavese",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.565407,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 126,
+    "endChar": 134
+  },
+  {
+    "idEntity": 1935695,
+    "label": "Ivrea",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.558856,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 193,
+    "endChar": 198
+  },
+  {
+    "idEntity": 1935696,
+    "label": "San Salvatore",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.545314,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 543,
+    "endChar": 556
+  },
+  {
+    "idEntity": 1935697,
+    "label": "Luigi Valperga",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.539251,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 589,
+    "endChar": 603
+  },
+  {
+    "idEntity": 1935698,
+    "label": "Borgomasino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.525035,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 144,
+    "endChar": 155
+  },
+  {
+    "idEntity": 1935699,
+    "label": "Vercelli",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.508531,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 201,
+    "endChar": 209
+  }
+]

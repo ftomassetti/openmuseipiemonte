@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935658,
+    "label": "Dora Baltea",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.723964,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 92,
+    "endChar": 103
+  },
+  {
+    "idEntity": 1935659,
+    "label": "Museo della Tortura",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.683874,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1297,
+    "endChar": 1316
+  },
+  {
+    "idEntity": 1935660,
+    "label": "Edoardo Brunetta d'Usseaux",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.664144,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 597,
+    "endChar": 623
+  }
+]

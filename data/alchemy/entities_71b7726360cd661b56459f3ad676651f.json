@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935163,
+    "label": "Borgata Maison",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.9222,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 47,
+    "endChar": 61
+  },
+  {
+    "idEntity": 1935164,
+    "label": "L'Ente Parco",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.858067,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 559,
+    "endChar": 571
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1922628,
+    "label": "Vittorio Amedeo II di Savoia",
+    "extractorType": "BritishRoyalty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Victor_Amadeus_II_of_Sardinia",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 155,
+    "endChar": 183
+  },
+  {
+    "idEntity": 1922634,
+    "label": "Pinerolo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Pinerolo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 510,
+    "endChar": 518
+  },
+  {
+    "idEntity": 1922630,
+    "label": "Piemonte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Piedmont",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 259,
+    "endChar": 267
+  },
+  {
+    "idEntity": 1922633,
+    "label": "Pinerolo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Pinerolo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 378,
+    "endChar": 386
+  },
+  {
+    "idEntity": 1922629,
+    "label": "Senato",
+    "extractorType": "Legislature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Senate_of_France",
+    "confidence": 0.882,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 207,
+    "endChar": 213
+  },
+  {
+    "idEntity": 1922631,
+    "label": "Senato",
+    "extractorType": "Legislature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Senate_of_France",
+    "confidence": 0.882,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 293,
+    "endChar": 299
+  },
+  {
+    "idEntity": 1922627,
+    "label": "Lodovico d'Acaja",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.699936,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 25,
+    "endChar": 41
+  },
+  {
+    "idEntity": 1922632,
+    "label": "Doma Rossa",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.583526,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 348,
+    "endChar": 358
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936525,
+    "label": "Cipriano Uberti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.828115,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 311,
+    "endChar": 326
+  },
+  {
+    "idEntity": 1936526,
+    "label": "Giacomo Vincenzo Canavasso",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.799016,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 356,
+    "endChar": 382
+  }
+]

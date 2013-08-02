@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935330,
+    "label": "don Giacomo Gresino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.869606,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 160,
+    "endChar": 179
+  },
+  {
+    "idEntity": 1935331,
+    "label": "don Gresino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.812804,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 610,
+    "endChar": 621
+  },
+  {
+    "idEntity": 1935332,
+    "label": "don Luigi Cocco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.781297,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 689,
+    "endChar": 704
+  },
+  {
+    "idEntity": 1935333,
+    "label": "Lombriasco",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.460776,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 50,
+    "endChar": 60
+  },
+  {
+    "idEntity": 1935334,
+    "label": "Venezuela",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.400216,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 739,
+    "endChar": 748
+  }
+]

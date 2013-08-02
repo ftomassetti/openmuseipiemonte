@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936477,
+    "label": "Madonna",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.842647,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 313,
+    "endChar": 320
+  }
+]

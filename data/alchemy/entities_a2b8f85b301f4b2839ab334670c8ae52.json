@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936797,
+    "label": "Alta Val Susa",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.799037,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1401,
+    "endChar": 1414
+  },
+  {
+    "idEntity": 1936798,
+    "label": "Utrecht",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.692852,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 799,
+    "endChar": 806
+  },
+  {
+    "idEntity": 1936799,
+    "label": "Spazio",
+    "extractorType": "TelevisionShow",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.675497,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 818,
+    "endChar": 824
+  },
+  {
+    "idEntity": 1936800,
+    "label": "Valle Varaita",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.642546,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1314,
+    "endChar": 1327
+  },
+  {
+    "idEntity": 1936801,
+    "label": "Escartons",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.615252,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 155,
+    "endChar": 164
+  },
+  {
+    "idEntity": 1936802,
+    "label": "Alta Val Chisone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.519335,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1416,
+    "endChar": 1432
+  }
+]

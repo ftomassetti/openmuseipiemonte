@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935175,
+    "label": "Piverone",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.898718,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 129,
+    "endChar": 137
+  }
+]

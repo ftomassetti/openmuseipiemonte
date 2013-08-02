@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936629,
+    "label": "lago Maggiore",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.730392,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 235,
+    "endChar": 248
+  },
+  {
+    "idEntity": 1936630,
+    "label": "Lago d'Orta",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.59066,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 92,
+    "endChar": 103
+  },
+  {
+    "idEntity": 1936631,
+    "label": "Pettenasco",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.543488,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 284,
+    "endChar": 294
+  },
+  {
+    "idEntity": 1936632,
+    "label": "Ameno",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.5412,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 581,
+    "endChar": 586
+  },
+  {
+    "idEntity": 1936633,
+    "label": "Omegna",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.537962,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 486,
+    "endChar": 492
+  },
+  {
+    "idEntity": 1936634,
+    "label": "Gignese",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.509441,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 320,
+    "endChar": 327
+  }
+]

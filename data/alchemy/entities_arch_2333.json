@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1936344,
+    "label": "Carlo Emanuele I",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.854247,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 145,
+    "endChar": 161
+  },
+  {
+    "idEntity": 1936345,
+    "label": "Ignazio Demorri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.828441,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 252,
+    "endChar": 267
+  },
+  {
+    "idEntity": 1936346,
+    "label": "Castelmagno",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.826828,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 271,
+    "endChar": 282
+  },
+  {
+    "idEntity": 1936347,
+    "label": "Benedetto Maurizio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.800484,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 396,
+    "endChar": 414
+  },
+  {
+    "idEntity": 1936348,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.794301,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 610,
+    "endChar": 616
+  },
+  {
+    "idEntity": 1936349,
+    "label": "Carlo Emanuele III",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.771183,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 450,
+    "endChar": 468
+  },
+  {
+    "idEntity": 1936350,
+    "label": "Filippo Castelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.765806,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 528,
+    "endChar": 544
+  }
+]

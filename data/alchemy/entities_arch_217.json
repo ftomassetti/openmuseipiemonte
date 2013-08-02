@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1936150,
+    "label": "Paesana",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.882824,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 51,
+    "endChar": 58
+  },
+  {
+    "idEntity": 1936151,
+    "label": "Paesana",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.882824,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 141,
+    "endChar": 148
+  },
+  {
+    "idEntity": 1936152,
+    "label": "Palazzo Saluzzo",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.710185,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 32,
+    "endChar": 47
+  },
+  {
+    "idEntity": 1936153,
+    "label": "Gian Giacomo Plantery",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.681574,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 9,
+    "endChar": 30
+  },
+  {
+    "idEntity": 1936154,
+    "label": "Baldassarre Saluzzo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.648241,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 118,
+    "endChar": 137
+  },
+  {
+    "idEntity": 1936155,
+    "label": "Saluzzo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.592222,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 40,
+    "endChar": 47
+  },
+  {
+    "idEntity": 1936156,
+    "label": "Domenico Guidobono",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.558426,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 735,
+    "endChar": 753
+  }
+]

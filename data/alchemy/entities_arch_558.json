@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1936270,
+    "label": "Carlo Emanuele II",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.708611,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 83,
+    "endChar": 100
+  },
+  {
+    "idEntity": 1936271,
+    "label": "Amedeo di Castellamonte",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.690983,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 147,
+    "endChar": 170
+  },
+  {
+    "idEntity": 1936272,
+    "label": "d'Europa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.686538,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1916,
+    "endChar": 1924
+  },
+  {
+    "idEntity": 1936273,
+    "label": "Regione Piemonte",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.66688,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 2111,
+    "endChar": 2127
+  },
+  {
+    "idEntity": 1936274,
+    "label": "Michelangelo Garove",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.657329,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 695,
+    "endChar": 714
+  },
+  {
+    "idEntity": 1936275,
+    "label": "ComunitÃ  Europea",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.644936,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 2034,
+    "endChar": 2051
+  },
+  {
+    "idEntity": 1936276,
+    "label": "Scuola Militare",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.644295,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1545,
+    "endChar": 1560
+  },
+  {
+    "idEntity": 1936277,
+    "label": "Giuseppe Battista Piacenza",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.635,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1322,
+    "endChar": 1348
+  },
+  {
+    "idEntity": 1936278,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.627521,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1032,
+    "endChar": 1047
+  },
+  {
+    "idEntity": 1936279,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.593868,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1050,
+    "endChar": 1067
+  }
+]

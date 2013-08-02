@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936833,
+    "label": "Giovan Battista Adriani",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.860876,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 43,
+    "endChar": 66
+  },
+  {
+    "idEntity": 1936834,
+    "label": "Sud Piemonte",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.826031,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 655,
+    "endChar": 667
+  },
+  {
+    "idEntity": 1936835,
+    "label": "Saletta",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.819381,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 253,
+    "endChar": 260
+  },
+  {
+    "idEntity": 1936836,
+    "label": "Sebastiano Taricco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.801082,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 162,
+    "endChar": 180
+  },
+  {
+    "idEntity": 1936837,
+    "label": "Sala della",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.773505,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 205,
+    "endChar": 215
+  },
+  {
+    "idEntity": 1936838,
+    "label": "Salone della",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.750052,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 182,
+    "endChar": 194
+  }
+]

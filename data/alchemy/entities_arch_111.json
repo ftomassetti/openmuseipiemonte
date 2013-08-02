@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1936661,
+    "label": "San Giulio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.809279,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 68,
+    "endChar": 78
+  },
+  {
+    "idEntity": 1936662,
+    "label": "San Giulio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.809279,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1387,
+    "endChar": 1397
+  },
+  {
+    "idEntity": 1936663,
+    "label": "Guglielmo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.628258,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 792,
+    "endChar": 801
+  },
+  {
+    "idEntity": 1936664,
+    "label": "Guglielmo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.628258,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1284,
+    "endChar": 1293
+  },
+  {
+    "idEntity": 1936665,
+    "label": "Lago d'Orta",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.605128,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 126,
+    "endChar": 137
+  },
+  {
+    "idEntity": 1936666,
+    "label": "Volpiano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.594604,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 805,
+    "endChar": 813
+  },
+  {
+    "idEntity": 1936667,
+    "label": "Volpiano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.594604,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1297,
+    "endChar": 1305
+  },
+  {
+    "idEntity": 1936668,
+    "label": "Santi",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.545902,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 923,
+    "endChar": 928
+  }
+]

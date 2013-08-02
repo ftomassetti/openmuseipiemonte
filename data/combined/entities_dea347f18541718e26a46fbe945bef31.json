@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925256,
+    "label": "Grue",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Grue%2C_Norway",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 184,
+    "endChar": 188
+  },
+  {
+    "idEntity": 1925257,
+    "label": "Ossona",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ossona",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 191,
+    "endChar": 197
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936608,
+    "label": "Novara",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.90981,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 150,
+    "endChar": 156
+  }
+]

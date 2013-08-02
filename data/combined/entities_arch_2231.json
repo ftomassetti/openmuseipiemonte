@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1923717,
+    "label": "Pralormo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.923305,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 20,
+    "endChar": 28
+  },
+  {
+    "idEntity": 1923718,
+    "label": "Ernest Melano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.857373,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 122,
+    "endChar": 135
+  },
+  {
+    "idEntity": 1923719,
+    "label": "Xavier KÃ¼rten",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.852288,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 206,
+    "endChar": 220
+  }
+]

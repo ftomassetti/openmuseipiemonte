@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1936170,
+    "label": "Pietro Fenoglio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.80209,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 32,
+    "endChar": 47
+  },
+  {
+    "idEntity": 1936171,
+    "label": "Pietro Fenoglio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.80209,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 669,
+    "endChar": 684
+  },
+  {
+    "idEntity": 1936172,
+    "label": "Scott",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.780958,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 108,
+    "endChar": 113
+  },
+  {
+    "idEntity": 1936173,
+    "label": "Scott",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.780958,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 145,
+    "endChar": 150
+  },
+  {
+    "idEntity": 1936174,
+    "label": "professor Gottardo Gussoni",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.655691,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 74,
+    "endChar": 100
+  },
+  {
+    "idEntity": 1936175,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.600967,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 292,
+    "endChar": 298
+  },
+  {
+    "idEntity": 1936176,
+    "label": "Profondo Rosso",
+    "extractorType": "Movie",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.544613,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1113,
+    "endChar": 1127
+  },
+  {
+    "idEntity": 1936177,
+    "label": "Alfonso Scott",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.531501,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 137,
+    "endChar": 150
+  },
+  {
+    "idEntity": 1936178,
+    "label": "Villa Scott",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.515755,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 102,
+    "endChar": 113
+  },
+  {
+    "idEntity": 1936179,
+    "label": "Dario Argento",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.505718,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1068,
+    "endChar": 1081
+  }
+]

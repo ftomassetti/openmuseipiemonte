@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936326,
+    "label": "Ignazio Amedeo Galletti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.865,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 438,
+    "endChar": 461
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925343,
+    "label": "Tortona",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Tortona",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 45,
+    "endChar": 52
+  },
+  {
+    "idEntity": 1925344,
+    "label": "Fabbrica Curone",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Fabbrica_Curone",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 77,
+    "endChar": 92
+  }
+]

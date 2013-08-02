@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936397,
+    "label": "Pierugo Tirozzo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.795,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 87,
+    "endChar": 102
+  },
+  {
+    "idEntity": 1936398,
+    "label": "Riva Valdobbia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.549491,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 571,
+    "endChar": 585
+  },
+  {
+    "idEntity": 1936399,
+    "label": "Camillo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.515188,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 387,
+    "endChar": 394
+  }
+]

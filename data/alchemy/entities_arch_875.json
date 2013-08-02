@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1935890,
+    "label": "Monte Bastia",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.743048,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 142,
+    "endChar": 154
+  },
+  {
+    "idEntity": 1935891,
+    "label": "Cuneo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.654331,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1083,
+    "endChar": 1088
+  },
+  {
+    "idEntity": 1935892,
+    "label": "Giacomo Fontana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.64936,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1007,
+    "endChar": 1022
+  },
+  {
+    "idEntity": 1935893,
+    "label": "Bernardo Antonio Vittone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.630151,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1122,
+    "endChar": 1146
+  }
+]

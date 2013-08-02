@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1924313,
+    "label": "Politecnico di Torino",
+    "extractorType": "University",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Polytechnic_University_of_Turin",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 802,
+    "endChar": 823
+  },
+  {
+    "idEntity": 1924307,
+    "label": "Arona",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.895492,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 70,
+    "endChar": 75
+  },
+  {
+    "idEntity": 1924308,
+    "label": "Lago Maggiore",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.893443,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 94,
+    "endChar": 107
+  },
+  {
+    "idEntity": 1924310,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 332,
+    "endChar": 341
+  },
+  {
+    "idEntity": 1924306,
+    "label": "Villa Ponti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.865,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 11
+  },
+  {
+    "idEntity": 1924309,
+    "label": "Bartolomeo Pertossi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.840615,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 175,
+    "endChar": 194
+  },
+  {
+    "idEntity": 1924312,
+    "label": "Gian Giacomo Ponti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.771148,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 756,
+    "endChar": 774
+  },
+  {
+    "idEntity": 1924311,
+    "label": "San Carlo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.768279,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 372,
+    "endChar": 381
+  },
+  {
+    "idEntity": 1924314,
+    "label": "Thomas Edison",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.74082,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 837,
+    "endChar": 850
+  }
+]

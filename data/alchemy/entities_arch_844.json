@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936735,
+    "label": "San Giulio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.916489,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 100,
+    "endChar": 110
+  }
+]

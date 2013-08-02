@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936815,
+    "label": "Valle Varaita",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.912786,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 220,
+    "endChar": 233
+  }
+]

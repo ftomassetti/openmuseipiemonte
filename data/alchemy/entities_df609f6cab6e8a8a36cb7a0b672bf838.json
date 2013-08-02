@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1935305,
+    "label": "Carmagnola",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.860855,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 26,
+    "endChar": 36
+  },
+  {
+    "idEntity": 1935306,
+    "label": "Carmagnola",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.860855,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 273,
+    "endChar": 283
+  },
+  {
+    "idEntity": 1935307,
+    "label": "Museo Civico Navale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.624827,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 3,
+    "endChar": 22
+  },
+  {
+    "idEntity": 1935308,
+    "label": "Associazione Nazionale Marinai",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.568731,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 106,
+    "endChar": 136
+  },
+  {
+    "idEntity": 1935309,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.565035,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 505,
+    "endChar": 512
+  },
+  {
+    "idEntity": 1935310,
+    "label": "Marina Italiana",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.538351,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 876,
+    "endChar": 891
+  },
+  {
+    "idEntity": 1935311,
+    "label": "US Navy",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.525294,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1150,
+    "endChar": 1157
+  },
+  {
+    "idEntity": 1935312,
+    "label": "Marina",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.514793,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 656,
+    "endChar": 662
+  }
+]

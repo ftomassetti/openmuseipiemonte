@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1923325,
+    "label": "San Maurizio",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/Saint_Maurice",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 56,
+    "endChar": 68
+  },
+  {
+    "idEntity": 1923326,
+    "label": "Pinerolo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Pinerolo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 91,
+    "endChar": 99
+  },
+  {
+    "idEntity": 1923328,
+    "label": "La chiesa",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Church_%28film%29",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 471,
+    "endChar": 480
+  },
+  {
+    "idEntity": 1923327,
+    "label": "Petrini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.650185,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 462,
+    "endChar": 469
+  }
+]

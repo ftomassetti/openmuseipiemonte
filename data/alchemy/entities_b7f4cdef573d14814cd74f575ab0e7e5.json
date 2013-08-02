@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936888,
+    "label": "Russia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.911364,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 200,
+    "endChar": 206
+  },
+  {
+    "idEntity": 1936889,
+    "label": "Cuneo",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.825207,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 81,
+    "endChar": 86
+  },
+  {
+    "idEntity": 1936890,
+    "label": "Jaroslav",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.792769,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 491,
+    "endChar": 499
+  }
+]

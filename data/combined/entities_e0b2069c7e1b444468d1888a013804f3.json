@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1924671,
+    "label": "Monterosso Grana",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Monterosso_Grana",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 112,
+    "endChar": 128
+  },
+  {
+    "idEntity": 1924672,
+    "label": "Pradleves",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Pradleves",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 130,
+    "endChar": 139
+  },
+  {
+    "idEntity": 1924673,
+    "label": "Castelmagno",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Castelmagno",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 142,
+    "endChar": 153
+  },
+  {
+    "idEntity": 1924675,
+    "label": "Castelmagno",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Castelmagno",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 577,
+    "endChar": 588
+  },
+  {
+    "idEntity": 1924674,
+    "label": "Castelmagno",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Castelmagno",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 315,
+    "endChar": 326
+  },
+  {
+    "idEntity": 1924676,
+    "label": "Valle",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Bale_%28town%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 890,
+    "endChar": 895
+  }
+]

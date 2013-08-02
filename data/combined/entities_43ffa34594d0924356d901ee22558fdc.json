@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922854,
+    "label": "Margherita",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Margherita%2C_Assam",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 82,
+    "endChar": 92
+  },
+  {
+    "idEntity": 1922853,
+    "label": "Luigi Fassi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.873077,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 48,
+    "endChar": 59
+  },
+  {
+    "idEntity": 1922855,
+    "label": "Luciano Fassi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.756538,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 403,
+    "endChar": 416
+  }
+]

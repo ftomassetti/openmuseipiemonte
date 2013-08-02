@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1935736,
+    "label": "Santena",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.888837,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 22,
+    "endChar": 29
+  },
+  {
+    "idEntity": 1935737,
+    "label": "Francesco Gallo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.841705,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 238,
+    "endChar": 253
+  },
+  {
+    "idEntity": 1935738,
+    "label": "Xavier Kurten",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.84064,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 89,
+    "endChar": 102
+  },
+  {
+    "idEntity": 1935739,
+    "label": "Cavour",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.82188,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 12,
+    "endChar": 18
+  },
+  {
+    "idEntity": 1935740,
+    "label": "Giuseppina Benso",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.802752,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 556,
+    "endChar": 572
+  },
+  {
+    "idEntity": 1935741,
+    "label": "Camillo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.801008,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 594,
+    "endChar": 601
+  }
+]

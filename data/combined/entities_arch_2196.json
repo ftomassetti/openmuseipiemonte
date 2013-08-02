@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925591,
+    "label": "Ovada",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ovada",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 35,
+    "endChar": 40
+  },
+  {
+    "idEntity": 1925592,
+    "label": "Atlante",
+    "extractorType": "MountainRange",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Atlas_Mountains",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 734,
+    "endChar": 741
+  }
+]

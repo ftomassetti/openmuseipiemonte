@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1924794,
+    "label": "Vittorio Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Vittorio_Alfieri",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 449,
+    "endChar": 465
+  },
+  {
+    "idEntity": 1924790,
+    "label": "Magliano Alfieri",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Magliano_Alfieri",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 20,
+    "endChar": 36
+  },
+  {
+    "idEntity": 1924793,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 426,
+    "endChar": 437
+  },
+  {
+    "idEntity": 1924791,
+    "label": "Alba",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alba%2C_Aragon",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 54,
+    "endChar": 58
+  },
+  {
+    "idEntity": 1924792,
+    "label": "Sostegno",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Sostegno",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 83,
+    "endChar": 91
+  }
+]

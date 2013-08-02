@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935606,
+    "label": "Piero Gilardi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.866648,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 80,
+    "endChar": 93
+  },
+  {
+    "idEntity": 1935607,
+    "label": "Piero Gilardi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.866648,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1009,
+    "endChar": 1022
+  },
+  {
+    "idEntity": 1935608,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.708379,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 102,
+    "endChar": 108
+  }
+]

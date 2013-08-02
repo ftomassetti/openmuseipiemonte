@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1935854,
+    "label": "San Michele",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.844711,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 25,
+    "endChar": 36
+  },
+  {
+    "idEntity": 1935855,
+    "label": "San Michele",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.844711,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1473,
+    "endChar": 1484
+  },
+  {
+    "idEntity": 1935856,
+    "label": "dello Zodico",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.529884,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 588,
+    "endChar": 600
+  },
+  {
+    "idEntity": 1935857,
+    "label": "Ernesto Melano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.512902,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1304,
+    "endChar": 1318
+  },
+  {
+    "idEntity": 1935858,
+    "label": "Carlo Alberto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.505819,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1080,
+    "endChar": 1093
+  },
+  {
+    "idEntity": 1935859,
+    "label": "Antonio Rosmini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.487499,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1151,
+    "endChar": 1166
+  },
+  {
+    "idEntity": 1935860,
+    "label": "Alfredo d'Andrade",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.47888,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1336,
+    "endChar": 1353
+  },
+  {
+    "idEntity": 1935861,
+    "label": "Arborio Mella",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.462627,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1320,
+    "endChar": 1333
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1936390,
+    "label": "Parco Naturale Alta Valsesia",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.731715,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 59,
+    "endChar": 87
+  },
+  {
+    "idEntity": 1936391,
+    "label": "Parco Naturale Alta Valsesia",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.731715,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 436,
+    "endChar": 464
+  },
+  {
+    "idEntity": 1936392,
+    "label": "Carcoforo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.721192,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 489,
+    "endChar": 498
+  },
+  {
+    "idEntity": 1936393,
+    "label": "Carcoforo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.721192,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 840,
+    "endChar": 849
+  },
+  {
+    "idEntity": 1936394,
+    "label": "del Parco",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.645955,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1142,
+    "endChar": 1151
+  },
+  {
+    "idEntity": 1936395,
+    "label": "del Parco",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.645955,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1285,
+    "endChar": 1294
+  },
+  {
+    "idEntity": 1936396,
+    "label": "del Parco",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.645955,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1489,
+    "endChar": 1498
+  }
+]

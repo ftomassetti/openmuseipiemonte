@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1923335,
+    "label": "Giovanni Cogrossi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.6744,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 606,
+    "endChar": 623
+  }
+]

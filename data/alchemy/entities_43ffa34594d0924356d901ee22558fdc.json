@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935640,
+    "label": "Luigi Fassi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.873077,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 48,
+    "endChar": 59
+  },
+  {
+    "idEntity": 1935641,
+    "label": "Fassi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.794615,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 54,
+    "endChar": 59
+  },
+  {
+    "idEntity": 1935642,
+    "label": "Luciano Fassi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.756538,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 403,
+    "endChar": 416
+  }
+]

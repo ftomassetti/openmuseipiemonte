@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1936185,
+    "label": "Ivrea",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.890726,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 150,
+    "endChar": 155
+  },
+  {
+    "idEntity": 1936186,
+    "label": "Villa Casana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.867177,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 48,
+    "endChar": 60
+  },
+  {
+    "idEntity": 1936187,
+    "label": "Paolo Mancinelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.832903,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 188,
+    "endChar": 204
+  },
+  {
+    "idEntity": 1936188,
+    "label": "Giovanni Maggia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.802258,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 290,
+    "endChar": 305
+  },
+  {
+    "idEntity": 1936189,
+    "label": "Adriano Olivetti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.791371,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 481,
+    "endChar": 497
+  }
+]

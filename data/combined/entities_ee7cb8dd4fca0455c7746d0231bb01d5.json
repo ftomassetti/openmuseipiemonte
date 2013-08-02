@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1924361,
+    "label": "Santo Stefano",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/Saint_Stephen",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 19,
+    "endChar": 32
+  },
+  {
+    "idEntity": 1924363,
+    "label": "Genova",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Genoa",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 402,
+    "endChar": 408
+  },
+  {
+    "idEntity": 1924362,
+    "label": "XVIII secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.757645,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 167,
+    "endChar": 179
+  },
+  {
+    "idEntity": 1924365,
+    "label": "XV secolo",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.688665,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 472,
+    "endChar": 481
+  },
+  {
+    "idEntity": 1924364,
+    "label": "Giuseppe Gagini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.397303,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 441,
+    "endChar": 456
+  }
+]

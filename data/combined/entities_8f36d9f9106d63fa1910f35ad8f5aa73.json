@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1924111,
+    "label": "Armeno",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Armeno",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 6
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935329,
+    "label": "Biblioteca Civica",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.917857,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 36,
+    "endChar": 53
+  }
+]

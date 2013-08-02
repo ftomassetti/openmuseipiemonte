@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1922607,
+    "label": "Exilles",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Exilles",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 12,
+    "endChar": 19
+  },
+  {
+    "idEntity": 1922611,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/France",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 120,
+    "endChar": 127
+  },
+  {
+    "idEntity": 1922615,
+    "label": "Alpini",
+    "extractorType": "MilitaryUnit",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Alpini",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 772,
+    "endChar": 778
+  },
+  {
+    "idEntity": 1922612,
+    "label": "Montagna",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Montan",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 214,
+    "endChar": 222
+  },
+  {
+    "idEntity": 1922608,
+    "label": "Valle",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Bale_%28town%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 68,
+    "endChar": 73
+  },
+  {
+    "idEntity": 1922610,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 108,
+    "endChar": 114
+  },
+  {
+    "idEntity": 1922609,
+    "label": "Susa",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Sousse",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 77,
+    "endChar": 81
+  },
+  {
+    "idEntity": 1922614,
+    "label": "Occidentali",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.848333,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 471,
+    "endChar": 482
+  },
+  {
+    "idEntity": 1922613,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.840185,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 226,
+    "endChar": 232
+  }
+]

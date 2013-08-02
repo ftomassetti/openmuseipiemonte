@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925601,
+    "label": "Cella Monte",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cella_Monte",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 149,
+    "endChar": 160
+  },
+  {
+    "idEntity": 1925602,
+    "label": "Esso",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Esso",
+    "confidence": 0.7546,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 546,
+    "endChar": 550
+  }
+]

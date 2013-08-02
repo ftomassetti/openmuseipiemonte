@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1935863,
+    "label": "XVIII secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.939249,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 351,
+    "endChar": 363
+  },
+  {
+    "idEntity": 1935864,
+    "label": "IV secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.860461,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 866,
+    "endChar": 875
+  },
+  {
+    "idEntity": 1935865,
+    "label": "Santi",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.723902,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 113,
+    "endChar": 118
+  },
+  {
+    "idEntity": 1935866,
+    "label": "Volpiano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.718771,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 57,
+    "endChar": 65
+  },
+  {
+    "idEntity": 1935867,
+    "label": "Santa Maria",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.711644,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 78,
+    "endChar": 89
+  },
+  {
+    "idEntity": 1935868,
+    "label": "San Benigno",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.69467,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 91,
+    "endChar": 102
+  },
+  {
+    "idEntity": 1935869,
+    "label": "Cluny",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.661505,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 518,
+    "endChar": 523
+  },
+  {
+    "idEntity": 1935870,
+    "label": "Santo Sepolcro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.650077,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 744,
+    "endChar": 758
+  },
+  {
+    "idEntity": 1935871,
+    "label": "Gerusalemme",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.632949,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 762,
+    "endChar": 773
+  }
+]

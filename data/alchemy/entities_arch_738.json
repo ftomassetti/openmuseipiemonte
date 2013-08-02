@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936180,
+    "label": "Fondazione Sandretto Re",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.831875,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 464,
+    "endChar": 487
+  }
+]

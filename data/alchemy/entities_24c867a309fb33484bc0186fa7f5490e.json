@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935160,
+    "label": "del Club",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.920882,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 97,
+    "endChar": 105
+  },
+  {
+    "idEntity": 1935161,
+    "label": "Lanzo Torinese",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.894412,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 125,
+    "endChar": 139
+  },
+  {
+    "idEntity": 1935162,
+    "label": "Lanzo",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.828529,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 49,
+    "endChar": 54
+  }
+]

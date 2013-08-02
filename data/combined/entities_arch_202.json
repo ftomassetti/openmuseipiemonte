@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1923388,
+    "label": "Castellamonte",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Castellamonte",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 157,
+    "endChar": 170
+  },
+  {
+    "idEntity": 1923394,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1075,
+    "endChar": 1081
+  },
+  {
+    "idEntity": 1923393,
+    "label": "XVII secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.86581,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 438,
+    "endChar": 449
+  },
+  {
+    "idEntity": 1923395,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.693784,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1127,
+    "endChar": 1133
+  },
+  {
+    "idEntity": 1923389,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.690901,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 249,
+    "endChar": 264
+  },
+  {
+    "idEntity": 1923392,
+    "label": "Carlo Mosca",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.656486,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 301,
+    "endChar": 312
+  },
+  {
+    "idEntity": 1923390,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.640541,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 266,
+    "endChar": 283
+  },
+  {
+    "idEntity": 1923391,
+    "label": "Ernesto Melano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.64018,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 285,
+    "endChar": 299
+  }
+]

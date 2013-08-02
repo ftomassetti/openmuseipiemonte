@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936762,
+    "label": "Girolamo Tornielli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.894706,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 49,
+    "endChar": 67
+  },
+  {
+    "idEntity": 1936763,
+    "label": "Ameno",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.878235,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 15,
+    "endChar": 20
+  },
+  {
+    "idEntity": 1936764,
+    "label": "Borgolavezzaro",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.847941,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 71,
+    "endChar": 85
+  },
+  {
+    "idEntity": 1936765,
+    "label": "Cusio",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.835,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 206,
+    "endChar": 211
+  }
+]

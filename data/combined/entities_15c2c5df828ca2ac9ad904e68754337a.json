@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925112,
+    "label": "Asti",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Asti",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 261,
+    "endChar": 265
+  },
+  {
+    "idEntity": 1925114,
+    "label": "Novecento",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/1900_%28film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 620,
+    "endChar": 629
+  },
+  {
+    "idEntity": 1925113,
+    "label": "Sabato",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Saturday_%28novel%29",
+    "confidence": 0.868635,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 488,
+    "endChar": 494
+  }
+]

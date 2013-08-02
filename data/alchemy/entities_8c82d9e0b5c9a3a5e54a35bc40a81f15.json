@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936807,
+    "label": "Museo di Arti",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.920608,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 77,
+    "endChar": 90
+  }
+]

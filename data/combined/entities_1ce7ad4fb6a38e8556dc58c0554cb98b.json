@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1924426,
+    "label": "Valdieri",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.922015,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 23,
+    "endChar": 31
+  }
+]

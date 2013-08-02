@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936813,
+    "label": "della Valle",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.626857,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 271,
+    "endChar": 282
+  },
+  {
+    "idEntity": 1936814,
+    "label": "Centro di Documentazione",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.257807,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 3,
+    "endChar": 27
+  }
+]

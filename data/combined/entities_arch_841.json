@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1924240,
+    "label": "Rumo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Rumo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1090,
+    "endChar": 1094
+  },
+  {
+    "idEntity": 1924233,
+    "label": "Oleggio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Oleggio",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 71,
+    "endChar": 78
+  },
+  {
+    "idEntity": 1924231,
+    "label": "La chiesa",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Church_%28film%29",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 9
+  },
+  {
+    "idEntity": 1924236,
+    "label": "Resurrezione",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/We_Live_Again",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 852,
+    "endChar": 864
+  },
+  {
+    "idEntity": 1924238,
+    "label": "San Michele",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.813508,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 985,
+    "endChar": 996
+  },
+  {
+    "idEntity": 1924232,
+    "label": "San Michele",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.813508,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 21,
+    "endChar": 32
+  },
+  {
+    "idEntity": 1924234,
+    "label": "XVI secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.802107,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 189,
+    "endChar": 199
+  },
+  {
+    "idEntity": 1924235,
+    "label": "Nord Italia",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.569138,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 387,
+    "endChar": 398
+  },
+  {
+    "idEntity": 1924237,
+    "label": "Franceschino Cagnola",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.540157,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 959,
+    "endChar": 979
+  },
+  {
+    "idEntity": 1924239,
+    "label": "Johannes Maria del",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.520359,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1071,
+    "endChar": 1089
+  }
+]

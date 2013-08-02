@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935496,
+    "label": "Pietro Micca",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.922368,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 32,
+    "endChar": 44
+  }
+]

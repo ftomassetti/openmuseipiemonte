@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936842,
+    "label": "Dogliani",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.862963,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 426,
+    "endChar": 434
+  }
+]

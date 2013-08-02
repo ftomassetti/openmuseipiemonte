@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936751,
+    "label": "Villa Ponti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.914683,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 98,
+    "endChar": 109
+  }
+]

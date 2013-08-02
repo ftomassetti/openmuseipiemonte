@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936315,
+    "label": "Reale Cristiana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.922337,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 56,
+    "endChar": 71
+  },
+  {
+    "idEntity": 1936316,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.89645,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 75,
+    "endChar": 82
+  }
+]

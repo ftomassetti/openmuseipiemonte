@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935303,
+    "label": "del fiume",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.967834,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 918,
+    "endChar": 927
+  },
+  {
+    "idEntity": 1935304,
+    "label": "Museo Civico",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.924635,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 3,
+    "endChar": 15
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935176,
+    "label": "Carlo Ferrero",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.888876,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 15,
+    "endChar": 28
+  },
+  {
+    "idEntity": 1935177,
+    "label": "Val Germanasca",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.851517,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 158,
+    "endChar": 172
+  }
+]

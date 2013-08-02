@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935408,
+    "label": "Vittorio Amedeo II",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.749008,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 24,
+    "endChar": 42
+  },
+  {
+    "idEntity": 1935409,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.729167,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 150,
+    "endChar": 156
+  }
+]

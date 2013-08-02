@@ -18,9 +18,12 @@ def entities_for_text(text)
 
 	res2 = Curl::Easy.perform("http://nerd.eurecom.fr/api/annotation") do |curl| 
 	    curl.headers["Accept"] = "application/json"
-	   	curl.post_body = "idDocument=#{iddoc}&extractor=combined&key=1h70m496377mon3jgqhhi8f56bkqr342"
+	   	curl.post_body = "idDocument=#{iddoc}&extractor=alchemyapi&key=1h70m496377mon3jgqhhi8f56bkqr342"
 	   	#curl.verbose = true
 	end
+	#puts "--- START ---"
+	#puts res2.body_str
+	#puts "--- END ---"
 	idanno = JSON.parse(res2.body_str)['idAnnotation']
 
 	res3 = Net::HTTP.start('nerd.eurecom.fr', 80) do |http|
@@ -39,26 +42,11 @@ def select_entities(entities)
 end
 
 def id_to_output_path(id)
-	"../data/entities_#{id}.json"
-end
-
-def id_to_deep_output_path(id)
-	"../data/all_entities_#{id}.json"
-end
-
-def save_some_entities_for(id,text)
-	output_path = id_to_output_path(id)
-
-	entities = select_entities(entities_for_text(text))
-
-	File.open(output_path, 'w') do |file| 		
-		file.write(JSON.pretty_generate(entities))
-	end
-
+	"../data/alchemy/entities_#{id}.json"
 end
 
 def save_entities_for(id,text)
-	output_path = id_to_deep_output_path(id)
+	output_path = id_to_output_path(id)
 
 	entities = entities_for_text(text)
 
@@ -78,12 +66,13 @@ def save_entities_for_everybody
 			puts "\t...cat #{cat}"
 			dfc.each do |id,entry|
 				puts "\t\t...#{entry['nome']}"
-				desc = entry['descrizione']
-				unless File.exists? id_to_deep_output_path(id)
-					save_entities_for(id,desc)
-				end
+				desc = entry['descrizione']				
 				unless File.exists? id_to_output_path(id)
-					save_some_entities_for(id,desc)
+					begin
+						save_entities_for(id,desc)
+					rescue Object => e
+						puts "...failed, let's skip it for now: #{e}"
+					end
 				end
 			end
 		end

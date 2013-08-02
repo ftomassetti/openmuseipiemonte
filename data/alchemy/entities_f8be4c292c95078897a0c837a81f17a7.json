@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1935281,
+    "label": "Susa",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.889135,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 151,
+    "endChar": 155
+  },
+  {
+    "idEntity": 1935282,
+    "label": "Susa",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.889135,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 369,
+    "endChar": 373
+  },
+  {
+    "idEntity": 1935283,
+    "label": "Madonna",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.810094,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 92,
+    "endChar": 99
+  },
+  {
+    "idEntity": 1935284,
+    "label": "Madonna",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.810094,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 311,
+    "endChar": 318
+  },
+  {
+    "idEntity": 1935285,
+    "label": "San Giusto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.637217,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 582,
+    "endChar": 592
+  },
+  {
+    "idEntity": 1935286,
+    "label": "Carlo Magno",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.606871,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 686,
+    "endChar": 697
+  }
+]

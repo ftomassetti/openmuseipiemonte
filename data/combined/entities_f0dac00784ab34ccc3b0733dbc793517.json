@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1922439,
+    "label": "Gran Paradiso",
+    "extractorType": "Mountain",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Gran_Paradiso",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 89,
+    "endChar": 102
+  }
+]

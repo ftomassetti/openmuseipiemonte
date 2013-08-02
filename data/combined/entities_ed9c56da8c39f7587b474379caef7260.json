@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925293,
+    "label": "Svizzera",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Switzerland",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 334,
+    "endChar": 342
+  },
+  {
+    "idEntity": 1925292,
+    "label": "Orba",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Orba%2C_Alicante",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 180,
+    "endChar": 184
+  }
+]

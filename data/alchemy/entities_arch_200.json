@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1936026,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.814507,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 25,
+    "endChar": 40
+  },
+  {
+    "idEntity": 1936027,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.814507,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 777,
+    "endChar": 792
+  },
+  {
+    "idEntity": 1936028,
+    "label": "Torino",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.608958,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 377,
+    "endChar": 383
+  },
+  {
+    "idEntity": 1936029,
+    "label": "Sardegna",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.539881,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 986,
+    "endChar": 994
+  },
+  {
+    "idEntity": 1936030,
+    "label": "Palazzo Reale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.530493,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 808,
+    "endChar": 821
+  },
+  {
+    "idEntity": 1936031,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.529644,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 377,
+    "endChar": 383
+  },
+  {
+    "idEntity": 1936032,
+    "label": "Emanuele Filiberto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.511292,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 616,
+    "endChar": 634
+  },
+  {
+    "idEntity": 1936033,
+    "label": "Ducato",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.509981,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 665,
+    "endChar": 671
+  }
+]

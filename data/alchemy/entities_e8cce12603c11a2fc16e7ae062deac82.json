@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935159,
+    "label": "Cesana Torinese",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.906343,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 174,
+    "endChar": 189
+  }
+]

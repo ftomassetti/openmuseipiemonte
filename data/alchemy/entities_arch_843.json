@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936729,
+    "label": "San Silvano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.861489,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 125,
+    "endChar": 136
+  },
+  {
+    "idEntity": 1936730,
+    "label": "Mario Crenna",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.791277,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 365,
+    "endChar": 377
+  },
+  {
+    "idEntity": 1936731,
+    "label": "Bayard",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.777766,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 464,
+    "endChar": 470
+  },
+  {
+    "idEntity": 1936732,
+    "label": "Romagnano Sesia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.766064,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 608,
+    "endChar": 623
+  },
+  {
+    "idEntity": 1936733,
+    "label": "Pierre Terrail",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.759894,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 437,
+    "endChar": 451
+  },
+  {
+    "idEntity": 1936734,
+    "label": "Francesco I",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.75617,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 485,
+    "endChar": 496
+  }
+]

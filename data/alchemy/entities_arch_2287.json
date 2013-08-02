@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936341,
+    "label": "Rivoli",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.922024,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 34,
+    "endChar": 40
+  },
+  {
+    "idEntity": 1936342,
+    "label": "Francesco Melano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.883929,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 203,
+    "endChar": 219
+  }
+]

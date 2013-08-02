@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1936905,
+    "label": "Santa Vittoria d'Alba",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.922475,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 34,
+    "endChar": 55
+  },
+  {
+    "idEntity": 1936906,
+    "label": "Europa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.887879,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 158,
+    "endChar": 164
+  },
+  {
+    "idEntity": 1936907,
+    "label": "Medio Oriente",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.886364,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 171,
+    "endChar": 184
+  },
+  {
+    "idEntity": 1936908,
+    "label": "Siria",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.786212,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 380,
+    "endChar": 385
+  },
+  {
+    "idEntity": 1936909,
+    "label": "Germania",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.746061,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 580,
+    "endChar": 588
+  },
+  {
+    "idEntity": 1936910,
+    "label": "Egitto",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.735202,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 389,
+    "endChar": 395
+  },
+  {
+    "idEntity": 1936911,
+    "label": "Russia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.69404,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 607,
+    "endChar": 613
+  },
+  {
+    "idEntity": 1936912,
+    "label": "Olanda",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.670556,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 590,
+    "endChar": 596
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935361,
+    "label": "Alfredo Premoli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.920175,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 69,
+    "endChar": 84
+  },
+  {
+    "idEntity": 1935362,
+    "label": "Centro Storico",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.837281,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 642,
+    "endChar": 656
+  }
+]

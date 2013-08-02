@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936600,
+    "label": "San Maurizio d'Opaglio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.91625,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 78,
+    "endChar": 100
+  }
+]

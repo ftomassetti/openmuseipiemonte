@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935179,
+    "label": "Domenico Torta",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.748413,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 58,
+    "endChar": 72
+  },
+  {
+    "idEntity": 1935180,
+    "label": "Campane",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.703404,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 776,
+    "endChar": 783
+  }
+]

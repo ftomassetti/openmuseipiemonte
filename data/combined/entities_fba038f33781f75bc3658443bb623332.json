@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922207,
+    "label": "americane",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.735998,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 358,
+    "endChar": 367
+  },
+  {
+    "idEntity": 1922208,
+    "label": "animazione",
+    "extractorType": "Technology",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.658652,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 905,
+    "endChar": 915
+  },
+  {
+    "idEntity": 1922206,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.613441,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 80,
+    "endChar": 86
+  }
+]

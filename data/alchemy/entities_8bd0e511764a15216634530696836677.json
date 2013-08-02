@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936828,
+    "label": "Rorà",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.920985,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 80,
+    "endChar": 84
+  },
+  {
+    "idEntity": 1936829,
+    "label": "Giuseppe Assandria",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.824526,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 100,
+    "endChar": 118
+  },
+  {
+    "idEntity": 1936830,
+    "label": "Augusta Bagiennorum",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.812725,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 180,
+    "endChar": 199
+  },
+  {
+    "idEntity": 1936831,
+    "label": "Giovanni Vacchetta",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.798431,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 121,
+    "endChar": 139
+  }
+]

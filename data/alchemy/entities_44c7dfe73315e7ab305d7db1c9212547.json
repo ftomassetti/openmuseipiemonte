@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936891,
+    "label": "Museo della Ceramica",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.836675,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1064,
+    "endChar": 1084
+  }
+]

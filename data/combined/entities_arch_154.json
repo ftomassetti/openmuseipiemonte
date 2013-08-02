@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1924751,
+    "label": "Cesare Pavese",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Cesare_Pavese",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 83,
+    "endChar": 96
+  },
+  {
+    "idEntity": 1924753,
+    "label": "Tanaro",
+    "extractorType": "River",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Tanaro_%28river%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 188,
+    "endChar": 194
+  },
+  {
+    "idEntity": 1924752,
+    "label": "Monticello d'Alba",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Monticello_d%27Alba",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 121,
+    "endChar": 138
+  },
+  {
+    "idEntity": 1924754,
+    "label": "Monticello d'Alba",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Monticello_d%27Alba",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 224,
+    "endChar": 241
+  },
+  {
+    "idEntity": 1924756,
+    "label": "Gorzegno",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Gorzegno",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 595,
+    "endChar": 603
+  },
+  {
+    "idEntity": 1924759,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1341,
+    "endChar": 1352
+  },
+  {
+    "idEntity": 1924757,
+    "label": "Sala",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/K%C3%B6ping%2C_Sweden",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1219,
+    "endChar": 1223
+  },
+  {
+    "idEntity": 1924758,
+    "label": "Sala",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/K%C3%B6ping%2C_Sweden",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1236,
+    "endChar": 1240
+  },
+  {
+    "idEntity": 1924755,
+    "label": "Paola",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Paola%2C_Italy",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 573,
+    "endChar": 578
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1935674,
+    "label": "Viana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.706769,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 122,
+    "endChar": 127
+  },
+  {
+    "idEntity": 1935675,
+    "label": "Carlo Ogliaro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.661134,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 916,
+    "endChar": 929
+  },
+  {
+    "idEntity": 1935676,
+    "label": "Alfredo d'Andrade",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.642766,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 980,
+    "endChar": 997
+  },
+  {
+    "idEntity": 1935677,
+    "label": "JÃ¼rgen Drescher",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.629048,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1336,
+    "endChar": 1352
+  },
+  {
+    "idEntity": 1935678,
+    "label": "Jeffrey Vallance",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.593673,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1428,
+    "endChar": 1444
+  },
+  {
+    "idEntity": 1935679,
+    "label": "Paul McCarthy",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.578707,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1354,
+    "endChar": 1367
+  },
+  {
+    "idEntity": 1935680,
+    "label": "Luigi Ottani",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.578367,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1369,
+    "endChar": 1381
+  },
+  {
+    "idEntity": 1935681,
+    "label": "Lari Pittman",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.578027,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1383,
+    "endChar": 1395
+  },
+  {
+    "idEntity": 1935682,
+    "label": "Charles Ray",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.577687,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1397,
+    "endChar": 1408
+  },
+  {
+    "idEntity": 1935683,
+    "label": "Oliviero Toscani",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.577347,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1410,
+    "endChar": 1426
+  }
+]

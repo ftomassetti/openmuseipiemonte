@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1936517,
+    "label": "Guala Bicchieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.9565,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 133,
+    "endChar": 148
+  },
+  {
+    "idEntity": 1936518,
+    "label": "San Vittore",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.895333,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 377,
+    "endChar": 388
+  },
+  {
+    "idEntity": 1936519,
+    "label": "San Carlo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.883167,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 625,
+    "endChar": 634
+  },
+  {
+    "idEntity": 1936520,
+    "label": "Carlo Emanuele Arborio Mella",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.881167,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1514,
+    "endChar": 1542
+  },
+  {
+    "idEntity": 1936521,
+    "label": "Antonio Giberti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.8545,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1577,
+    "endChar": 1592
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935443,
+    "label": "professor Giacomo Rodolfo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.911785,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 76,
+    "endChar": 101
+  },
+  {
+    "idEntity": 1935444,
+    "label": "Carignano",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.832955,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 210,
+    "endChar": 219
+  },
+  {
+    "idEntity": 1935445,
+    "label": "Carignano",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.832955,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 755,
+    "endChar": 764
+  },
+  {
+    "idEntity": 1935446,
+    "label": "Bernardo Vittone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.5725,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 692,
+    "endChar": 708
+  },
+  {
+    "idEntity": 1935447,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.521136,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 711,
+    "endChar": 728
+  }
+]

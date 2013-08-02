@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936432,
+    "label": "Langosco",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.832255,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 295,
+    "endChar": 303
+  },
+  {
+    "idEntity": 1936433,
+    "label": "Langosco",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.832255,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 649,
+    "endChar": 657
+  },
+  {
+    "idEntity": 1936434,
+    "label": "Camillo Leone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.585426,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 82,
+    "endChar": 95
+  },
+  {
+    "idEntity": 1936435,
+    "label": "Belle Arti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.567597,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 129,
+    "endChar": 139
+  },
+  {
+    "idEntity": 1936436,
+    "label": "Vittorio Viale",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.536912,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 853,
+    "endChar": 867
+  },
+  {
+    "idEntity": 1936437,
+    "label": "Casa Alciati",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.534393,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 261,
+    "endChar": 273
+  }
+]

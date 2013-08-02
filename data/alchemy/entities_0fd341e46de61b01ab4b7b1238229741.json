@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1936860,
+    "label": "Barolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.662789,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 616,
+    "endChar": 622
+  },
+  {
+    "idEntity": 1936861,
+    "label": "Barolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.662789,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 871,
+    "endChar": 877
+  },
+  {
+    "idEntity": 1936862,
+    "label": "Barolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.662789,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1057,
+    "endChar": 1063
+  },
+  {
+    "idEntity": 1936863,
+    "label": "Tempio dell'Enoturista",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.493902,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 826,
+    "endChar": 848
+  },
+  {
+    "idEntity": 1936864,
+    "label": "Silvio Pellico",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.470886,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 636,
+    "endChar": 650
+  },
+  {
+    "idEntity": 1936865,
+    "label": "Juliette Colbert",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.460773,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 574,
+    "endChar": 590
+  },
+  {
+    "idEntity": 1936866,
+    "label": "Giulia di",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.426544,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 606,
+    "endChar": 615
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936782,
+    "label": "Fossano",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.851814,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 106,
+    "endChar": 113
+  },
+  {
+    "idEntity": 1936783,
+    "label": "Fossano",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.851814,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 322,
+    "endChar": 329
+  },
+  {
+    "idEntity": 1936784,
+    "label": "Battuti Rossi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.6175,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 342,
+    "endChar": 355
+  },
+  {
+    "idEntity": 1936785,
+    "label": "Battuti Bianchi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.612598,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 416,
+    "endChar": 431
+  },
+  {
+    "idEntity": 1936786,
+    "label": "Battuti Neri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.607696,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 482,
+    "endChar": 494
+  },
+  {
+    "idEntity": 1936787,
+    "label": "San Giuseppe",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.595931,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 645,
+    "endChar": 657
+  }
+]

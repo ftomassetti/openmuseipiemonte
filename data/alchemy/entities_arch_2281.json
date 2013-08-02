@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936332,
+    "label": "Inghilterra",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.820401,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 729,
+    "endChar": 740
+  },
+  {
+    "idEntity": 1936333,
+    "label": "Libano",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.790772,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 846,
+    "endChar": 852
+  },
+  {
+    "idEntity": 1936334,
+    "label": "Filippo Castelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.767469,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 488,
+    "endChar": 504
+  },
+  {
+    "idEntity": 1936335,
+    "label": "Benedetto Maurizio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.715926,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 523,
+    "endChar": 541
+  }
+]

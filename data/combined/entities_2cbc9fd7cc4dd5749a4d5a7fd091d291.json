@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925798,
+    "label": "Crodo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Crodo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 25,
+    "endChar": 30
+  }
+]

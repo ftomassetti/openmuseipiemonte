@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936292,
+    "label": "giapponese",
+    "extractorType": "FieldTerminology",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": null,
+    "confidence": 0.902931,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 253,
+    "endChar": 263
+  },
+  {
+    "idEntity": 1936293,
+    "label": "Guido Gozzano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.866453,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 89,
+    "endChar": 102
+  }
+]

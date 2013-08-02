@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936612,
+    "label": "Carlo Giacomo Fanchini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.921341,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 30,
+    "endChar": 52
+  },
+  {
+    "idEntity": 1936613,
+    "label": "Oleggio",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.877439,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 231,
+    "endChar": 238
+  }
+]

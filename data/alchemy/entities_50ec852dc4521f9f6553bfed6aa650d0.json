@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1935378,
+    "label": "Cesare Lombroso",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.825181,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 463,
+    "endChar": 478
+  },
+  {
+    "idEntity": 1935379,
+    "label": "Cesare Lombroso",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.825181,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 861,
+    "endChar": 876
+  },
+  {
+    "idEntity": 1935380,
+    "label": "Regione Piemonte",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.701355,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 251,
+    "endChar": 267
+  },
+  {
+    "idEntity": 1935381,
+    "label": "Luigi Rolando",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.689789,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 58,
+    "endChar": 71
+  },
+  {
+    "idEntity": 1935382,
+    "label": "Museo della",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.673584,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 78,
+    "endChar": 89
+  },
+  {
+    "idEntity": 1935383,
+    "label": "Università di Torino",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.667259,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 229,
+    "endChar": 249
+  }
+]

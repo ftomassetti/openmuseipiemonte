@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936810,
+    "label": "Ostana",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.909239,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 183,
+    "endChar": 189
+  }
+]

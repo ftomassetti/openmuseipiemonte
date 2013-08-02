@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935471,
+    "label": "Pinerolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.85299,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 299,
+    "endChar": 307
+  },
+  {
+    "idEntity": 1935472,
+    "label": "Pinerolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.85299,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 357,
+    "endChar": 365
+  },
+  {
+    "idEntity": 1935473,
+    "label": "Museo d'Arte Preistorica",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.735539,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 18,
+    "endChar": 42
+  },
+  {
+    "idEntity": 1935474,
+    "label": "Occidentali",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.700735,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 166,
+    "endChar": 177
+  },
+  {
+    "idEntity": 1935475,
+    "label": "Senato",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.624755,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 488,
+    "endChar": 494
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936003,
+    "label": "Pinerolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.729012,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 91,
+    "endChar": 99
+  },
+  {
+    "idEntity": 1936004,
+    "label": "San Maurizio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.723889,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 56,
+    "endChar": 68
+  },
+  {
+    "idEntity": 1936005,
+    "label": "Petrini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.650185,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 462,
+    "endChar": 469
+  }
+]

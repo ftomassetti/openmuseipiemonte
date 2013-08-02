@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1923463,
+    "label": "Cavour",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cavour_%28TO%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 340,
+    "endChar": 346
+  },
+  {
+    "idEntity": 1923461,
+    "label": "Cavour",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cavour_%28TO%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 158,
+    "endChar": 164
+  },
+  {
+    "idEntity": 1923462,
+    "label": "Il Risorgimento",
+    "extractorType": "PrintMedia",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.611793,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 206,
+    "endChar": 221
+  },
+  {
+    "idEntity": 1923460,
+    "label": "Camillo Benso",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.590992,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 135,
+    "endChar": 148
+  },
+  {
+    "idEntity": 1923464,
+    "label": "Gian Giacomo Plantery",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.546392,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 667,
+    "endChar": 688
+  },
+  {
+    "idEntity": 1923465,
+    "label": "Palazzo Cavour",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.535759,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 690,
+    "endChar": 704
+  },
+  {
+    "idEntity": 1923466,
+    "label": "Giuseppe Bovis",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.525928,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 788,
+    "endChar": 802
+  }
+]

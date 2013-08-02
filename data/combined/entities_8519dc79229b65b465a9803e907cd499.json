@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1923893,
+    "label": "Rima San Giuseppe",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Rima_San_Giuseppe",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 371,
+    "endChar": 388
+  },
+  {
+    "idEntity": 1923891,
+    "label": "Pietro Della",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.914916,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 163,
+    "endChar": 175
+  },
+  {
+    "idEntity": 1923892,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.858627,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 250,
+    "endChar": 256
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925787,
+    "label": "Cusio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cusio_%28BG%29",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 188,
+    "endChar": 193
+  },
+  {
+    "idEntity": 1925788,
+    "label": "Alessi",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Alessi_%28company%29",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 209,
+    "endChar": 215
+  },
+  {
+    "idEntity": 1925789,
+    "label": "Lagostina",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Lagostina",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 235,
+    "endChar": 244
+  }
+]

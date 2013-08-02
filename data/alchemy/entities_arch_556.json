@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936254,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.923182,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 40,
+    "endChar": 46
+  },
+  {
+    "idEntity": 1936255,
+    "label": "Ascanio Vitozzi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.829091,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 221,
+    "endChar": 236
+  },
+  {
+    "idEntity": 1936256,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.796591,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 674,
+    "endChar": 689
+  },
+  {
+    "idEntity": 1936257,
+    "label": "Pietro Piffetti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.738106,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 878,
+    "endChar": 893
+  },
+  {
+    "idEntity": 1936258,
+    "label": "Giovanni Battista Crosato",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.710682,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 927,
+    "endChar": 952
+  },
+  {
+    "idEntity": 1936259,
+    "label": "Giuseppe Dallamano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.686591,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 906,
+    "endChar": 924
+  }
+]

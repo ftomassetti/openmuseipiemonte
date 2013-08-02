@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1923514,
+    "label": "Palazzo Lascaris",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.837181,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 242,
+    "endChar": 258
+  },
+  {
+    "idEntity": 1923515,
+    "label": "Palazzo Lascaris",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.837181,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 823,
+    "endChar": 839
+  },
+  {
+    "idEntity": 1923511,
+    "label": "Giovanni Battista Beggiami",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.574902,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 73,
+    "endChar": 99
+  },
+  {
+    "idEntity": 1923513,
+    "label": "Amedeo di Castellamonte",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.572451,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 160,
+    "endChar": 183
+  },
+  {
+    "idEntity": 1923516,
+    "label": "Regione Piemonte",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.543382,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 860,
+    "endChar": 876
+  },
+  {
+    "idEntity": 1923512,
+    "label": "Domenico Bernardi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.540588,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 117,
+    "endChar": 134
+  }
+]

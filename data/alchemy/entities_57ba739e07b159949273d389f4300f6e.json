@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1935214,
+    "label": "San Vincenzo Martire",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.885349,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 58,
+    "endChar": 78
+  },
+  {
+    "idEntity": 1935215,
+    "label": "Susa",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.852209,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 143,
+    "endChar": 147
+  },
+  {
+    "idEntity": 1935216,
+    "label": "Claude Simon",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.795814,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 518,
+    "endChar": 530
+  },
+  {
+    "idEntity": 1935217,
+    "label": "Bramans",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.76907,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 534,
+    "endChar": 541
+  }
+]

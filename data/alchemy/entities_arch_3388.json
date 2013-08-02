@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936351,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.91831,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 108,
+    "endChar": 114
+  },
+  {
+    "idEntity": 1936352,
+    "label": "Diana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.799155,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 771,
+    "endChar": 776
+  },
+  {
+    "idEntity": 1936353,
+    "label": "Giuseppe Penone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.765704,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 928,
+    "endChar": 943
+  }
+]

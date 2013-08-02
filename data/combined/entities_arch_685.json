@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1924981,
+    "label": "Caraglio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Caraglio",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 139,
+    "endChar": 147
+  },
+  {
+    "idEntity": 1924982,
+    "label": "Santa Maria degli Angeli",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Santa_Maria_degli_Angeli_%28Assisi%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 502,
+    "endChar": 526
+  }
+]

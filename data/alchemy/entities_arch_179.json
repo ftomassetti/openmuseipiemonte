@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935700,
+    "label": "San Giorgio",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.798549,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 98,
+    "endChar": 109
+  },
+  {
+    "idEntity": 1935701,
+    "label": "San Giorgio",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.798549,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 559,
+    "endChar": 570
+  },
+  {
+    "idEntity": 1935702,
+    "label": "San Giorgio",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.798549,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 736,
+    "endChar": 747
+  },
+  {
+    "idEntity": 1935703,
+    "label": "Vilcardel de Fleury",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.546674,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 762,
+    "endChar": 781
+  },
+  {
+    "idEntity": 1935704,
+    "label": "Rovasenda",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.489039,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1266,
+    "endChar": 1275
+  }
+]

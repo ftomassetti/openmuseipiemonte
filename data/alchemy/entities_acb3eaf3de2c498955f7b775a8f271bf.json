@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936412,
+    "label": "Africa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.855964,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 197,
+    "endChar": 203
+  },
+  {
+    "idEntity": 1936413,
+    "label": "Africa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.855964,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 589,
+    "endChar": 595
+  },
+  {
+    "idEntity": 1936414,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.630211,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 231,
+    "endChar": 238
+  },
+  {
+    "idEntity": 1936415,
+    "label": "Svizzera",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.604608,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 240,
+    "endChar": 248
+  }
+]

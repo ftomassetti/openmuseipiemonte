@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935953,
+    "label": "Carlo Emanuele I",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.881818,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 259,
+    "endChar": 275
+  },
+  {
+    "idEntity": 1935954,
+    "label": "Sant'Antonio",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.878182,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 165,
+    "endChar": 177
+  },
+  {
+    "idEntity": 1935955,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.85,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 216,
+    "endChar": 222
+  }
+]

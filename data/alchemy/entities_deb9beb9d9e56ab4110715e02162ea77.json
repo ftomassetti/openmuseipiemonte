@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935045,
+    "label": "Giovanni Zarbula",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.837598,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 602,
+    "endChar": 618
+  }
+]

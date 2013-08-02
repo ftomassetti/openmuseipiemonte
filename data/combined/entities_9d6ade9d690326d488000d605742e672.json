@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922460,
+    "label": "Ivrea",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ivrea",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 553,
+    "endChar": 558
+  },
+  {
+    "idEntity": 1922459,
+    "label": "Ivrea",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Ivrea",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 168,
+    "endChar": 173
+  },
+  {
+    "idEntity": 1922458,
+    "label": "Pia Moreno",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.7291,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 130,
+    "endChar": 140
+  }
+]

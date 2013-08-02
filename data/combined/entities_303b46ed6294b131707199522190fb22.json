@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1925337,
+    "label": "Casale Monferrato",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Casale_Monferrato",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 409,
+    "endChar": 426
+  },
+  {
+    "idEntity": 1925335,
+    "label": "Europa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Europe",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 189,
+    "endChar": 195
+  },
+  {
+    "idEntity": 1925334,
+    "label": "Arte",
+    "extractorType": "Broadcast",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Arte",
+    "confidence": 0.882,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 11,
+    "endChar": 15
+  },
+  {
+    "idEntity": 1925336,
+    "label": "Esso",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Esso",
+    "confidence": 0.7546,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 292,
+    "endChar": 296
+  }
+]

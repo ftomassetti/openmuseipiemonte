@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1925042,
+    "label": "Giovanni Arpino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Giovanni_Arpino",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 336,
+    "endChar": 351
+  },
+  {
+    "idEntity": 1925039,
+    "label": "Pocapaglia",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Pocapaglia",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 108,
+    "endChar": 118
+  },
+  {
+    "idEntity": 1925041,
+    "label": "Bra",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Bra%2C_Italy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 263,
+    "endChar": 266
+  },
+  {
+    "idEntity": 1925040,
+    "label": "Bra",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Bra%2C_Italy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 121,
+    "endChar": 124
+  },
+  {
+    "idEntity": 1925044,
+    "label": "Arpino",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Arpino",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 375,
+    "endChar": 381
+  },
+  {
+    "idEntity": 1925045,
+    "label": "Bra",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Bra%2C_Italy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 491,
+    "endChar": 494
+  },
+  {
+    "idEntity": 1925043,
+    "label": "Regina",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Regina%2C_Saskatchewan",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 353,
+    "endChar": 359
+  }
+]

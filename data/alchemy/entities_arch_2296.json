@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1936647,
+    "label": "Vespolate",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.808043,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 210,
+    "endChar": 219
+  },
+  {
+    "idEntity": 1936648,
+    "label": "Vespolate",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.808043,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 638,
+    "endChar": 647
+  },
+  {
+    "idEntity": 1936649,
+    "label": "Pombia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.629964,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 424,
+    "endChar": 430
+  },
+  {
+    "idEntity": 1936650,
+    "label": "Novara",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.604167,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 536,
+    "endChar": 542
+  },
+  {
+    "idEntity": 1936651,
+    "label": "Besate",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.602355,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 454,
+    "endChar": 460
+  }
+]

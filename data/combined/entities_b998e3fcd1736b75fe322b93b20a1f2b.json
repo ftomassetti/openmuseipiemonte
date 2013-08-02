@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922417,
+    "label": "Alpi",
+    "extractorType": "MountainRange",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alps",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 50,
+    "endChar": 54
+  },
+  {
+    "idEntity": 1922419,
+    "label": "Bussoleno",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Bussoleno",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 593,
+    "endChar": 602
+  },
+  {
+    "idEntity": 1922418,
+    "label": "Ferrovie dello Stato",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/Ferrovie_dello_Stato",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 120,
+    "endChar": 140
+  }
+]

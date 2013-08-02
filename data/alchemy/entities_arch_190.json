@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1935705,
+    "label": "XIX secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.803292,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1728,
+    "endChar": 1738
+  },
+  {
+    "idEntity": 1935706,
+    "label": "Caravino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.747107,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 154,
+    "endChar": 162
+  },
+  {
+    "idEntity": 1935707,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.667448,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1345,
+    "endChar": 1352
+  },
+  {
+    "idEntity": 1935708,
+    "label": "Ludovico Carlo Francesco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.645022,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 920,
+    "endChar": 944
+  },
+  {
+    "idEntity": 1935709,
+    "label": "San Carlo Borromeo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.618185,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1192,
+    "endChar": 1210
+  },
+  {
+    "idEntity": 1935710,
+    "label": "Madama Reale",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.610404,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1364,
+    "endChar": 1376
+  },
+  {
+    "idEntity": 1935711,
+    "label": "Silvio Pellico",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.58372,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1269,
+    "endChar": 1283
+  },
+  {
+    "idEntity": 1935712,
+    "label": "Vittorio Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.567808,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1212,
+    "endChar": 1228
+  },
+  {
+    "idEntity": 1935713,
+    "label": "Massimo d'Azeglio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.567556,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1230,
+    "endChar": 1247
+  },
+  {
+    "idEntity": 1935714,
+    "label": "Gioacchino Rossini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.567305,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1249,
+    "endChar": 1267
+  }
+]

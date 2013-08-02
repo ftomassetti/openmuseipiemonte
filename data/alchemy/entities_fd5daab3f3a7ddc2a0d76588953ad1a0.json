@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936870,
+    "label": "sede del Parco Naturale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.704886,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 35,
+    "endChar": 58
+  },
+  {
+    "idEntity": 1936871,
+    "label": "Michele Pellegrino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.588172,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 201,
+    "endChar": 219
+  }
+]

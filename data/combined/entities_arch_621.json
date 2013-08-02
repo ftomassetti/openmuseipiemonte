@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925553,
+    "label": "Doc",
+    "extractorType": "TelevisionShow",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Doc_%28TV_series%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 665,
+    "endChar": 668
+  }
+]

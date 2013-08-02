@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936927,
+    "label": "Casteldelfino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.919565,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 92,
+    "endChar": 105
+  }
+]

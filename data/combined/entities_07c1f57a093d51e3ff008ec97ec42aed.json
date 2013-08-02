@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925143,
+    "label": "Giovanni Bosco",
+    "extractorType": "Saint",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": "http://dbpedia.org/resource/John_Bosco",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 418,
+    "endChar": 432
+  }
+]

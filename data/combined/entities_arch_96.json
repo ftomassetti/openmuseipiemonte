@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1923074,
+    "label": "La chiesa",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Church_%28film%29",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 905,
+    "endChar": 914
+  },
+  {
+    "idEntity": 1923069,
+    "label": "Contrada",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Contrada_%28AV%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 493,
+    "endChar": 501
+  },
+  {
+    "idEntity": 1923068,
+    "label": "San Domenico",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.828027,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 13,
+    "endChar": 25
+  },
+  {
+    "idEntity": 1923073,
+    "label": "San Domenico",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.828027,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 762,
+    "endChar": 774
+  },
+  {
+    "idEntity": 1923070,
+    "label": "Senato",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.637801,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 525,
+    "endChar": 531
+  },
+  {
+    "idEntity": 1923075,
+    "label": "Giovanni Vacchetta",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.578102,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1108,
+    "endChar": 1126
+  },
+  {
+    "idEntity": 1923071,
+    "label": "Riccardo Brayda",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.519066,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 711,
+    "endChar": 726
+  },
+  {
+    "idEntity": 1923072,
+    "label": "Alfredo d'Andrade",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.493163,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 729,
+    "endChar": 746
+  }
+]

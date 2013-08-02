@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1923648,
+    "label": "Roma",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Rome",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 525,
+    "endChar": 529
+  },
+  {
+    "idEntity": 1923645,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.893048,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 178,
+    "endChar": 184
+  },
+  {
+    "idEntity": 1923644,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 168,
+    "endChar": 174
+  },
+  {
+    "idEntity": 1923650,
+    "label": "Scala",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Scala_%28SA%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1002,
+    "endChar": 1007
+  },
+  {
+    "idEntity": 1923643,
+    "label": "Emanuele Filiberto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.861791,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 86,
+    "endChar": 104
+  },
+  {
+    "idEntity": 1923649,
+    "label": "Carlo Morello",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.82213,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 676,
+    "endChar": 689
+  },
+  {
+    "idEntity": 1923646,
+    "label": "Carlo Emanuele I",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.805642,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 233,
+    "endChar": 249
+  },
+  {
+    "idEntity": 1923651,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.79156,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1034,
+    "endChar": 1049
+  },
+  {
+    "idEntity": 1923647,
+    "label": "Ascanio Vitozzi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.779305,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 264,
+    "endChar": 279
+  }
+]

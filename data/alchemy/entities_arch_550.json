@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936223,
+    "label": "Vittorio Amedeo II",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.70966,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 17,
+    "endChar": 35
+  },
+  {
+    "idEntity": 1936224,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.691463,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 71,
+    "endChar": 86
+  },
+  {
+    "idEntity": 1936225,
+    "label": "Ammobiliamento",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.643673,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1324,
+    "endChar": 1338
+  },
+  {
+    "idEntity": 1936226,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.618741,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 864,
+    "endChar": 881
+  },
+  {
+    "idEntity": 1936227,
+    "label": "Ludovico Bo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.584218,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 911,
+    "endChar": 922
+  },
+  {
+    "idEntity": 1936228,
+    "label": "Ignazio Birago",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.568401,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 883,
+    "endChar": 897
+  }
+]

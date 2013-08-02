@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1924558,
+    "label": "Santa Vittoria d'Alba",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Santa_Vittoria_d%27Alba",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 34,
+    "endChar": 55
+  },
+  {
+    "idEntity": 1924559,
+    "label": "Europa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Europe",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 158,
+    "endChar": 164
+  },
+  {
+    "idEntity": 1924566,
+    "label": "Russia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Russia",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 607,
+    "endChar": 613
+  },
+  {
+    "idEntity": 1924564,
+    "label": "Germania",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Germany",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 580,
+    "endChar": 588
+  },
+  {
+    "idEntity": 1924563,
+    "label": "Egitto",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Egypt",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 389,
+    "endChar": 395
+  },
+  {
+    "idEntity": 1924562,
+    "label": "Siria",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Syria",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 380,
+    "endChar": 385
+  },
+  {
+    "idEntity": 1924560,
+    "label": "Medio Oriente",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.886364,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 171,
+    "endChar": 184
+  },
+  {
+    "idEntity": 1924561,
+    "label": "Impero",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Empire_%281986_film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 368,
+    "endChar": 374
+  },
+  {
+    "idEntity": 1924565,
+    "label": "Olanda",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.670556,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 590,
+    "endChar": 596
+  }
+]

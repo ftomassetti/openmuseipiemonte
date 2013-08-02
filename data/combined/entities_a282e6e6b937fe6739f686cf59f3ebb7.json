@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1922641,
+    "label": "Pinerolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.913182,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 83,
+    "endChar": 91
+  },
+  {
+    "idEntity": 1922642,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.880909,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 134,
+    "endChar": 140
+  }
+]

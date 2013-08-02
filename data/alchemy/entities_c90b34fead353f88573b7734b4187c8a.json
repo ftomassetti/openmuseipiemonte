@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1936416,
+    "label": "Ignazio Giovanni Comola",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.81188,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 177,
+    "endChar": 200
+  },
+  {
+    "idEntity": 1936417,
+    "label": "Ignazio Giovanni Comola",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.81188,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 590,
+    "endChar": 613
+  },
+  {
+    "idEntity": 1936418,
+    "label": "Roma",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.805401,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 429,
+    "endChar": 433
+  },
+  {
+    "idEntity": 1936419,
+    "label": "Roma",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.805401,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 794,
+    "endChar": 798
+  },
+  {
+    "idEntity": 1936420,
+    "label": "Varallo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.582995,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 50,
+    "endChar": 57
+  },
+  {
+    "idEntity": 1936421,
+    "label": "Luigi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.551642,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 253,
+    "endChar": 258
+  },
+  {
+    "idEntity": 1936422,
+    "label": "Giovanni Comola",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.527306,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 185,
+    "endChar": 200
+  },
+  {
+    "idEntity": 1936423,
+    "label": "Comola",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.515627,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 76,
+    "endChar": 82
+  }
+]

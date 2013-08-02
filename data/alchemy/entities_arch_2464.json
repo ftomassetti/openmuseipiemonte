@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935904,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.922163,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 56,
+    "endChar": 62
+  },
+  {
+    "idEntity": 1935905,
+    "label": "Vittorio Amedeo II",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.845426,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 181,
+    "endChar": 199
+  },
+  {
+    "idEntity": 1935906,
+    "label": "Museo della Sindone",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.826064,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 895,
+    "endChar": 914
+  },
+  {
+    "idEntity": 1935907,
+    "label": "Antonio Michele Milocco",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.797819,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 818,
+    "endChar": 841
+  },
+  {
+    "idEntity": 1935908,
+    "label": "Angelo Reycent",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.771312,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 587,
+    "endChar": 601
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1924204,
+    "label": "Guglielmo da Volpiano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/William_of_Volpiano",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1284,
+    "endChar": 1305
+  },
+  {
+    "idEntity": 1924202,
+    "label": "Guglielmo da Volpiano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/William_of_Volpiano",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 792,
+    "endChar": 813
+  },
+  {
+    "idEntity": 1924201,
+    "label": "Lago d'Orta",
+    "extractorType": "Lake",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Lake_Orta",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 126,
+    "endChar": 137
+  },
+  {
+    "idEntity": 1924200,
+    "label": "San Giulio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.809279,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 68,
+    "endChar": 78
+  },
+  {
+    "idEntity": 1924205,
+    "label": "San Giulio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.809279,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1387,
+    "endChar": 1397
+  },
+  {
+    "idEntity": 1924203,
+    "label": "Santi",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.545902,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 923,
+    "endChar": 928
+  }
+]

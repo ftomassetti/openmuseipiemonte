@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1922116,
+    "label": "Piemonte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Piedmont",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 434,
+    "endChar": 442
+  },
+  {
+    "idEntity": 1922115,
+    "label": "Pragelato",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Pragelato",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 359,
+    "endChar": 368
+  },
+  {
+    "idEntity": 1922114,
+    "label": "Università degli Studi di Torino",
+    "extractorType": "University",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": "http://dbpedia.org/resource/University_of_Turin",
+    "confidence": 0.98,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 45,
+    "endChar": 77
+  }
+]

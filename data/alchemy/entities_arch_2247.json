@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936327,
+    "label": "Filippo Castelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.832258,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 734,
+    "endChar": 750
+  },
+  {
+    "idEntity": 1936328,
+    "label": "Caluso",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.802016,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 822,
+    "endChar": 828
+  }
+]

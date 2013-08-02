@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1936287,
+    "label": "invernale",
+    "extractorType": "Sport",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": null,
+    "confidence": 0.850379,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1152,
+    "endChar": 1161
+  },
+  {
+    "idEntity": 1936288,
+    "label": "Michel Benard",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.701416,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 470,
+    "endChar": 483
+  },
+  {
+    "idEntity": 1936289,
+    "label": "Castellamonte",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.683506,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1298,
+    "endChar": 1311
+  },
+  {
+    "idEntity": 1936290,
+    "label": "Maria Cristina",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.641468,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 611,
+    "endChar": 625
+  },
+  {
+    "idEntity": 1936291,
+    "label": "Carlo Felice",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.607271,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 641,
+    "endChar": 653
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936019,
+    "label": "Santa Maria",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.923661,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 13,
+    "endChar": 24
+  },
+  {
+    "idEntity": 1936020,
+    "label": "Angelo Moia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.83125,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 727,
+    "endChar": 738
+  }
+]

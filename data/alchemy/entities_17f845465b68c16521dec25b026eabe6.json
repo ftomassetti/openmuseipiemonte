@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936775,
+    "label": "Africa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.33,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 243,
+    "endChar": 249
+  },
+  {
+    "idEntity": 1936776,
+    "label": "Amazzonia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.33,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 228,
+    "endChar": 237
+  }
+]

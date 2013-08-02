@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1935011,
+    "label": "calcio",
+    "extractorType": "Sport",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": null,
+    "confidence": 0.765561,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 142,
+    "endChar": 148
+  },
+  {
+    "idEntity": 1935012,
+    "label": "Superga",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.611538,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 82,
+    "endChar": 89
+  },
+  {
+    "idEntity": 1935013,
+    "label": "Lisbona",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.565983,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 162,
+    "endChar": 169
+  },
+  {
+    "idEntity": 1935014,
+    "label": "Villa Claretta",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.557863,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 269,
+    "endChar": 283
+  },
+  {
+    "idEntity": 1935015,
+    "label": "Grugliasco",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.556581,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 287,
+    "endChar": 297
+  },
+  {
+    "idEntity": 1935016,
+    "label": "Storica Granata",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.527521,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 487,
+    "endChar": 502
+  }
+]

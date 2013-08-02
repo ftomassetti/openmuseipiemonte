@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936772,
+    "label": "Villa S. Eusebio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.899561,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 226,
+    "endChar": 242
+  },
+  {
+    "idEntity": 1936773,
+    "label": "Valle Varaita",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.826754,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 405,
+    "endChar": 418
+  }
+]

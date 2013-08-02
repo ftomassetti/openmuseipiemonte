@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936716,
+    "label": "Regione Piemonte",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.554212,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 216,
+    "endChar": 232
+  },
+  {
+    "idEntity": 1936717,
+    "label": "Ticino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.546154,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 54,
+    "endChar": 60
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1925295,
+    "label": "Carlo Carrà",
+    "extractorType": "Artist",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Carlo_Carr%C3%A0",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 449,
+    "endChar": 460
+  },
+  {
+    "idEntity": 1925296,
+    "label": "Volpedo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Volpedo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 474,
+    "endChar": 481
+  }
+]

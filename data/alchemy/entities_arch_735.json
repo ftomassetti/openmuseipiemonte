@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935862,
+    "label": "Carmagnola",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.92,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 96,
+    "endChar": 106
+  }
+]

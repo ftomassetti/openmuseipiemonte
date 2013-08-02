@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1935949,
+    "label": "Giacomo Soldati",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.865545,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 50,
+    "endChar": 65
+  },
+  {
+    "idEntity": 1935950,
+    "label": "Carlo Emanuele I",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.836584,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 94,
+    "endChar": 110
+  },
+  {
+    "idEntity": 1935951,
+    "label": "Ascanio Vittozzi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.833119,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 140,
+    "endChar": 156
+  },
+  {
+    "idEntity": 1935952,
+    "label": "Carlo di Castellamonte",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.828168,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 197,
+    "endChar": 219
+  }
+]

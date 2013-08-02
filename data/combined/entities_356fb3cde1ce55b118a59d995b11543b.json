@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1922264,
+    "label": "Balme",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Balme",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 208,
+    "endChar": 213
+  },
+  {
+    "idEntity": 1922263,
+    "label": "Balme",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Balme",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 68,
+    "endChar": 73
+  },
+  {
+    "idEntity": 1922265,
+    "label": "Balme",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Balme",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 358,
+    "endChar": 363
+  },
+  {
+    "idEntity": 1922262,
+    "label": "Antonio Castagneri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.64,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 18
+  },
+  {
+    "idEntity": 1922266,
+    "label": "Val Servìn",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.544286,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 845,
+    "endChar": 855
+  }
+]

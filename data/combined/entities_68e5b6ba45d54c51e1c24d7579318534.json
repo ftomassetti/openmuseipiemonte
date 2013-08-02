@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1925284,
+    "label": "Cristoforo Colombo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Christopher_Columbus",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 20,
+    "endChar": 38
+  },
+  {
+    "idEntity": 1925287,
+    "label": "Americhe",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Americas",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 518,
+    "endChar": 526
+  },
+  {
+    "idEntity": 1925285,
+    "label": "Colombo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Colombo%2C_Paran%C3%A1",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 116,
+    "endChar": 123
+  },
+  {
+    "idEntity": 1925286,
+    "label": "Colombo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Colombo%2C_Paran%C3%A1",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 252,
+    "endChar": 259
+  }
+]

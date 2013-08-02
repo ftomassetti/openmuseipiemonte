@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936877,
+    "label": "Montana",
+    "extractorType": "StateOrCounty",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.921429,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 33,
+    "endChar": 40
+  },
+  {
+    "idEntity": 1936878,
+    "label": "Demonte",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.891429,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 76,
+    "endChar": 83
+  },
+  {
+    "idEntity": 1936879,
+    "label": "Valle Stura",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.882857,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 153,
+    "endChar": 164
+  }
+]

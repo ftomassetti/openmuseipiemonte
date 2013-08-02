@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936696,
+    "label": "Alessandro Antonelli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.96393,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 832,
+    "endChar": 852
+  },
+  {
+    "idEntity": 1936697,
+    "label": "Novara, S. Gaudenzio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.809954,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 149,
+    "endChar": 169
+  },
+  {
+    "idEntity": 1936698,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.736216,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 488,
+    "endChar": 505
+  }
+]

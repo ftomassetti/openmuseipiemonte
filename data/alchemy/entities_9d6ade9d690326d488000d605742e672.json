@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935326,
+    "label": "Ivrea",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.864033,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 168,
+    "endChar": 173
+  },
+  {
+    "idEntity": 1935327,
+    "label": "Ivrea",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.864033,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 553,
+    "endChar": 558
+  },
+  {
+    "idEntity": 1935328,
+    "label": "Pia Moreno",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.7291,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 130,
+    "endChar": 140
+  }
+]

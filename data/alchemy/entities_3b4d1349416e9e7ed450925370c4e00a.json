@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935639,
+    "label": "Michele Baretta",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.901,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 156,
+    "endChar": 171
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1924628,
+    "label": "Venasca",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Venasca",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 7
+  },
+  {
+    "idEntity": 1924629,
+    "label": "Val Varaita",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.87863,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 29,
+    "endChar": 40
+  },
+  {
+    "idEntity": 1924630,
+    "label": "Cristiano Cometto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.830457,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 146,
+    "endChar": 163
+  },
+  {
+    "idEntity": 1924631,
+    "label": "Mattia Sismonda",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.779429,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 166,
+    "endChar": 181
+  }
+]

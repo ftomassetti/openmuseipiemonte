@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936545,
+    "label": "Alberto Rovasenda",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.790613,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 9,
+    "endChar": 26
+  },
+  {
+    "idEntity": 1936546,
+    "label": "Alberto di",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.334547,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 447,
+    "endChar": 457
+  }
+]

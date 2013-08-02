@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925556,
+    "label": "Winston Churchill",
+    "extractorType": "PrimeMinister",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Winston_Churchill",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1231,
+    "endChar": 1248
+  },
+  {
+    "idEntity": 1925555,
+    "label": "Europa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Europe",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1216,
+    "endChar": 1222
+  },
+  {
+    "idEntity": 1925554,
+    "label": "Europa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Europe",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1164,
+    "endChar": 1170
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1935921,
+    "label": "occidentale della",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.681297,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 418,
+    "endChar": 435
+  },
+  {
+    "idEntity": 1935922,
+    "label": "Gattinara",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.590152,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 260,
+    "endChar": 269
+  },
+  {
+    "idEntity": 1935923,
+    "label": "San Callisto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.579242,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 22,
+    "endChar": 34
+  },
+  {
+    "idEntity": 1935924,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.55601,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 187,
+    "endChar": 202
+  },
+  {
+    "idEntity": 1935925,
+    "label": "Carmine",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.516111,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 342,
+    "endChar": 349
+  },
+  {
+    "idEntity": 1935926,
+    "label": "Claudio Francesco Beaumont",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.497424,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 887,
+    "endChar": 913
+  }
+]

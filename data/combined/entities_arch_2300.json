@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1924319,
+    "label": "penisola d'Orta",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.747908,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 87,
+    "endChar": 102
+  },
+  {
+    "idEntity": 1924321,
+    "label": "Firenze",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.582551,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 203,
+    "endChar": 210
+  },
+  {
+    "idEntity": 1924318,
+    "label": "Villa Motta",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.58,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 11
+  },
+  {
+    "idEntity": 1924320,
+    "label": "Conti Rucellai",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.563255,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 185,
+    "endChar": 199
+  },
+  {
+    "idEntity": 1924322,
+    "label": "Antonione Motta",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.525462,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 297,
+    "endChar": 312
+  },
+  {
+    "idEntity": 1924323,
+    "label": "Giacinto Motta",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.507856,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 336,
+    "endChar": 350
+  }
+]

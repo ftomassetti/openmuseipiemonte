@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936929,
+    "label": "Santo Stefano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.68516,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 858,
+    "endChar": 871
+  },
+  {
+    "idEntity": 1936930,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.680502,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 635,
+    "endChar": 641
+  }
+]

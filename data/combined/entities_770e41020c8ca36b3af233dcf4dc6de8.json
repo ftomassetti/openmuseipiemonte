@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1925115,
+    "label": "Pietro Badoglio",
+    "extractorType": "PrimeMinister",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": "http://dbpedia.org/resource/Pietro_Badoglio",
+    "confidence": 1.0,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 99,
+    "endChar": 114
+  },
+  {
+    "idEntity": 1925116,
+    "label": "Africa",
+    "extractorType": "Continent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Africa",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 437,
+    "endChar": 443
+  },
+  {
+    "idEntity": 1925118,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Italy",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 737,
+    "endChar": 743
+  },
+  {
+    "idEntity": 1925117,
+    "label": "Impero",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Empire_%281986_film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 546,
+    "endChar": 552
+  }
+]

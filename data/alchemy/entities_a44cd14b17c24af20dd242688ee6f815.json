@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1935165,
+    "label": "Pinacoteca Civica",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.737712,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 254,
+    "endChar": 271
+  },
+  {
+    "idEntity": 1935166,
+    "label": "Bernardo Vittone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.706552,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 133,
+    "endChar": 149
+  },
+  {
+    "idEntity": 1935167,
+    "label": "Carlo Emanuele III",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.6889,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 168,
+    "endChar": 186
+  },
+  {
+    "idEntity": 1935168,
+    "label": "Museo Etnografico",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.675408,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 366,
+    "endChar": 383
+  },
+  {
+    "idEntity": 1935169,
+    "label": "Museo di Scienze",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.661232,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 335,
+    "endChar": 351
+  },
+  {
+    "idEntity": 1935170,
+    "label": "Lorenzo Delleani",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.63526,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 521,
+    "endChar": 537
+  },
+  {
+    "idEntity": 1935171,
+    "label": "Enrico Reycend",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.600941,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 570,
+    "endChar": 584
+  },
+  {
+    "idEntity": 1935172,
+    "label": "Giacomo Grosso",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.584932,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 539,
+    "endChar": 553
+  },
+  {
+    "idEntity": 1935173,
+    "label": "Felice Carena",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.584603,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 555,
+    "endChar": 568
+  }
+]

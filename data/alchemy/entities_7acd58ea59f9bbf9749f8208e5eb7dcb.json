@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936609,
+    "label": "Varallo Pombia",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.755463,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 308,
+    "endChar": 322
+  },
+  {
+    "idEntity": 1936610,
+    "label": "Comignago",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.632315,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 270,
+    "endChar": 279
+  }
+]

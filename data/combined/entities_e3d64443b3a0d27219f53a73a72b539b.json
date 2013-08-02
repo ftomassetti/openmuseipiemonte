@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1925795,
+    "label": "Padova",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Padua",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 140,
+    "endChar": 146
+  },
+  {
+    "idEntity": 1925796,
+    "label": "Milano",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Milan",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 990,
+    "endChar": 996
+  },
+  {
+    "idEntity": 1925797,
+    "label": "Padova",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Padua",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 999,
+    "endChar": 1005
+  }
+]

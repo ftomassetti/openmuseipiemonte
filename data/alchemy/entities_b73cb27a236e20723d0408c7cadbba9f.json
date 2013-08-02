@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935466,
+    "label": "del Senato",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.805641,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 203,
+    "endChar": 213
+  },
+  {
+    "idEntity": 1935467,
+    "label": "del Senato",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.805641,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 289,
+    "endChar": 299
+  },
+  {
+    "idEntity": 1935468,
+    "label": "Lodovico d'Acaja",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.699936,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 25,
+    "endChar": 41
+  },
+  {
+    "idEntity": 1935469,
+    "label": "Vittorio Amedeo II",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.663397,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 155,
+    "endChar": 173
+  },
+  {
+    "idEntity": 1935470,
+    "label": "Doma Rossa",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.583526,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 348,
+    "endChar": 358
+  }
+]

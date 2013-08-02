@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935941,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.918056,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 34,
+    "endChar": 49
+  }
+]

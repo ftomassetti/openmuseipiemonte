@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1936689,
+    "label": "San Michele",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.813508,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 21,
+    "endChar": 32
+  },
+  {
+    "idEntity": 1936690,
+    "label": "San Michele",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.813508,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 985,
+    "endChar": 996
+  },
+  {
+    "idEntity": 1936691,
+    "label": "XVI secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.802107,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 189,
+    "endChar": 199
+  },
+  {
+    "idEntity": 1936692,
+    "label": "Oleggio",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.576123,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 71,
+    "endChar": 78
+  },
+  {
+    "idEntity": 1936693,
+    "label": "Nord Italia",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.569138,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 387,
+    "endChar": 398
+  },
+  {
+    "idEntity": 1936694,
+    "label": "Franceschino Cagnola",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.540157,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 959,
+    "endChar": 979
+  },
+  {
+    "idEntity": 1936695,
+    "label": "Johannes Maria del",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.520359,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1071,
+    "endChar": 1089
+  }
+]

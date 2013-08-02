@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1921899,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 11
+  },
+  {
+    "idEntity": 1921902,
+    "label": "Il castello",
+    "extractorType": "Book",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Castle_%28novel%29",
+    "confidence": 0.96515,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 290,
+    "endChar": 301
+  },
+  {
+    "idEntity": 1921901,
+    "label": "Valperga",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Valperga",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 161,
+    "endChar": 169
+  },
+  {
+    "idEntity": 1921903,
+    "label": "Valperga",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Valperga",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 382,
+    "endChar": 390
+  },
+  {
+    "idEntity": 1921905,
+    "label": "XIX secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.793079,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 893,
+    "endChar": 903
+  },
+  {
+    "idEntity": 1921900,
+    "label": "Caravino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.723992,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 65,
+    "endChar": 73
+  },
+  {
+    "idEntity": 1921904,
+    "label": "Canavese",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.65856,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 518,
+    "endChar": 526
+  }
+]

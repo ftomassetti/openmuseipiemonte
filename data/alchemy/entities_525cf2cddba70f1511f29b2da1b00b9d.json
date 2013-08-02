@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935057,
+    "label": "Luserna",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.813224,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 170,
+    "endChar": 177
+  },
+  {
+    "idEntity": 1935058,
+    "label": "Luserna",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.813224,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 427,
+    "endChar": 434
+  },
+  {
+    "idEntity": 1935059,
+    "label": "Rorà",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.619474,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 222,
+    "endChar": 226
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936924,
+    "label": "Federico Craveri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.861545,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 267,
+    "endChar": 283
+  },
+  {
+    "idEntity": 1936925,
+    "label": "Federico Craveri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.861545,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 641,
+    "endChar": 657
+  },
+  {
+    "idEntity": 1936926,
+    "label": "Bra",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.731402,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 90,
+    "endChar": 93
+  }
+]

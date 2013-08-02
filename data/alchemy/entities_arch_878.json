@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936192,
+    "label": "Guido Gozzano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.81622,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 51,
+    "endChar": 64
+  },
+  {
+    "idEntity": 1936193,
+    "label": "Guido Gozzano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.81622,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 748,
+    "endChar": 761
+  },
+  {
+    "idEntity": 1936194,
+    "label": "Francesco Conrieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.534754,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 523,
+    "endChar": 541
+  }
+]

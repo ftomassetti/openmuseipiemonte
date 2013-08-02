@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1935404,
+    "label": "museo Museo Storico",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.768744,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 3,
+    "endChar": 22
+  },
+  {
+    "idEntity": 1935405,
+    "label": "Fondazione del Corpo Nazionale dei Vigili del Fuoco",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.56727,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 115,
+    "endChar": 166
+  },
+  {
+    "idEntity": 1935406,
+    "label": "Storia dei Vigili del Fuoco",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.544282,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 816,
+    "endChar": 843
+  },
+  {
+    "idEntity": 1935407,
+    "label": "Corpo Nazionale",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.520862,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 130,
+    "endChar": 145
+  }
+]

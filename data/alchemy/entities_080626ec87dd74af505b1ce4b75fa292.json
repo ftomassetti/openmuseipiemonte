@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936429,
+    "label": "XVIII secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.918066,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 337,
+    "endChar": 349
+  },
+  {
+    "idEntity": 1936430,
+    "label": "Gianandrea Irico",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.458929,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 56,
+    "endChar": 72
+  },
+  {
+    "idEntity": 1936431,
+    "label": "Trino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.441518,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 120,
+    "endChar": 125
+  }
+]

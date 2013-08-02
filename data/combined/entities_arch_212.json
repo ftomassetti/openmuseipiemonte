@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1923469,
+    "label": "San Giovanni",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.683628,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 149,
+    "endChar": 161
+  },
+  {
+    "idEntity": 1923468,
+    "label": "San Giovanni",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.683628,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 65,
+    "endChar": 77
+  },
+  {
+    "idEntity": 1923474,
+    "label": "sede del Museo Nazionale del Cinema",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.594493,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1229,
+    "endChar": 1264
+  },
+  {
+    "idEntity": 1923470,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.578264,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 359,
+    "endChar": 376
+  },
+  {
+    "idEntity": 1923467,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.577118,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 41,
+    "endChar": 47
+  },
+  {
+    "idEntity": 1923473,
+    "label": "l'Istituto Italo-Africano",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.561458,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1190,
+    "endChar": 1215
+  },
+  {
+    "idEntity": 1923471,
+    "label": "Giuseppe Battista Piacenza",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.546111,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 848,
+    "endChar": 874
+  },
+  {
+    "idEntity": 1923472,
+    "label": "Camillo Borghese",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.527708,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 931,
+    "endChar": 947
+  },
+  {
+    "idEntity": 1923475,
+    "label": "Mole Antonelliana",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.518681,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1300,
+    "endChar": 1317
+  }
+]

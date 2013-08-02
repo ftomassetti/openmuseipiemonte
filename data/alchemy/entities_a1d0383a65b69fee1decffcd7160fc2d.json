@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935060,
+    "label": "Val Chisone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.902108,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 247,
+    "endChar": 258
+  },
+  {
+    "idEntity": 1935061,
+    "label": "Sestriere",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.873494,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 274,
+    "endChar": 283
+  },
+  {
+    "idEntity": 1935062,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.862651,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 401,
+    "endChar": 407
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935031,
+    "label": "Alfredo D'Andrade",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.87035,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 17
+  },
+  {
+    "idEntity": 1935032,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.673485,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 821,
+    "endChar": 827
+  }
+]

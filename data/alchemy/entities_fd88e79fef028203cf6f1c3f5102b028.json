@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935024,
+    "label": "Giovanni Verde",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.8775,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 113,
+    "endChar": 127
+  },
+  {
+    "idEntity": 1935025,
+    "label": "Leinì",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.876563,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 201,
+    "endChar": 206
+  },
+  {
+    "idEntity": 1935026,
+    "label": "Villa Violante",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.811094,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 241,
+    "endChar": 255
+  }
+]

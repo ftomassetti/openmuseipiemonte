@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1936085,
+    "label": "Pietro Fenoglio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.723535,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 242,
+    "endChar": 257
+  },
+  {
+    "idEntity": 1936086,
+    "label": "Liberty",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.713081,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 179,
+    "endChar": 186
+  },
+  {
+    "idEntity": 1936087,
+    "label": "Liberty",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.713081,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 582,
+    "endChar": 589
+  },
+  {
+    "idEntity": 1936088,
+    "label": "Casa",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.641717,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 862,
+    "endChar": 866
+  },
+  {
+    "idEntity": 1936089,
+    "label": "Casa",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.641717,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 890,
+    "endChar": 894
+  },
+  {
+    "idEntity": 1936090,
+    "label": "Casa",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.641717,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 911,
+    "endChar": 915
+  },
+  {
+    "idEntity": 1936091,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.578283,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 167,
+    "endChar": 173
+  },
+  {
+    "idEntity": 1936092,
+    "label": "Villa Scott",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.466061,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 877,
+    "endChar": 888
+  },
+  {
+    "idEntity": 1936093,
+    "label": "Rossi Galateri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.465455,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 895,
+    "endChar": 909
+  }
+]

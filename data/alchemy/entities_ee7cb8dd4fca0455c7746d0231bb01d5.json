@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936792,
+    "label": "XVIII secolo",
+    "extractorType": "Company",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.757645,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 167,
+    "endChar": 179
+  },
+  {
+    "idEntity": 1936793,
+    "label": "XV secolo",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.688665,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 472,
+    "endChar": 481
+  },
+  {
+    "idEntity": 1936794,
+    "label": "Santo Stefano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.444013,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 19,
+    "endChar": 32
+  },
+  {
+    "idEntity": 1936795,
+    "label": "Giuseppe Gagini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.397303,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 441,
+    "endChar": 456
+  }
+]

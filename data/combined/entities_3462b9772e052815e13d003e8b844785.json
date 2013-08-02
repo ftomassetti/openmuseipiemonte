@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1924568,
+    "label": "natale",
+    "extractorType": "Holiday",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.953334,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 8,
+    "endChar": 14
+  },
+  {
+    "idEntity": 1924567,
+    "label": "La casa",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Evil_Dead",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 7
+  },
+  {
+    "idEntity": 1924569,
+    "label": "Cesare Pavese",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.598174,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 18,
+    "endChar": 31
+  }
+]

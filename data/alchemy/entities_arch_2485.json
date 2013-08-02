@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1935994,
+    "label": "San Donato",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.950885,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 108,
+    "endChar": 118
+  },
+  {
+    "idEntity": 1935995,
+    "label": "San Donato",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.950885,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 309,
+    "endChar": 319
+  },
+  {
+    "idEntity": 1935996,
+    "label": "San Donato",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.950885,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 363,
+    "endChar": 373
+  },
+  {
+    "idEntity": 1935997,
+    "label": "Pinerolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.717882,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 53,
+    "endChar": 61
+  },
+  {
+    "idEntity": 1935998,
+    "label": "Pinerolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.717882,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 429,
+    "endChar": 437
+  },
+  {
+    "idEntity": 1935999,
+    "label": "Benedetto XIV",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.546171,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 17,
+    "endChar": 30
+  },
+  {
+    "idEntity": 1936000,
+    "label": "San Maurizio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.519605,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 322,
+    "endChar": 334
+  },
+  {
+    "idEntity": 1936001,
+    "label": "Antonio Peruca",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.464256,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 882,
+    "endChar": 896
+  },
+  {
+    "idEntity": 1936002,
+    "label": "Antonio Botalli",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.430551,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 899,
+    "endChar": 914
+  }
+]

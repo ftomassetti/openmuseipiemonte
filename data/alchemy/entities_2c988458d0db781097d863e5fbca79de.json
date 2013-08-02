@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935050,
+    "label": "Museo della Viticoltura",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.922647,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 24,
+    "endChar": 47
+  },
+  {
+    "idEntity": 1935051,
+    "label": "Prarostino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.884706,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 178,
+    "endChar": 188
+  },
+  {
+    "idEntity": 1935052,
+    "label": "Enrico IV",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.846765,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 310,
+    "endChar": 319
+  }
+]

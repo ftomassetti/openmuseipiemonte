@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1935148,
+    "label": "Balme",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.868214,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 68,
+    "endChar": 73
+  },
+  {
+    "idEntity": 1935149,
+    "label": "Balme",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.868214,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 208,
+    "endChar": 213
+  },
+  {
+    "idEntity": 1935150,
+    "label": "Balme",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.868214,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 358,
+    "endChar": 363
+  },
+  {
+    "idEntity": 1935151,
+    "label": "Antonio Castagneri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.64,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 18
+  },
+  {
+    "idEntity": 1935152,
+    "label": "Val Servìn",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.544286,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 845,
+    "endChar": 855
+  }
+]

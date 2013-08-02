@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936441,
+    "label": "Santhià",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.87193,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 210,
+    "endChar": 217
+  },
+  {
+    "idEntity": 1936442,
+    "label": "Gaudenzio Ferrari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.844825,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 155,
+    "endChar": 172
+  },
+  {
+    "idEntity": 1936443,
+    "label": "Franco Rognoni",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.747895,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 306,
+    "endChar": 320
+  },
+  {
+    "idEntity": 1936444,
+    "label": "Giancarlo Cazzaniga",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.691754,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 349,
+    "endChar": 368
+  },
+  {
+    "idEntity": 1936445,
+    "label": "Ugo Nespolo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.67114,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 322,
+    "endChar": 333
+  },
+  {
+    "idEntity": 1936446,
+    "label": "Mario Bardi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.669386,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 335,
+    "endChar": 346
+  }
+]

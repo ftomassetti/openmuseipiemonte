@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1923305,
+    "label": "La chiesa",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/The_Church_%28film%29",
+    "confidence": 0.97,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 140,
+    "endChar": 149
+  },
+  {
+    "idEntity": 1923306,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 277,
+    "endChar": 283
+  },
+  {
+    "idEntity": 1923303,
+    "label": "Susa",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.732927,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 17,
+    "endChar": 21
+  },
+  {
+    "idEntity": 1923304,
+    "label": "Susa",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.732927,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 134,
+    "endChar": 138
+  },
+  {
+    "idEntity": 1923307,
+    "label": "Ignazio Bertola",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.535962,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1068,
+    "endChar": 1083
+  },
+  {
+    "idEntity": 1923308,
+    "label": "Giovanni Antonio Odone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.5283,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1105,
+    "endChar": 1127
+  },
+  {
+    "idEntity": 1923309,
+    "label": "Giuseppe Guglielmino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.507156,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1285,
+    "endChar": 1305
+  }
+]

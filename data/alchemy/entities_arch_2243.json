@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936319,
+    "label": "Vittorio Veneto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.871081,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 300,
+    "endChar": 315
+  },
+  {
+    "idEntity": 1936320,
+    "label": "Carlo Felice",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.829865,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 528,
+    "endChar": 540
+  },
+  {
+    "idEntity": 1936321,
+    "label": "Sambuy",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.768604,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 440,
+    "endChar": 446
+  },
+  {
+    "idEntity": 1936322,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.717252,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 720,
+    "endChar": 726
+  }
+]

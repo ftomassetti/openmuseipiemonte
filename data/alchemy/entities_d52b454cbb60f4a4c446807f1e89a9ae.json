@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936611,
+    "label": "Casalbeltrame",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.922348,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 44,
+    "endChar": 57
+  }
+]

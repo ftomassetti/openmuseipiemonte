@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1924689,
+    "label": "Clavesana",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Clavesana",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 191,
+    "endChar": 200
+  },
+  {
+    "idEntity": 1924688,
+    "label": "Alto",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alto_%28CN%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 57,
+    "endChar": 61
+  }
+]

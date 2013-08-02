@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1935547,
+    "label": "Giuseppe Augusto Levis",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.85933,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 72,
+    "endChar": 94
+  },
+  {
+    "idEntity": 1935548,
+    "label": "Lorenzo Delleani",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.806237,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 119,
+    "endChar": 135
+  },
+  {
+    "idEntity": 1935549,
+    "label": "Chiomonte",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.794553,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 485,
+    "endChar": 494
+  },
+  {
+    "idEntity": 1935550,
+    "label": "Racconigi",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.743522,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 497,
+    "endChar": 506
+  }
+]

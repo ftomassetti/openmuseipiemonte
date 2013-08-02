@@ -1,0 +1,98 @@
+[
+  {
+    "idEntity": 1935100,
+    "label": "Olimpiadi",
+    "extractorType": "SportingEvent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.785387,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 211,
+    "endChar": 220
+  },
+  {
+    "idEntity": 1935101,
+    "label": "Olimpiadi",
+    "extractorType": "SportingEvent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.785387,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1099,
+    "endChar": 1108
+  },
+  {
+    "idEntity": 1935102,
+    "label": "olimpica",
+    "extractorType": "SportingEvent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.721669,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1034,
+    "endChar": 1042
+  },
+  {
+    "idEntity": 1935103,
+    "label": "Vancouver",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.708631,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 84,
+    "endChar": 93
+  },
+  {
+    "idEntity": 1935104,
+    "label": "Museo Regionale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.70119,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 251,
+    "endChar": 266
+  },
+  {
+    "idEntity": 1935105,
+    "label": "Giochi Olimpici",
+    "extractorType": "SportingEvent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.674821,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 56,
+    "endChar": 71
+  },
+  {
+    "idEntity": 1935106,
+    "label": "olimpico",
+    "extractorType": "SportingEvent",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Event",
+    "uri": null,
+    "confidence": 0.668294,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 765,
+    "endChar": 773
+  },
+  {
+    "idEntity": 1935107,
+    "label": "Carolina Kostner",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.63244,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 651,
+    "endChar": 667
+  }
+]

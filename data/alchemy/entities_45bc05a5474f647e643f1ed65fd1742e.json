@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1935487,
+    "label": "Carlo Alberto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.849359,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 66,
+    "endChar": 79
+  },
+  {
+    "idEntity": 1935488,
+    "label": "Guastalla",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.800785,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1186,
+    "endChar": 1195
+  },
+  {
+    "idEntity": 1935489,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.780445,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 791,
+    "endChar": 808
+  },
+  {
+    "idEntity": 1935490,
+    "label": "Carlo Alberto, Vittorio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.74589,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 438,
+    "endChar": 461
+  },
+  {
+    "idEntity": 1935491,
+    "label": "Vittorio Emanuele III",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.693796,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 487,
+    "endChar": 508
+  },
+  {
+    "idEntity": 1935492,
+    "label": "Umberto I",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.669581,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 475,
+    "endChar": 484
+  }
+]

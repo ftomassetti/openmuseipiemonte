@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1924529,
+    "label": "Renato Ratti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.922895,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 23,
+    "endChar": 35
+  },
+  {
+    "idEntity": 1924530,
+    "label": "Alba",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alba%2C_Aragon",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 121,
+    "endChar": 125
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1925676,
+    "label": "Cervo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cervo%2C_Lugo",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 69,
+    "endChar": 74
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936931,
+    "label": "Fabriosa Sottana",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.906169,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 202,
+    "endChar": 218
+  },
+  {
+    "idEntity": 1936932,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.830844,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 463,
+    "endChar": 469
+  }
+]

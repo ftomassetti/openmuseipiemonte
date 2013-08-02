@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936203,
+    "label": "Exilles",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.745985,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 201,
+    "endChar": 208
+  },
+  {
+    "idEntity": 1936204,
+    "label": "Museo Olimpico Torino",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.68382,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1836,
+    "endChar": 1857
+  }
+]

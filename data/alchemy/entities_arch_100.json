@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1935834,
+    "label": "Carlo Ceppi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.980198,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1284,
+    "endChar": 1295
+  },
+  {
+    "idEntity": 1935835,
+    "label": "Domenico della",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.976188,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 525,
+    "endChar": 539
+  },
+  {
+    "idEntity": 1935836,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.952822,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 892,
+    "endChar": 907
+  },
+  {
+    "idEntity": 1935837,
+    "label": "Maria Giovanna Battista",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.946485,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 654,
+    "endChar": 677
+  },
+  {
+    "idEntity": 1935838,
+    "label": "Guarino Guarini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.944752,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 694,
+    "endChar": 709
+  },
+  {
+    "idEntity": 1935839,
+    "label": "Antonio Bertola",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.938812,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 866,
+    "endChar": 881
+  }
+]

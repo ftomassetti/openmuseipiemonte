@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1923955,
+    "label": "Daverio",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Daverio",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 344,
+    "endChar": 351
+  },
+  {
+    "idEntity": 1923954,
+    "label": "Alpi",
+    "extractorType": "MountainRange",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Alps",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 99,
+    "endChar": 103
+  },
+  {
+    "idEntity": 1923953,
+    "label": "Arialdo Daverio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.868316,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 37,
+    "endChar": 52
+  },
+  {
+    "idEntity": 1923956,
+    "label": "Monte Fenera",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.63818,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 977,
+    "endChar": 989
+  }
+]

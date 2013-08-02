@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935551,
+    "label": "Ivrea",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.897058,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 53,
+    "endChar": 58
+  },
+  {
+    "idEntity": 1935552,
+    "label": "Ivrea",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.897058,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 167,
+    "endChar": 172
+  }
+]

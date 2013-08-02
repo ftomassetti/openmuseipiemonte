@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1922577,
+    "label": "Piemonte",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Piedmont",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 531,
+    "endChar": 539
+  },
+  {
+    "idEntity": 1922572,
+    "label": "Francia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/France",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 75,
+    "endChar": 82
+  },
+  {
+    "idEntity": 1922576,
+    "label": "Macugnaga",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Macugnaga",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 467,
+    "endChar": 476
+  },
+  {
+    "idEntity": 1922575,
+    "label": "Mergozzo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Mergozzo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 442,
+    "endChar": 450
+  },
+  {
+    "idEntity": 1922574,
+    "label": "Racconigi",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Racconigi",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 421,
+    "endChar": 430
+  },
+  {
+    "idEntity": 1922571,
+    "label": "Val Cenischia",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.92093,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 42,
+    "endChar": 55
+  },
+  {
+    "idEntity": 1922573,
+    "label": "Napoleone",
+    "extractorType": "Film",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Napol%C3%A9on_%281927_film%29",
+    "confidence": 0.873,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 396,
+    "endChar": 405
+  }
+]

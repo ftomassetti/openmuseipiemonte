@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1924346,
+    "label": "Cuneo",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Cuneo",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 117,
+    "endChar": 122
+  },
+  {
+    "idEntity": 1924343,
+    "label": "San Giacomo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.885833,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 37,
+    "endChar": 48
+  },
+  {
+    "idEntity": 1924344,
+    "label": "San Sebastano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.858452,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 54,
+    "endChar": 67
+  },
+  {
+    "idEntity": 1924345,
+    "label": "Mondovì",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.856071,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 80,
+    "endChar": 87
+  },
+  {
+    "idEntity": 1924347,
+    "label": "San Sebastiano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.842381,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 222,
+    "endChar": 236
+  }
+]

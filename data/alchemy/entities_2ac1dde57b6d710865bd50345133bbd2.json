@@ -1,0 +1,110 @@
+[
+  {
+    "idEntity": 1935074,
+    "label": "Barolo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.889286,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 107,
+    "endChar": 113
+  },
+  {
+    "idEntity": 1935075,
+    "label": "Museo della Scuola",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.888701,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 19,
+    "endChar": 37
+  },
+  {
+    "idEntity": 1935076,
+    "label": "Palazzo Barolo",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.859805,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 99,
+    "endChar": 113
+  },
+  {
+    "idEntity": 1935077,
+    "label": "Pompeo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.769654,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 775,
+    "endChar": 781
+  },
+  {
+    "idEntity": 1935078,
+    "label": "Guido Gozzano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.744221,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 975,
+    "endChar": 988
+  },
+  {
+    "idEntity": 1935079,
+    "label": "Attilio Mussino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.740649,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1056,
+    "endChar": 1071
+  },
+  {
+    "idEntity": 1935080,
+    "label": "Marilena Vagliani",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.719004,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 784,
+    "endChar": 801
+  },
+  {
+    "idEntity": 1935081,
+    "label": "Emilio Salgari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.692922,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1013,
+    "endChar": 1027
+  },
+  {
+    "idEntity": 1935082,
+    "label": "Amalia Guglielminetti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.668571,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 990,
+    "endChar": 1011
+  }
+]

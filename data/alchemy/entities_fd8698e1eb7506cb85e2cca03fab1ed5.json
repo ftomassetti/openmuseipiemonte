@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936552,
+    "label": "Angelo Bozzola",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.92037,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 41,
+    "endChar": 55
+  },
+  {
+    "idEntity": 1936553,
+    "label": "Galliate",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.888889,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 94,
+    "endChar": 102
+  }
+]

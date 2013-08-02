@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1936644,
+    "label": "grande parco",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.702596,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 442,
+    "endChar": 454
+  },
+  {
+    "idEntity": 1936645,
+    "label": "Galeazzo Visconti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.614912,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 32,
+    "endChar": 49
+  },
+  {
+    "idEntity": 1936646,
+    "label": "Palazzo Orelli",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.53193,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 542,
+    "endChar": 556
+  }
+]

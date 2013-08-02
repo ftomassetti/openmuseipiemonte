@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935142,
+    "label": "Fondazione Centro Culturale Valdese",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.839103,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 595,
+    "endChar": 630
+  }
+]

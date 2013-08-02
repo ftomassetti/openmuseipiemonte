@@ -1,0 +1,74 @@
+[
+  {
+    "idEntity": 1936242,
+    "label": "Torino",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.893048,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 178,
+    "endChar": 184
+  },
+  {
+    "idEntity": 1936243,
+    "label": "Emanuele Filiberto",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.861791,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 86,
+    "endChar": 104
+  },
+  {
+    "idEntity": 1936244,
+    "label": "Carlo Morello",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.82213,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 676,
+    "endChar": 689
+  },
+  {
+    "idEntity": 1936245,
+    "label": "Carlo Emanuele I",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.805642,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 233,
+    "endChar": 249
+  },
+  {
+    "idEntity": 1936246,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.79156,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1034,
+    "endChar": 1049
+  },
+  {
+    "idEntity": 1936247,
+    "label": "Ascanio Vitozzi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.779305,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 264,
+    "endChar": 279
+  }
+]

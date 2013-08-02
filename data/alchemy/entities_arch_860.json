@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936528,
+    "label": "Sacro Monte",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.863056,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 32,
+    "endChar": 43
+  },
+  {
+    "idEntity": 1936529,
+    "label": "Bernardino CaÃ¬mi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.835278,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 170,
+    "endChar": 187
+  },
+  {
+    "idEntity": 1936530,
+    "label": "Frati Francescani Minori",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.775208,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 786,
+    "endChar": 810
+  },
+  {
+    "idEntity": 1936531,
+    "label": "Gaudenzio Ferrari",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.765833,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 496,
+    "endChar": 513
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936917,
+    "label": "Attilio Mussino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.925,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 15
+  },
+  {
+    "idEntity": 1936918,
+    "label": "Vernante",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.887113,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 171,
+    "endChar": 179
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1935421,
+    "label": "Val Chisone",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.881026,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 200,
+    "endChar": 211
+  },
+  {
+    "idEntity": 1935422,
+    "label": "Elvis Presley",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.797692,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 892,
+    "endChar": 905
+  }
+]

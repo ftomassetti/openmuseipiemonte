@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936594,
+    "label": "Alessandro Manzoni",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.789672,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 84,
+    "endChar": 102
+  },
+  {
+    "idEntity": 1936595,
+    "label": "Palazzo Stampa",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.73668,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 2,
+    "endChar": 16
+  },
+  {
+    "idEntity": 1936596,
+    "label": "Antonio Rosmini",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.594795,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 297,
+    "endChar": 312
+  },
+  {
+    "idEntity": 1936597,
+    "label": "Giulio Carcano",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.563238,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 346,
+    "endChar": 360
+  }
+]

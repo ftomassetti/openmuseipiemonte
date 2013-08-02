@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936826,
+    "label": "Museo Archeologico",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.923707,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 28,
+    "endChar": 46
+  },
+  {
+    "idEntity": 1936827,
+    "label": "Federico Eusebio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.897989,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 158,
+    "endChar": 174
+  }
+]

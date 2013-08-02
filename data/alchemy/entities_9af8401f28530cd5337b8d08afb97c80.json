@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935007,
+    "label": "San Bernardo",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.845115,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 390,
+    "endChar": 402
+  }
+]

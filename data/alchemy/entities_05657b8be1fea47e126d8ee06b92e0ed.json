@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1935335,
+    "label": "Centro Visitatori",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.749784,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 3,
+    "endChar": 20
+  }
+]

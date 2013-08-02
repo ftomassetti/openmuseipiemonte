@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1924046,
+    "label": "Rovasenda",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Rovasenda",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 1001,
+    "endChar": 1010
+  },
+  {
+    "idEntity": 1924044,
+    "label": "Rovasenda",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Rovasenda",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 458,
+    "endChar": 467
+  },
+  {
+    "idEntity": 1924042,
+    "label": "Rovasenda",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Rovasenda",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 359,
+    "endChar": 368
+  },
+  {
+    "idEntity": 1924045,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 724,
+    "endChar": 730
+  },
+  {
+    "idEntity": 1924041,
+    "label": "Savoia",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Savoie",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 327,
+    "endChar": 333
+  },
+  {
+    "idEntity": 1924040,
+    "label": "Alberto Rovasenda",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.790613,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 9,
+    "endChar": 26
+  },
+  {
+    "idEntity": 1924043,
+    "label": "Alberto di",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.334547,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 447,
+    "endChar": 457
+  }
+]

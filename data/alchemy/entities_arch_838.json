@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1936673,
+    "label": "Novara",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.840471,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 32,
+    "endChar": 38
+  },
+  {
+    "idEntity": 1936674,
+    "label": "Novara",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.840471,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 661,
+    "endChar": 667
+  },
+  {
+    "idEntity": 1936675,
+    "label": "San Giovanni Battista",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.573073,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 965,
+    "endChar": 986
+  },
+  {
+    "idEntity": 1936676,
+    "label": "Umberto Chierici",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.564116,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1084,
+    "endChar": 1100
+  }
+]

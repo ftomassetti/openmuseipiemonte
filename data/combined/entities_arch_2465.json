@@ -1,0 +1,50 @@
+[
+  {
+    "idEntity": 1923207,
+    "label": "Ascanio Vitozzi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.859035,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 154,
+    "endChar": 169
+  },
+  {
+    "idEntity": 1923209,
+    "label": "Benedetto Alfieri",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.796974,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 513,
+    "endChar": 530
+  },
+  {
+    "idEntity": 1923210,
+    "label": "Filippo Juvarra",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.777895,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 611,
+    "endChar": 626
+  },
+  {
+    "idEntity": 1923208,
+    "label": "Francesco Lanfranchi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.765614,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 416,
+    "endChar": 436
+  }
+]

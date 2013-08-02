@@ -1,0 +1,86 @@
+[
+  {
+    "idEntity": 1936744,
+    "label": "Arona",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.895492,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 70,
+    "endChar": 75
+  },
+  {
+    "idEntity": 1936745,
+    "label": "Lago Maggiore",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.893443,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 94,
+    "endChar": 107
+  },
+  {
+    "idEntity": 1936746,
+    "label": "Villa Ponti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.865,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 0,
+    "endChar": 11
+  },
+  {
+    "idEntity": 1936747,
+    "label": "Bartolomeo Pertossi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.840615,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 175,
+    "endChar": 194
+  },
+  {
+    "idEntity": 1936748,
+    "label": "Gian Giacomo Ponti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.771148,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 756,
+    "endChar": 774
+  },
+  {
+    "idEntity": 1936749,
+    "label": "San Carlo",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.768279,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 372,
+    "endChar": 381
+  },
+  {
+    "idEntity": 1936750,
+    "label": "Thomas Edison",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.74082,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 837,
+    "endChar": 850
+  }
+]

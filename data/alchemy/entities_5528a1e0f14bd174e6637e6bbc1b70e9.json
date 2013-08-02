@@ -1,0 +1,14 @@
+[
+  {
+    "idEntity": 1936839,
+    "label": "Palazzo Comunale",
+    "extractorType": "Facility",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.924107,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 12,
+    "endChar": 28
+  }
+]

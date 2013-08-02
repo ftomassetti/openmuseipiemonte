@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936543,
+    "label": "San Pietro",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.687405,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 624,
+    "endChar": 634
+  },
+  {
+    "idEntity": 1936544,
+    "label": "Vercelli",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.683494,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 245,
+    "endChar": 253
+  }
+]

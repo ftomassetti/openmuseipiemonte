@@ -1,0 +1,122 @@
+[
+  {
+    "idEntity": 1936160,
+    "label": "Riccardo Gualino",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.816407,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 24,
+    "endChar": 40
+  },
+  {
+    "idEntity": 1936161,
+    "label": "tennis",
+    "extractorType": "Sport",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Thing",
+    "uri": null,
+    "confidence": 0.603292,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1021,
+    "endChar": 1027
+  },
+  {
+    "idEntity": 1936162,
+    "label": "dell'Europa orientale",
+    "extractorType": "Region",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.594238,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1438,
+    "endChar": 1459
+  },
+  {
+    "idEntity": 1936163,
+    "label": "Gigi Chessa",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.556111,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 290,
+    "endChar": 301
+  },
+  {
+    "idEntity": 1936164,
+    "label": "Italia",
+    "extractorType": "Country",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.54463,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1297,
+    "endChar": 1303
+  },
+  {
+    "idEntity": 1936165,
+    "label": "Fondazione Europea",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.539296,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1232,
+    "endChar": 1250
+  },
+  {
+    "idEntity": 1936166,
+    "label": "Carlo Gatti",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.521148,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 364,
+    "endChar": 375
+  },
+  {
+    "idEntity": 1936167,
+    "label": "dall'Unione Europea",
+    "extractorType": "Organization",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Organization",
+    "uri": null,
+    "confidence": 0.521148,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 1304,
+    "endChar": 1323
+  },
+  {
+    "idEntity": 1936168,
+    "label": "Felice Casorati",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.505667,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 304,
+    "endChar": 319
+  },
+  {
+    "idEntity": 1936169,
+    "label": "Lionello Venturi",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.505074,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 332,
+    "endChar": 348
+  }
+]

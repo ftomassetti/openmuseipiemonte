@@ -1,0 +1,38 @@
+[
+  {
+    "idEntity": 1935715,
+    "label": "Cinzano",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.747175,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 166,
+    "endChar": 173
+  },
+  {
+    "idEntity": 1935716,
+    "label": "Carlo Renato Della",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.718206,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 261,
+    "endChar": 279
+  },
+  {
+    "idEntity": 1935717,
+    "label": "Ludovico Della",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.662316,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 844,
+    "endChar": 858
+  }
+]

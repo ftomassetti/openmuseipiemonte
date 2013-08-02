@@ -1,0 +1,26 @@
+[
+  {
+    "idEntity": 1936006,
+    "label": "San Maurizio",
+    "extractorType": "Person",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Person",
+    "uri": null,
+    "confidence": 0.922706,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 31,
+    "endChar": 43
+  },
+  {
+    "idEntity": 1936007,
+    "label": "Cavour",
+    "extractorType": "City",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.863761,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 504,
+    "endChar": 510
+  }
+]

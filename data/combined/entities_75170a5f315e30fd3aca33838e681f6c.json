@@ -1,0 +1,62 @@
+[
+  {
+    "idEntity": 1924408,
+    "label": "Sambuco",
+    "extractorType": "Settlement",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Sambuco",
+    "confidence": 0.99,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 76,
+    "endChar": 83
+  },
+  {
+    "idEntity": 1924407,
+    "label": "Il Centro",
+    "extractorType": "Newspaper",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Il_Centro",
+    "confidence": 0.9118,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 0,
+    "endChar": 9
+  },
+  {
+    "idEntity": 1924410,
+    "label": "Il Centro",
+    "extractorType": "Newspaper",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Product",
+    "uri": "http://dbpedia.org/resource/Il_Centro",
+    "confidence": 0.9118,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 284,
+    "endChar": 293
+  },
+  {
+    "idEntity": 1924411,
+    "label": "Centro",
+    "extractorType": "AdministrativeRegion",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": "http://dbpedia.org/resource/Centre_%28region%29",
+    "confidence": 0.891,
+    "relevance": 0.5,
+    "extractor": "lupedia",
+    "startChar": 663,
+    "endChar": 669
+  },
+  {
+    "idEntity": 1924409,
+    "label": "della Valle",
+    "extractorType": "GeographicFeature",
+    "nerdType": "http://nerd.eurecom.fr/ontology#Location",
+    "uri": null,
+    "confidence": 0.626857,
+    "relevance": 0.5,
+    "extractor": "alchemyapi",
+    "startChar": 271,
+    "endChar": 282
+  }
+]
