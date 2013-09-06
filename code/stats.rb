@@ -1,23 +1,19 @@
 require 'json'
 
-class CountingMap
+class CountingMap < Hash
 
 	def initialize
-		@map = {}
+		super do |h,k|
+			h[k] = 0
+		end
 	end
 
 	def inc(key)
-		@map[key] = 0 unless @map[key]
-		@map[key] = @map[key]+1
+		self[key] += 1
 	end
 
 	def value(key)
-		@map[key] = 0 unless @map[key]
-		@map[key]
-	end
-
-	def each(&block)
-		@map.each(&block)
+		self[key]
 	end
 
 end
@@ -63,24 +59,3 @@ connections.each do |id1,sub|
 		end
 	end
 end
-
-# for_entities.each do |k,v|
-# 	if v.count > 5
-# 		puts "Entity: #{k}"
-# 		v.each do |id|
-# 			puts "\t* #{id}"
-# 		end
-# 	end
-# end
-
-
-
-
-# freq_freq = CountingMap.new
-# freq.each do |k,v|
-# 	puts "#{k} = #{v}"
-# 	freq_freq.inc v
-# end
-# freq_freq.each do |k,v|
-# 	puts "#{k} = #{v}"
-# end
